@@ -912,21 +912,40 @@
                 // Constrain to boundaries
                 const nextPixels = Math.max(Math.min(nextPixelsUnconstrained, 0), maxScroll);
 
-                // Calculate percentage for image parallax (0 to -100)
-                const percentage = maxScroll !== 0 ? (nextPixels / maxScroll) * 100 : 0;
-
                 track.dataset.prevPixels = nextPixels;
-                track.dataset.percentage = percentage;
 
                 track.animate({
                     transform: `translate(${nextPixels}px, -50%)`
                 }, { duration: 1200, fill: "forwards" });
 
-                const images = track.querySelectorAll('.book-cover img');
-                for(const image of images) {
-                    // Parallax: as track moves left (negative), images pan from left (0%) to right (100%)
+                // Update each image's parallax based on its position in the viewport
+                updateParallax();
+            };
+
+            const updateParallax = () => {
+                const cards = track.querySelectorAll('.book-card');
+
+                for(const card of cards) {
+                    const image = card.querySelector('.book-cover img');
+                    if (!image) continue;
+
+                    // Get card position relative to viewport
+                    const rect = card.getBoundingClientRect();
+                    const cardCenter = rect.left + rect.width / 2;
+                    const viewportCenter = window.innerWidth / 2;
+
+                    // Calculate how far the card is from viewport center
+                    // Range from -viewport width to +viewport width
+                    const distanceFromCenter = cardCenter - viewportCenter;
+
+                    // Convert to percentage (0% = left of screen, 50% = center, 100% = right of screen)
+                    const viewportPercentage = 50 + (distanceFromCenter / window.innerWidth) * 50;
+
+                    // Clamp between 0 and 100
+                    const imagePosition = Math.max(0, Math.min(100, viewportPercentage));
+
                     image.animate({
-                        objectPosition: `${100 + percentage}% center`
+                        objectPosition: `${imagePosition}% center`
                     }, { duration: 1200, fill: "forwards" });
                 }
             };
@@ -940,6 +959,9 @@
             window.addEventListener('touchstart', e => handleOnDown(e.touches[0]));
             window.addEventListener('touchend', e => handleOnUp());
             window.addEventListener('touchmove', e => handleOnMove(e.touches[0]));
+
+            // Initialize parallax on load
+            setTimeout(updateParallax, 100);
         }
 
         // Initialize scroll indicator
