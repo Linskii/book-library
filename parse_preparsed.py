@@ -182,8 +182,8 @@ def search_google_books(title: str, author: str) -> Optional[Dict]:
                 # Convert http to https and upgrade to higher resolution
                 if result['cover_url']:
                     result['cover_url'] = result['cover_url'].replace('http://', 'https://')
-                    # Upgrade zoom level from 1 to 5 for much higher quality images
-                    result['cover_url'] = result['cover_url'].replace('zoom=1', 'zoom=5')
+                    # Upgrade zoom level to maximum quality - zoom=50 provides ultra-high resolution
+                    result['cover_url'] = result['cover_url'].replace('zoom=1', 'zoom=50')
 
             return result
 
