@@ -95,7 +95,7 @@
 
         .carousel-track {
             position: absolute;
-            left: 50%;
+            left: 0;
             display: flex;
             align-items: center;
         }
@@ -897,12 +897,15 @@
             const gap = 48; // 3rem = 48px
             const stepSize = cardWidth + gap;
 
+            // Start with first card centered
+            const viewportWidth = window.innerWidth;
+            carouselPosition = (viewportWidth / 2) - (cardWidth / 2);
+
             // Update positions and opacity
             function updateCarousel() {
                 track.style.transform = `translateX(${carouselPosition}px)`;
 
                 // Calculate viewport center
-                const viewportWidth = window.innerWidth;
                 const viewportCenter = viewportWidth / 2;
 
                 cards.forEach((card, index) => {
@@ -952,8 +955,8 @@
                 carouselPosition -= scrollAmount;
 
                 // Constrain position (don't scroll past ends)
-                const maxScroll = 0;
-                const minScroll = -(stepSize * (cards.length - 1));
+                const maxScroll = (viewportWidth / 2) - (cardWidth / 2); // First card centered
+                const minScroll = maxScroll - (stepSize * (cards.length - 1)); // Last card centered
                 carouselPosition = Math.max(minScroll, Math.min(maxScroll, carouselPosition));
 
                 updateCarousel();
