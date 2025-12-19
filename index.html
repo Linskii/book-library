@@ -122,6 +122,57 @@
             flex-wrap: wrap;
         }
 
+        .scroll-indicator {
+            position: fixed;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 100;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
+        }
+
+        .scroll-indicator.visible {
+            opacity: 1;
+        }
+
+        .scroll-indicator-content {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+            backdrop-filter: blur(10px);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.75rem;
+            min-width: 200px;
+        }
+
+        .scroll-date {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: white;
+            text-align: center;
+        }
+
+        .scroll-progress-bar {
+            width: 150px;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .scroll-progress-fill {
+            height: 100%;
+            background: white;
+            border-radius: 3px;
+            width: 0%;
+            transition: width 0.1s ease;
+        }
+
         .chip {
             padding: 0.5rem 1rem;
             border-radius: 20px;
@@ -462,6 +513,16 @@
         </div>
     </div>
 
+    <!-- Scroll Progress Indicator -->
+    <div id="scrollIndicator" class="scroll-indicator">
+        <div class="scroll-indicator-content">
+            <span class="scroll-date">📅 <span id="currentDate">2006</span></span>
+            <div class="scroll-progress-bar">
+                <div id="scrollProgress" class="scroll-progress-fill"></div>
+            </div>
+        </div>
+    </div>
+
     <!-- Book Detail Modal -->
     <div id="bookModal" class="modal">
         <div class="modal-content">
@@ -783,8 +844,64 @@
             }
         });
 
+        // Initialize scroll indicator
+        function initializeScrollIndicator() {
+            const indicator = document.getElementById('scrollIndicator');
+            const dateDisplay = document.getElementById('currentDate');
+            const progressFill = document.getElementById('scrollProgress');
+            const months = ['Jan', 'Feb', 'Mär', 'Apr', 'Mai', 'Jun',
+                          'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez'];
+
+            let hideTimeout;
+
+            window.addEventListener('scroll', () => {
+                const bookCards = document.querySelectorAll('.book-card');
+                if (bookCards.length === 0) return;
+
+                // Show indicator
+                indicator.classList.add('visible');
+                clearTimeout(hideTimeout);
+
+                // Find which book is currently in the center of viewport
+                const viewportCenter = window.innerHeight / 2 + window.scrollY;
+                let closestCard = null;
+                let closestDistance = Infinity;
+
+                bookCards.forEach(card => {
+                    const cardRect = card.getBoundingClientRect();
+                    const cardCenter = cardRect.top + window.scrollY + cardRect.height / 2;
+                    const distance = Math.abs(cardCenter - viewportCenter);
+
+                    if (distance < closestDistance) {
+                        closestDistance = distance;
+                        closestCard = card;
+                    }
+                });
+
+                if (closestCard) {
+                    const index = Array.from(bookCards).indexOf(closestCard);
+                    const book = filteredBooks[index];
+
+                    if (book && book.year) {
+                        const monthStr = book.month ? months[book.month - 1] + ' ' : '';
+                        dateDisplay.textContent = `${monthStr}${book.year}`;
+                    }
+
+                    // Update progress bar
+                    const progress = (index / (bookCards.length - 1)) * 100;
+                    progressFill.style.width = `${progress}%`;
+                }
+
+                // Hide indicator after 2 seconds of no scrolling
+                hideTimeout = setTimeout(() => {
+                    indicator.classList.remove('visible');
+                }, 2000);
+            });
+        }
+
         // Load books on page load
         loadBooks();
+        initializeScrollIndicator();
     </script>
 </body>
 </html>
