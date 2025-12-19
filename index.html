@@ -204,6 +204,13 @@
             cursor: grab;
             user-select: none;
             padding: 2rem 0;
+            -webkit-user-drag: none;
+        }
+
+        .books-carousel-container img {
+            pointer-events: none;
+            user-select: none;
+            -webkit-user-drag: none;
         }
 
         .books-carousel-container.grabbing {
@@ -1064,17 +1071,24 @@
                 lastTime = currentTime;
             }, { passive: true });
 
-            // Momentum scrolling
+            // Momentum scrolling with smooth velocity decay
             function applyMomentum() {
-                const friction = 0.95;
-                const minVelocity = 0.5;
+                // Adjust friction based on velocity - higher velocity = less friction initially
+                const baseFriction = 0.92;
+                const minVelocity = 0.1;
+
+                // Amplify the velocity for a more dramatic effect
+                velocity *= 2.5;
 
                 function momentumStep() {
                     if (Math.abs(velocity) > minVelocity) {
-                        scrollLeft -= velocity * 15;
+                        // Dynamic friction - slows down more as velocity decreases
+                        const dynamicFriction = baseFriction + (1 - baseFriction) * (1 - Math.min(Math.abs(velocity) / 20, 1));
+
+                        scrollLeft -= velocity * 8;
                         scrollLeft = Math.max(0, Math.min(scrollLeft, carousel.scrollWidth - container.offsetWidth));
                         carousel.style.transform = `translateX(-${scrollLeft}px)`;
-                        velocity *= friction;
+                        velocity *= dynamicFriction;
                         animationFrame = requestAnimationFrame(momentumStep);
                     } else {
                         carousel.style.transition = 'transform 0.3s ease-out';
