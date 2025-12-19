@@ -197,11 +197,25 @@
             color: white;
         }
 
-        .books-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 2rem;
+        .books-carousel-container {
             margin-top: 2rem;
+            position: relative;
+            overflow: hidden;
+            cursor: grab;
+            user-select: none;
+            padding: 2rem 0;
+        }
+
+        .books-carousel-container.grabbing {
+            cursor: grabbing;
+        }
+
+        .books-carousel {
+            display: flex;
+            gap: 2rem;
+            padding: 0 2rem;
+            transition: transform 0.1s ease-out;
+            will-change: transform;
         }
 
         .book-card {
@@ -211,6 +225,9 @@
             transition: all 0.3s ease;
             border: 1px solid var(--border);
             cursor: pointer;
+            flex-shrink: 0;
+            width: 280px;
+            pointer-events: auto;
         }
 
         .book-card:hover {
@@ -455,13 +472,24 @@
             transform: rotate(90deg);
         }
 
+        .carousel-hint {
+            text-align: center;
+            color: var(--text-secondary);
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            opacity: 0.7;
+        }
+
         @media (max-width: 768px) {
             .hero h1 {
                 font-size: 2rem;
             }
 
-            .books-grid {
-                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            .book-card {
+                width: 220px;
+            }
+
+            .books-carousel {
                 gap: 1.5rem;
             }
 
@@ -644,16 +672,30 @@
                 return;
             }
 
-            const grid = document.createElement('div');
-            grid.className = 'books-grid';
+            const carouselContainer = document.createElement('div');
+            carouselContainer.className = 'books-carousel-container';
+
+            const carousel = document.createElement('div');
+            carousel.className = 'books-carousel';
+            carousel.id = 'booksCarousel';
 
             filteredBooks.forEach(book => {
                 const card = createBookCard(book);
-                grid.appendChild(card);
+                carousel.appendChild(card);
             });
 
+            carouselContainer.appendChild(carousel);
+
+            const hint = document.createElement('div');
+            hint.className = 'carousel-hint';
+            hint.textContent = '← Ziehe zum Durchblättern →';
+
             container.innerHTML = '';
-            container.appendChild(grid);
+            container.appendChild(carouselContainer);
+            container.appendChild(hint);
+
+            // Initialize drag functionality
+            initializeDragScroll(carouselContainer, carousel);
         }
 
         // Create book card
@@ -897,6 +939,160 @@
                     indicator.classList.remove('visible');
                 }, 2000);
             });
+        }
+
+        // Initialize drag scroll functionality
+        function initializeDragScroll(container, carousel) {
+            let isDown = false;
+            let startX;
+            let scrollLeft = 0;
+            let velocity = 0;
+            let lastX = 0;
+            let lastTime = 0;
+            let animationFrame;
+            let isDragging = false;
+
+            // Mouse events
+            container.addEventListener('mousedown', (e) => {
+                isDown = true;
+                isDragging = false;
+                container.classList.add('grabbing');
+                startX = e.pageX - container.offsetLeft;
+                lastX = e.pageX;
+                lastTime = Date.now();
+                velocity = 0;
+                cancelAnimationFrame(animationFrame);
+                carousel.style.transition = 'none';
+            });
+
+            container.addEventListener('mouseleave', () => {
+                if (isDown) {
+                    isDown = false;
+                    container.classList.remove('grabbing');
+                    applyMomentum();
+                }
+            });
+
+            container.addEventListener('mouseup', () => {
+                if (isDown) {
+                    isDown = false;
+                    container.classList.remove('grabbing');
+                    applyMomentum();
+
+                    // If we barely moved, allow click
+                    if (!isDragging) {
+                        carousel.style.transition = 'transform 0.1s ease-out';
+                    }
+                }
+            });
+
+            container.addEventListener('mousemove', (e) => {
+                if (!isDown) return;
+                e.preventDefault();
+
+                const currentX = e.pageX;
+                const currentTime = Date.now();
+                const dx = currentX - lastX;
+                const dt = currentTime - lastTime;
+
+                if (Math.abs(dx) > 3) {
+                    isDragging = true;
+                }
+
+                if (dt > 0) {
+                    velocity = dx / dt;
+                }
+
+                const x = e.pageX - container.offsetLeft;
+                const walk = (x - startX) * 1.5;
+                scrollLeft -= walk;
+                scrollLeft = Math.max(0, Math.min(scrollLeft, carousel.scrollWidth - container.offsetWidth));
+                carousel.style.transform = `translateX(-${scrollLeft}px)`;
+                startX = x;
+                lastX = currentX;
+                lastTime = currentTime;
+            });
+
+            // Touch events for mobile
+            container.addEventListener('touchstart', (e) => {
+                isDown = true;
+                isDragging = false;
+                const touch = e.touches[0];
+                startX = touch.pageX - container.offsetLeft;
+                lastX = touch.pageX;
+                lastTime = Date.now();
+                velocity = 0;
+                cancelAnimationFrame(animationFrame);
+                carousel.style.transition = 'none';
+            }, { passive: true });
+
+            container.addEventListener('touchend', () => {
+                if (isDown) {
+                    isDown = false;
+                    applyMomentum();
+
+                    if (!isDragging) {
+                        carousel.style.transition = 'transform 0.1s ease-out';
+                    }
+                }
+            }, { passive: true });
+
+            container.addEventListener('touchmove', (e) => {
+                if (!isDown) return;
+
+                const touch = e.touches[0];
+                const currentX = touch.pageX;
+                const currentTime = Date.now();
+                const dx = currentX - lastX;
+                const dt = currentTime - lastTime;
+
+                if (Math.abs(dx) > 3) {
+                    isDragging = true;
+                }
+
+                if (dt > 0) {
+                    velocity = dx / dt;
+                }
+
+                const x = touch.pageX - container.offsetLeft;
+                const walk = (x - startX) * 1.5;
+                scrollLeft -= walk;
+                scrollLeft = Math.max(0, Math.min(scrollLeft, carousel.scrollWidth - container.offsetWidth));
+                carousel.style.transform = `translateX(-${scrollLeft}px)`;
+                startX = x;
+                lastX = currentX;
+                lastTime = currentTime;
+            }, { passive: true });
+
+            // Momentum scrolling
+            function applyMomentum() {
+                const friction = 0.95;
+                const minVelocity = 0.5;
+
+                function momentumStep() {
+                    if (Math.abs(velocity) > minVelocity) {
+                        scrollLeft -= velocity * 15;
+                        scrollLeft = Math.max(0, Math.min(scrollLeft, carousel.scrollWidth - container.offsetWidth));
+                        carousel.style.transform = `translateX(-${scrollLeft}px)`;
+                        velocity *= friction;
+                        animationFrame = requestAnimationFrame(momentumStep);
+                    } else {
+                        carousel.style.transition = 'transform 0.3s ease-out';
+                    }
+                }
+
+                if (Math.abs(velocity) > minVelocity) {
+                    momentumStep();
+                }
+            }
+
+            // Prevent card click when dragging
+            carousel.addEventListener('click', (e) => {
+                if (isDragging) {
+                    e.stopPropagation();
+                    e.preventDefault();
+                }
+            }, true);
         }
 
         // Load books on page load
