@@ -249,10 +249,10 @@
         }
 
         .book-cover img {
-            width: 100%;
-            height: 100%;
+            width: 120%;
+            height: 120%;
             object-fit: cover;
-            object-position: 100% center;
+            object-position: 50% center;
         }
 
         .book-info {
@@ -666,7 +666,7 @@
             grid.className = 'books-grid';
             grid.id = 'image-track';
             grid.dataset.mouseDownAt = "0";
-            grid.dataset.prevPercentage = "0";
+            grid.dataset.prevPixels = "0";
             grid.dataset.percentage = "0";
 
             filteredBooks.forEach(book => {
@@ -888,29 +888,45 @@
 
             const handleOnUp = () => {
                 track.dataset.mouseDownAt = "0";
-                track.dataset.prevPercentage = track.dataset.percentage;
+                track.dataset.prevPixels = track.dataset.prevPixels || "0";
             };
 
             const handleOnMove = e => {
                 if(track.dataset.mouseDownAt === "0") return;
 
                 const mouseDelta = parseFloat(track.dataset.mouseDownAt) - e.clientX;
-                const maxDelta = window.innerWidth / 2;
 
-                const percentage = (mouseDelta / maxDelta) * -100;
-                const nextPercentageUnconstrained = parseFloat(track.dataset.prevPercentage) + percentage;
-                const nextPercentage = Math.max(Math.min(nextPercentageUnconstrained, 0), -100);
+                // Use fixed sensitivity for consistent drag speed regardless of number of books
+                const sensitivity = 0.5; // Lower = slower, higher = faster
+                const pixelDelta = mouseDelta * sensitivity;
 
-                track.dataset.percentage = nextPercentage;
+                // Get previous position in pixels
+                const prevPixels = parseFloat(track.dataset.prevPixels || "0");
+                const nextPixelsUnconstrained = prevPixels - pixelDelta;
+
+                // Calculate boundaries
+                const trackWidth = track.scrollWidth;
+                const containerWidth = track.parentElement.offsetWidth;
+                const maxScroll = containerWidth - trackWidth;
+
+                // Constrain to boundaries
+                const nextPixels = Math.max(Math.min(nextPixelsUnconstrained, 0), maxScroll);
+
+                // Calculate percentage for image parallax (0 to -100)
+                const percentage = maxScroll !== 0 ? (nextPixels / maxScroll) * 100 : 0;
+
+                track.dataset.prevPixels = nextPixels;
+                track.dataset.percentage = percentage;
 
                 track.animate({
-                    transform: `translate(${nextPercentage}%, -50%)`
+                    transform: `translate(${nextPixels}px, -50%)`
                 }, { duration: 1200, fill: "forwards" });
 
                 const images = track.querySelectorAll('.book-cover img');
                 for(const image of images) {
+                    // Parallax: as track moves left (negative), images pan from left (0%) to right (100%)
                     image.animate({
-                        objectPosition: `${100 + nextPercentage}% center`
+                        objectPosition: `${100 + percentage}% center`
                     }, { duration: 1200, fill: "forwards" });
                 }
             };
