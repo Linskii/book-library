@@ -17,7 +17,7 @@
     ],
     "language": "de",
     "isbn": "9783947022021",
-    "cover_url": "https://books.google.com/books/content?id=_FbHDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=_FbHDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Lennox, Judith",
@@ -37,7 +37,7 @@
     ],
     "language": "de",
     "isbn": "9783492953450",
-    "cover_url": "https://books.google.com/books/content?id=WroUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=WroUAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Sparks, Nicholas",
@@ -57,7 +57,7 @@
     ],
     "language": "de",
     "isbn": "9783641060107",
-    "cover_url": "https://books.google.com/books/content?id=dgc_BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=dgc_BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Sparks, Nicholas",
@@ -77,7 +77,7 @@
     ],
     "language": "de",
     "isbn": "9783641060091",
-    "cover_url": "https://books.google.com/books/content?id=N3fuDNQ06J8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=N3fuDNQ06J8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Sparks, Nicholas",
@@ -88,14 +88,16 @@
     "location": null,
     "notes": "zum heulen",
     "description": "Beaufort, North Carolina im Jahre 1958. Es ist das letzte Highschool-Jahr für Landon, als er sich beim Schulball notgedrungen mit der Aussenseiterin Jamie arrangieren muss. Doch zwischen dem ungleichen Paar entwickelt sich ein unge- wöhnlich intensive Liebesbeziehung, die auch von einem schweren Schicksalsschlag nicht erschüttert werden kann.",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "KU8w2RiejXEC",
+    "publisher": "Heyne Verlag",
+    "published_date": "2013-03-25",
+    "page_count": 156,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783641060169",
+    "cover_url": "https://books.google.com/books/content?id=KU8w2RiejXEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Patterson, James",
@@ -133,7 +135,7 @@
     ],
     "language": "de",
     "isbn": "9783641060138",
-    "cover_url": "https://books.google.com/books/content?id=OGdFBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=OGdFBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Sparks, Nicholas",
@@ -153,7 +155,7 @@
     ],
     "language": "de",
     "isbn": "9783641060121",
-    "cover_url": "https://books.google.com/books/content?id=2c7nmmhxXNAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=2c7nmmhxXNAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Sparks, Nicholas",
@@ -173,7 +175,7 @@
     ],
     "language": "de",
     "isbn": "9783641134983",
-    "cover_url": "https://books.google.com/books/content?id=k6cdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=k6cdAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Sparks, Nicholas",
@@ -193,7 +195,7 @@
     ],
     "language": "de",
     "isbn": "9783641060077",
-    "cover_url": "https://books.google.com/books/content?id=5f2Kg2W4-9MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=5f2Kg2W4-9MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Sparks, Nicholas",
@@ -213,7 +215,7 @@
     ],
     "language": "de",
     "isbn": "9783641060114",
-    "cover_url": "https://books.google.com/books/content?id=mwc_BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=mwc_BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Link, Charlotte",
@@ -233,7 +235,7 @@
     ],
     "language": "de",
     "isbn": "9783641138110",
-    "cover_url": "https://books.google.com/books/content?id=7lidAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=7lidAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Mawson, Robert",
@@ -251,7 +253,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3442446783",
-    "cover_url": "https://books.google.com/books/content?id=bsQSAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=bsQSAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Gier, Kerstin",
@@ -271,7 +273,7 @@
     ],
     "language": "de",
     "isbn": "9783838700663",
-    "cover_url": "https://books.google.com/books/content?id=ZJ71_qBICesC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ZJ71_qBICesC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Gier, Kerstin",
@@ -291,7 +293,7 @@
     ],
     "language": "de",
     "isbn": "9783838700632",
-    "cover_url": "https://books.google.com/books/content?id=ktQPg_1rDmcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ktQPg_1rDmcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Süskind, Patrick",
@@ -311,7 +313,7 @@
     ],
     "language": "de",
     "isbn": "9783257601756",
-    "cover_url": "https://books.google.com/books/content?id=PWttAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=PWttAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Roberts, Nora",
@@ -319,26 +321,6 @@
     "series_volume": null,
     "year": 2007,
     "month": 10,
-    "location": null,
-    "notes": null,
-    "description": "Spannend, romantisch, sexy und geheimnisvoll! Declan Fitzgerald verlässt seine Bostoner Anwaltskanzlei, um sich einen alten Traum zu erfüllen: Er möchte Manet Hall in neuem Glanz auferstehen lassen, ein altes Plantagenhaus in der Nähe von New Orleans. Bei der Renovierung stößt er jedoch auf die dunkle Vergangenheit des Hauses – ein Verbrechen, das vor hundert Jahren auf Manet Hall geschah. Nur die junge Angelina Simone schenkt ihm Glauben. Gemeinsam müssen sie das Geheimnis lösen – für die Liebe ihres Lebens ...",
-    "google_books_id": "AlO8cl2ygAsC",
-    "publisher": "Limes Verlag",
-    "published_date": "2003-01-01",
-    "page_count": 462,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783894807771",
-    "cover_url": "https://books.google.com/books/content?id=AlO8cl2ygAsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "author": "Safier, David",
-    "title": "Mieses Karma",
-    "series_volume": null,
-    "year": 2007,
-    "month": 11,
     "location": null,
     "notes": null,
     "description": null,
@@ -350,6 +332,26 @@
     "language": null,
     "isbn": null,
     "cover_url": null
+  },
+  {
+    "author": "Safier, David",
+    "title": "Mieses Karma",
+    "series_volume": null,
+    "year": 2007,
+    "month": 11,
+    "location": null,
+    "notes": null,
+    "description": "Die Wiedergeburt von «Mieses Karma» Die Gelegenheitsschauspielerin Daisy Becker trinkt, raucht und bestiehlt auch schon mal ihre WG-Genossen. Mit Mitte zwanzig hat sie noch immer keine Ahnung, was sie mit ihrem Leben eigentlich anfangen will. Noch viel weniger weiß sie, was das Wort «Liebe» eigentlich bedeutet. Und sie wird es in diesem Leben auch nicht mehr erfahren, gerät sie doch in einen tödlichen Autounfall mit dem arroganten Hollywoodstar Marc Barton. Daisy und Marc werden als Ameisen wiedergeboren und erfahren von Buddha, dass sie in ihrem Leben zu viel mieses Karma angesammelt haben. Allerdings haben die beiden nur wenig Lust, fortan als Ameisensoldaten in den Krieg zu ziehen. Außerdem wollen sie um jeden Preis verhindern, dass Daisys bester Freund, von dem sie erst jetzt erkennt, was sie für ihn empfindet, und Marcs Ehefrau ein Paar werden. Was also tun? Gutes Karma sammeln, um die Reinkarnationsleiter über die Stufen Goldfisch–Storch–Schnecke hochzuklettern und wieder zu Menschen zu werden! Doch das ist nicht so einfach, wenn man sich nicht ausstehen kann und sich gegenseitig die Schuld an dem Unfalltod gibt. Und noch viel schwerer wird es, wenn man sich trotz allem ineinander verliebt ... Für alle Fans des Millionensellers «Mieses Karma»: noch mehr Humor und Wahrheit von David Safier.",
+    "google_books_id": "lynzCAAAQBAJ",
+    "publisher": "Rowohlt Verlag GmbH",
+    "published_date": "2015-10-30",
+    "page_count": 394,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783644314917",
+    "cover_url": "https://books.google.com/books/content?id=lynzCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Link, Charlotte",
@@ -369,7 +371,7 @@
     ],
     "language": "de",
     "isbn": "9783641051914",
-    "cover_url": "https://books.google.com/books/content?id=2UxP7Je7FKgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=2UxP7Je7FKgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Link, Charlotte",
@@ -379,15 +381,17 @@
     "month": 12,
     "location": null,
     "notes": null,
-    "description": null,
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "description": "Ein dunkles Geheimnis umgibt das alte Rosenzüchterhaus von Le Variouf. Alle Spuren scheinen in die Vergangenheit seiner Bewohnerinnen zu weisen. Und eines Tages gibt es erneut eine Tote in Le Variouf ... Atemlose Gänsehaut bis zur letzten Seite! Die junge Lehrerin Franca Palmer ist am Ende. Hals über Kopf verlässt sie ihr wohlsituiertes Zuhause in Berlin und flüchtet auf die Kanalinsel Guernsey. Dort mietet sie sich in einem alten Rosenzüchterhaus in Le Variouf ein, und innerhalb kurzer Zeit entwickelt sich zwischen ihr und ihrer Gastgeberin Beatrice Shaye eine seltsam distanzierte Freundschaft. Die ältere Frau lebt auf dem Anwesen in einer undurchschaubaren Schicksalsgemeinschaft mit Helene Feldmann zusammen, die geprägt ist von Hass und Abneigung. Beide Frauen wirken auf geheimnisvolle Weise aneinander gekettet - seit dem Jahr 1945, als Beatrice während der Besetzung der Kanalinseln durch die deutschen Truppen von Helene und ihrem Mann Erich, einem hohen Offizier, wie ein eigenes Kind aufgenommen wurde und sich das Schicksal der beiden Frauen für immer wendete ... Millionen Fans sind von den fesselnden Krimis von Charlotte Link begeistert. Dunkle Geheimnisse und spannende Mordfälle erwarten Sie. Alle Bücher können unabhängig voneinander gelesen werden.",
+    "google_books_id": "-bsvO8fqfK8C",
+    "publisher": "Blanvalet Verlag",
+    "published_date": "2011-06-20",
+    "page_count": 567,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783641051921",
+    "cover_url": "https://books.google.com/books/content?id=-bsvO8fqfK8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Link, Charlotte",
@@ -407,7 +411,7 @@
     ],
     "language": "de",
     "isbn": "9783641051860",
-    "cover_url": "https://books.google.com/books/content?id=2RFlCGihmOcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=2RFlCGihmOcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Link, Charlotte",
@@ -427,7 +431,7 @@
     ],
     "language": "de",
     "isbn": "9783894805715",
-    "cover_url": "https://books.google.com/books/content?id=dYyljVhfsdgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=dYyljVhfsdgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Levy, Marc",
@@ -437,15 +441,17 @@
     "month": 2,
     "location": null,
     "notes": null,
-    "description": null,
-    "google_books_id": "LjzPngEACAAJ",
+    "description": "\"Jonathan and Anna are in the final stages of planning their Bostonian high-society wedding, when Peter, an auctioneer for Christie's and Jonathan's best friend, calls with news that will change all of their lives. He has just been informed that a small London art gallery has come in to possession of five canvases by the 19th century artist, Vladimir Radskin. Jonathan, the world's foremost expert on Radskin, immediately understands the significance of the information. If the gallery indeed has five paintings, then the collection could very well include Radskin's final canvas--a painting that has become legendary ever since it went missing in mysterious circumstances before its public unveiling in 1868. For Jonathan, who has spent the last twenty years of his career searching for this painting, its discovery and authentication would finally establish the under-appreciated Radskin as a true master. For Peter, whose recent auctions have come under fire from the critics, an ensuing high-profile sale would represent an opportunity to salvage his career. When Jonathan meets Clara, the owner of the London gallery, he is overwhelmed by a vertiginous sense of déjà-vu. But in the desperate rush to authenticate the fifth painting, he simply puts this strange feeling down to their shared passion for the late Russian painter. He and Clara are both convinced that this breath-taking painting is Radskin's mythical last work, but they need proof: for The Young Girl in the Red Dress is unsigned. Their quest takes them from a gallery in Piccadilly to a paint workshop in Florence, from a laboratory in the Louvre to a mysterious manor in the English countryside. The more Jonathan and Clara uncover about Radskin's last painting, the more they discover about themselves: three very different lives, three inextricably intertwined destinies, caught in a race against time\"--Author's website.",
+    "google_books_id": "OUm8PAAACAAJ",
     "publisher": null,
-    "published_date": "2014-07-21",
-    "page_count": 283,
-    "categories": [],
+    "published_date": "2006",
+    "page_count": null,
+    "categories": [
+      "Art"
+    ],
     "language": "de",
-    "isbn": "3442382386",
-    "cover_url": "https://books.google.com/books/content?id=LjzPngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "isbn": "3426633469",
+    "cover_url": "https://books.google.com/books/content?id=OUm8PAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Sendker, Jan-Philipp",
@@ -456,14 +462,16 @@
     "location": null,
     "notes": null,
     "description": "Die junge New Yorker Anwältin Julia Win hat sich noch nie so fremd Gefühlt wie in Kalaw, einem Dorf in den Bergen Birmas. Hierher hat sie die Suche nach ihrem Vater geführt, der vor vier Jahren plötzlich verschwunden war. Ein vierzig Jahre alter Liebesbrief von ihm, gerichtet an eine Unbekannte, hatte sie auf die Spur gebracht.",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "jcSh9eL45b8C",
+    "publisher": "Heyne Verlag",
+    "published_date": "2012-07-12",
+    "page_count": 267,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783641092597",
+    "cover_url": "https://books.google.com/books/content?id=jcSh9eL45b8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Sebold, Alice",
@@ -473,13 +481,13 @@
     "month": 4,
     "location": null,
     "notes": null,
-    "description": null,
-    "google_books_id": null,
+    "description": "In meinem Himmel von Alice Sebold - Endlich verständlich mit der Lektürehilfe von derQuerleser!ÿ Diese klare und zuverlässige Analyse von Alice Sebolds In meinem Himmel aus dem Jahre 2002 hilft Dir dabei, den Bestseller schnell in seinen wichtigsten Punkten zu erfassen. Als Susie 14 Jahre alt ist, wird sie vergewaltigt und ermordet. Aus ihrem Himmel beschreibt sie nun, wie ihre Familie und Freunde mit ihrem Tod umgehen und was sie selbst dabei fühlt. In dieser Lektürehilfe sind enthalten:ÿ Eine vollständige Inhaltsangabe Eine übersichtliche Analyse der Hauptfiguren mit interessanten Details Eine leicht verständliche Interpretation der wesentlichen Themen Fragen zur Vertiefungÿ Warum derQuerleser?ÿ Egal ob Du Literaturliebhaber mit wenig Zeit zum Lesen, Lesemuffel oder Schüler in der Prüfungsvorbereitung bist, die Analysereihe derQuerleser bietet Dir sofort zugängliches Wissen über literarische Werke - ganz klassisch als Buch oder natürlich auf Deinem Computer, Tablet oder Smartphone! Viele unserer Lektürehilfen enthalten zudem Verweise auf Sekundärliteratur und Adaptionen, die die Übersicht sinnvoll ergänzen. Literatur auf den Punkt gebracht mit derQuerleser!",
+    "google_books_id": "W0TRzgEACAAJ",
     "publisher": null,
-    "published_date": null,
-    "page_count": null,
+    "published_date": "2019",
+    "page_count": 48,
     "categories": [],
-    "language": null,
+    "language": "de",
     "isbn": null,
     "cover_url": null
   },
@@ -501,7 +509,7 @@
     ],
     "language": "de",
     "isbn": "9783751702126",
-    "cover_url": "https://books.google.com/books/content?id=q9UeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=q9UeEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Zafon, Carlos Ruiz",
@@ -521,7 +529,7 @@
     ],
     "language": "de",
     "isbn": "9783104027708",
-    "cover_url": "https://books.google.com/books/content?id=Y35rAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Y35rAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Jaud, Tommy",
@@ -541,7 +549,7 @@
     ],
     "language": "de",
     "isbn": "9783104000459",
-    "cover_url": "https://books.google.com/books/content?id=LmBrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=LmBrAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Mistry, Rohinton",
@@ -561,7 +569,7 @@
     ],
     "language": "de",
     "isbn": "9783104028934",
-    "cover_url": "https://books.google.com/books/content?id=pKRmBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=pKRmBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Gerritsen, Tess",
@@ -581,7 +589,7 @@
     ],
     "language": "de",
     "isbn": "9783641029999",
-    "cover_url": "https://books.google.com/books/content?id=ZmAEv_LZ1TQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ZmAEv_LZ1TQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Gerritsen, Tess",
@@ -599,7 +607,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3442358809",
-    "cover_url": "https://books.google.com/books/content?id=DLUtAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=DLUtAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Gerritsen, Tess",
@@ -619,7 +627,7 @@
     ],
     "language": "de",
     "isbn": "9783959676694",
-    "cover_url": "https://books.google.com/books/content?id=On0-DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=On0-DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Gerritsen, Tess",
@@ -639,7 +647,7 @@
     ],
     "language": "de",
     "isbn": "9783641106287",
-    "cover_url": "https://books.google.com/books/content?id=nHFSTa5r_wAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=nHFSTa5r_wAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Beckett, Simon",
@@ -659,7 +667,7 @@
     ],
     "language": "de",
     "isbn": "9783644204119",
-    "cover_url": "https://books.google.com/books/content?id=Q_5sAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Q_5sAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Mankell, Hennig",
@@ -697,7 +705,7 @@
     ],
     "language": "de",
     "isbn": "9783641215743",
-    "cover_url": "https://books.google.com/books/content?id=Bo3ZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Bo3ZDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Link, Charlotte",
@@ -708,14 +716,16 @@
     "location": null,
     "notes": null,
     "description": "An einem Julimorgen beschließt Rebecca Brandt, ihrem Leben ein Ende zu setzen. Nichts kann die junge Witwe über den Tod ihres Mannes hinwegtrösten. Doch genau an diesem Tag treffen Maximilian Kemper, ein alter Freund ihres verstorbenen Mannes, der unterwegs auch noch zwei Anhalter, die Studenten Inga und Marius, aufgenommen hat.",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "Pm6XAgAAQBAJ",
+    "publisher": "Blanvalet Taschenbuch Verlag",
+    "published_date": "2014-01-27",
+    "page_count": 292,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783641138097",
+    "cover_url": "https://books.google.com/books/content?id=Pm6XAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Marklund, Liza",
@@ -726,16 +736,14 @@
     "location": null,
     "notes": null,
     "description": "Ein Doppelmord im Stockholmer Hafen sorgt für fieberhafte Arbeit im >>Abendblatt<<, in dessen Redaktion Annika gerade Nachtschicht hat. Während die Kollegen den Fall bearbeiten, macht sich die Nachwuchsjournalistin an die Recherche über eine Organisation namens Paradies, die verfolgten Menschen neue Identitäten verschafft.",
-    "google_books_id": "d3j2CgAAQBAJ",
-    "publisher": "Ullstein Ebooks",
-    "published_date": "2016-07-15",
-    "page_count": 407,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783843712903",
-    "cover_url": "https://books.google.com/books/content?id=d3j2CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Follett, Ken",
@@ -755,7 +763,7 @@
     ],
     "language": "de",
     "isbn": "9783838700601",
-    "cover_url": "https://books.google.com/books/content?id=21_Rk2Qd6hMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=21_Rk2Qd6hMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Follett, Ken",
@@ -775,7 +783,7 @@
     ],
     "language": "de",
     "isbn": "9783838703435",
-    "cover_url": "https://books.google.com/books/content?id=9Ge4esQLo_AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=9Ge4esQLo_AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Suter, Martin",
@@ -795,7 +803,7 @@
     ],
     "language": "de",
     "isbn": null,
-    "cover_url": "https://books.google.com/books/content?id=ne8hAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ne8hAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Follett, Ken",
@@ -815,7 +823,7 @@
     ],
     "language": "de",
     "isbn": "3404129423",
-    "cover_url": "https://books.google.com/books/content?id=hBCNQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=hBCNQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Gerritsen, Tess",
@@ -835,7 +843,7 @@
     ],
     "language": "de",
     "isbn": "9783641039561",
-    "cover_url": "https://books.google.com/books/content?id=IH5CtZqJm00C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=IH5CtZqJm00C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Suter, Martin",
@@ -855,7 +863,7 @@
     ],
     "language": "de",
     "isbn": "9783257600452",
-    "cover_url": "https://books.google.com/books/content?id=kWJtAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=kWJtAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Marklund, Liza",
@@ -866,16 +874,14 @@
     "location": null,
     "notes": null,
     "description": "Als sich die Schwedin Mia Eriksson in einen jungen Libanesen verliebt, ahnt sie nicht, dass ihr Leben dadurch komplett aus den Fugen geraten wird. Das Bild vom Traumprinz verblasst schon bald. Den ersten verbalen Wutausbrüchen folgen nach kurzer Zeit handgreifliche. Alle Versuche Mias, mit einem neuen Partner von vorn anzufangen, werden von dem gewalttätigen Mann vereitelt.",
-    "google_books_id": "ShfSAwAAQBAJ",
-    "publisher": "S. Fischer Verlag",
-    "published_date": "2014-07-09",
-    "page_count": 538,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783104033761",
-    "cover_url": "https://books.google.com/books/content?id=ShfSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Gerritsen, Tess",
@@ -895,7 +901,7 @@
     ],
     "language": "de",
     "isbn": "9783641039554",
-    "cover_url": "https://books.google.com/books/content?id=8kBSXhUSne4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=8kBSXhUSne4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Paasilinna, Arto",
@@ -915,7 +921,7 @@
     ],
     "language": "de",
     "isbn": "3404921682",
-    "cover_url": "https://books.google.com/books/content?id=QO6GeaoY2tIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=QO6GeaoY2tIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Jaud, Tommy",
@@ -926,16 +932,14 @@
     "location": null,
     "notes": null,
     "description": "Nicht alle Männer sind Idioten. Einige sind Vollidioten. >> Ich will diese Frau! Also muss ich sie ansprechen. So einfach ist das. Ich beschließe, bis zehn zu zählen, um dann festen Schrittes und mit charismatischem Siegerlächeln den Laden zu betreten. Dann werde ich sie fragen, was sie am Feierabend vorhat.<<",
-    "google_books_id": "v19rAgAAQBAJ",
-    "publisher": "S. Fischer Verlag",
-    "published_date": "2009-10-05",
-    "page_count": 328,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783104000466",
-    "cover_url": "https://books.google.com/books/content?id=v19rAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Link, Charlotte",
@@ -955,7 +959,7 @@
     ],
     "language": "de",
     "isbn": "9783641027872",
-    "cover_url": "https://books.google.com/books/content?id=uQ3F_bFlnewC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=uQ3F_bFlnewC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Follett, Ken",
@@ -975,7 +979,7 @@
     ],
     "language": "de",
     "isbn": "9783838703411",
-    "cover_url": "https://books.google.com/books/content?id=5WNov2aKt2oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=5WNov2aKt2oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Follett, Ken",
@@ -995,7 +999,7 @@
     ],
     "language": "de",
     "isbn": "9783838703374",
-    "cover_url": "https://books.google.com/books/content?id=mFhyqh-9ZGkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=mFhyqh-9ZGkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Khoury, Raymond",
@@ -1015,7 +1019,7 @@
     ],
     "language": "de",
     "isbn": "9783644442214",
-    "cover_url": "https://books.google.com/books/content?id=hIxsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=hIxsAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "George, Elizabeth",
@@ -1035,7 +1039,7 @@
     ],
     "language": "de",
     "isbn": "9783641261429",
-    "cover_url": "https://books.google.com/books/content?id=f7yxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=f7yxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Bank, Zsuzsa",
@@ -1055,7 +1059,7 @@
     ],
     "language": "de",
     "isbn": "9783104008059",
-    "cover_url": "https://books.google.com/books/content?id=5f-YAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=5f-YAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Roger, Marie-Sabine",
@@ -1075,7 +1079,7 @@
     ],
     "language": "de",
     "isbn": "342325338X",
-    "cover_url": "https://books.google.com/books/content?id=wla-NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=wla-NAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Bank, Zsuzsa",
@@ -1095,7 +1099,7 @@
     ],
     "language": "de",
     "isbn": "9783104000053",
-    "cover_url": "https://books.google.com/books/content?id=Wj1vAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Wj1vAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Larsson, Stieg",
@@ -1115,7 +1119,7 @@
     ],
     "language": "de",
     "isbn": "9783641203344",
-    "cover_url": "https://books.google.com/books/content?id=LAJOZsWyJ3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=LAJOZsWyJ3YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Larsson, Stieg",
@@ -1135,7 +1139,7 @@
     ],
     "language": "de",
     "isbn": "9783641203368",
-    "cover_url": "https://books.google.com/books/content?id=Gi_L423XJP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Gi_L423XJP8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Brown, Dan",
@@ -1155,7 +1159,7 @@
     ],
     "language": "de",
     "isbn": "9783751794541",
-    "cover_url": "https://books.google.com/books/content?id=kB2XEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=kB2XEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Larsson, Stieg",
@@ -1175,7 +1179,7 @@
     ],
     "language": "de",
     "isbn": "9783641203351",
-    "cover_url": "https://books.google.com/books/content?id=L8vhw_62tqwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=L8vhw_62tqwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "King, Stephen",
@@ -1186,14 +1190,16 @@
     "location": null,
     "notes": null,
     "description": "Die neunjährige Trisha unternimmt mit ihrem Bruder und ihrer Mutter eine Wanderung. Trisha verlässt kurz den Weg – und verläuft sich im Wald. Hunger und Durst, Mückenschwärme und wilde Tiere, Einsamkeit und Dunkelheit sind nicht ihre einzigen Begleiter...",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "c7nbDwAAQBAJ",
+    "publisher": "Heyne Verlag",
+    "published_date": "2020-11-09",
+    "page_count": 162,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783641265649",
+    "cover_url": "https://books.google.com/books/content?id=c7nbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "King, Stephen",
@@ -1213,7 +1219,7 @@
     ],
     "language": "de",
     "isbn": "9783894803971",
-    "cover_url": "https://books.google.com/books/content?id=ORNXyHqLnXYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ORNXyHqLnXYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "King, Stephen",
@@ -1233,7 +1239,7 @@
     ],
     "language": "de",
     "isbn": "9783894804404",
-    "cover_url": "https://books.google.com/books/content?id=8RwAiuX6u74C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=8RwAiuX6u74C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Vargas, Fred",
@@ -1253,7 +1259,7 @@
     ],
     "language": "de",
     "isbn": "9782808013413",
-    "cover_url": "https://books.google.com/books/content?id=VPmPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=VPmPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Vargas, Fred",
@@ -1273,7 +1279,7 @@
     ],
     "language": "de",
     "isbn": "9783641289492",
-    "cover_url": "https://books.google.com/books/content?id=dBO3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=dBO3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Vargas, Fred",
@@ -1293,7 +1299,7 @@
     ],
     "language": "de",
     "isbn": "9783841201096",
-    "cover_url": "https://books.google.com/books/content?id=lBJYBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=lBJYBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Fitzek, Sebastian",
@@ -1313,7 +1319,7 @@
     ],
     "language": "de",
     "isbn": "9783426554791",
-    "cover_url": "https://books.google.com/books/content?id=n_5qAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=n_5qAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Dijkzeul, Lieneke",
@@ -1333,7 +1339,7 @@
     ],
     "language": "de",
     "isbn": "9783423416993",
-    "cover_url": "https://books.google.com/books/content?id=FSNKsuTN1WQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=FSNKsuTN1WQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Fitzek, Sebastian",
@@ -1353,7 +1359,7 @@
     ],
     "language": "de",
     "isbn": "9783426554807",
-    "cover_url": "https://books.google.com/books/content?id=mFVsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=mFVsAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Fitzek, Sebastian",
@@ -1364,14 +1370,14 @@
     "location": null,
     "notes": null,
     "description": "Keine Zeugen, keine Spuren, keine Leiche: Josy, die zwölfjährige Tochter des Star- Psychiaters Viktor Larenz, ist vor vier Jahren verschwunden. Viktor hat sich seitdem in ein abgelegenes Ferienhaus zurückgezogen. Aber eine schöne Unbekannte spürt ihn dort auf und bittet ihn um eine Therapie, weil sie von Wahnvorstellungen geplagt wird.",
-    "google_books_id": null,
+    "google_books_id": "A3h2uAAACAAJ",
     "publisher": null,
-    "published_date": null,
-    "page_count": null,
+    "published_date": "2012",
+    "page_count": 219,
     "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "language": "de",
+    "isbn": "3942656167",
+    "cover_url": "https://books.google.com/books/content?id=A3h2uAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Franz, Andreas",
@@ -1391,7 +1397,7 @@
     ],
     "language": "de",
     "isbn": "9783426558904",
-    "cover_url": "https://books.google.com/books/content?id=FqtuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=FqtuAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Franz, Andreas",
@@ -1411,7 +1417,7 @@
     ],
     "language": "de",
     "isbn": "9783426559727",
-    "cover_url": "https://books.google.com/books/content?id=a4pqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=a4pqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Franz, Andreas",
@@ -1431,7 +1437,7 @@
     ],
     "language": "de",
     "isbn": "9783426406854",
-    "cover_url": "https://books.google.com/books/content?id=Nt5rAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Nt5rAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Follett, Ken",
@@ -1469,7 +1475,7 @@
     ],
     "language": "de",
     "isbn": "9783641070854",
-    "cover_url": "https://books.google.com/books/content?id=3raDQGA3Ug0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=3raDQGA3Ug0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Marklund, Liza",
@@ -1507,7 +1513,7 @@
     ],
     "language": "de",
     "isbn": "9783935421164",
-    "cover_url": "https://books.google.com/books/content?id=f5NoEmEoXjUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=f5NoEmEoXjUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler-Olsen, Jussi",
@@ -1527,7 +1533,7 @@
     ],
     "language": "de",
     "isbn": "3423212624",
-    "cover_url": "https://books.google.com/books/content?id=ygUlSQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ygUlSQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Follett, Ken",
@@ -1547,7 +1553,7 @@
     ],
     "language": "de",
     "isbn": "9783838703398",
-    "cover_url": "https://books.google.com/books/content?id=fr0M8ViPM_MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=fr0M8ViPM_MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler-Olsen, Jussi",
@@ -1567,7 +1573,7 @@
     ],
     "language": "de",
     "isbn": "9783423407960",
-    "cover_url": "https://books.google.com/books/content?id=JwkAAGMnrsYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=JwkAAGMnrsYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler-Olsen, Jussi",
@@ -1587,7 +1593,7 @@
     ],
     "language": "de",
     "isbn": "9783423415590",
-    "cover_url": "https://books.google.com/books/content?id=z46m3qu1rlMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=z46m3qu1rlMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler-Olsen, Jussi",
@@ -1607,7 +1613,7 @@
     ],
     "language": "de",
     "isbn": "9783423413183",
-    "cover_url": "https://books.google.com/books/content?id=WSJgCyn8-vAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=WSJgCyn8-vAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Seibold, Jürgen",
@@ -1627,7 +1633,7 @@
     ],
     "language": "de",
     "isbn": "9783492986793",
-    "cover_url": "https://books.google.com/books/content?id=cSfWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=cSfWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Strobel, Arno",
@@ -1647,7 +1653,7 @@
     ],
     "language": "de",
     "isbn": "9783104910772",
-    "cover_url": "https://books.google.com/books/content?id=FMp8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=FMp8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Eschbach, Andreas",
@@ -1658,14 +1664,16 @@
     "location": null,
     "notes": null,
     "description": "Schon als Kind hat Hiroshi die Idee für eine Erfindung, die den Unterschied zwischen Arm und Reich für immer aus der Welt schaffen könnte. Als Erwachsener setzt er alles daran, diese Erfindung in die Tat umzusetzen – um damit endlich auch Charlotte zu gewinnen, die Liebe seines Lebens. Was mit der bahnbrechenden Idee beginnt, die die ganze Welt in einem nie gekannten Ausmaß verändern könnte, wird jedoch rasch zu einem gefährlichen Unterfangen. Denn die Erfindung entwickelt ein ungeahntes Eigenleben und führt Hiroshi auf die Spur eines uralte Geheimnisses-und des schrecklichsten aller Verbrechen.",
-    "google_books_id": "4d6bpwAACAAJ",
-    "publisher": null,
-    "published_date": "2011",
-    "page_count": 687,
-    "categories": [],
+    "google_books_id": "xC4rIjqKUFkC",
+    "publisher": "BASTEI LÜBBE",
+    "published_date": "2011-09-16",
+    "page_count": 776,
+    "categories": [
+      "Fiction"
+    ],
     "language": "de",
-    "isbn": "3785724292",
-    "cover_url": "https://books.google.com/books/content?id=4d6bpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "isbn": "9783838710136",
+    "cover_url": "https://books.google.com/books/content?id=xC4rIjqKUFkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Cooper, Glenn",
@@ -1685,7 +1693,7 @@
     ],
     "language": "de",
     "isbn": "9783644411111",
-    "cover_url": "https://books.google.com/books/content?id=C5htAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=C5htAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Kellermann, Jonathan",
@@ -1723,7 +1731,7 @@
     ],
     "language": "de",
     "isbn": "9783843714792",
-    "cover_url": "https://books.google.com/books/content?id=aEzKDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=aEzKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler Olsen, Jussi",
@@ -1743,7 +1751,7 @@
     ],
     "language": "de",
     "isbn": "9783423418485",
-    "cover_url": "https://books.google.com/books/content?id=HuL7G0ILey0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=HuL7G0ILey0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler Olsen, Jussi",
@@ -1763,7 +1771,7 @@
     ],
     "language": "de",
     "isbn": "9783423415576",
-    "cover_url": "https://books.google.com/books/content?id=EpApjkUvUi0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=EpApjkUvUi0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Walters, Eric",
@@ -1774,16 +1782,14 @@
     "location": null,
     "notes": null,
     "description": "Es ist der 10. September 2001. Morgen soll Will wegen eines berufsorientierenden Projekts der Schule einen ganzen Tag im Büro mit seinem Vater verbringen – im Südturm der Twin Towers, downtown Manhattan. Will hatte noch nicht eine besonders gute Beziehung zu seinem Vater, der sich die meiste Zeit im Geschäft, fern von der Familie, aufgehalten hat. Doch der nächste Tag wird seinen Blick auf den Vater gänzlich verändern...",
-    "google_books_id": "6D9DFnC-WioC",
-    "publisher": "Penguin Group",
-    "published_date": "2010-05-14",
-    "page_count": 210,
-    "categories": [
-      "Juvenile Fiction"
-    ],
-    "language": "en",
-    "isbn": "9780385673426",
-    "cover_url": "https://books.google.com/books/content?id=6D9DFnC-WioC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Seghers, Jan",
@@ -1803,7 +1809,7 @@
     ],
     "language": "de",
     "isbn": "9783644201613",
-    "cover_url": "https://books.google.com/books/content?id=TI9rAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=TI9rAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Edwardson, Ake",
@@ -1814,16 +1820,14 @@
     "location": null,
     "notes": null,
     "description": "Ein verlassener Wagen im nächtlichen Göteborg, Schüsse auf einen bekannten Autor – nichts scheint zusammenzupassen. Doch Kommissar Erik Winter spürt, dass ein mächtiger Gegner ihn belauert. Immer tiefer gerät Winter in ein verzweigtes Netz aus Lügen und Intrigen, das ihn weit in die Vergangenheit zurückführt. Dann geschieht ein Mord, und Winter muss von vorn anfangen. Noch längst hat er nicht überall Licht ins Dunkel gebracht, da fordert ihn sein Gegner zum Showdown.",
-    "google_books_id": "9_QaAwAAQBAJ",
-    "publisher": "Ullstein eBooks",
-    "published_date": "2009-11-04",
-    "page_count": 436,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783550920066",
-    "cover_url": "https://books.google.com/books/content?id=9_QaAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Jonasson, Jonas",
@@ -1843,7 +1847,7 @@
     ],
     "language": "de",
     "isbn": "9783641056681",
-    "cover_url": "https://books.google.com/books/content?id=4qqpwUHqW-EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=4qqpwUHqW-EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Neuhaus, Nele",
@@ -1874,14 +1878,16 @@
     "location": null,
     "notes": null,
     "description": "Rechtsmediziner Paul Herzfeld, Spezialist für Gewaltverbrechen, findet im Kopf einer monströs zugerichteten Leiche die Telefonnummer seiner Tochter. Hannah wurde verschleppt – und für Herzfeld beginnt eine perverse Schnitzeljagd. Denn der psychopathische Entführer hat eine weitere Leiche auf Helgoland mit Hinweisen präpariert. Herzfeld hat jedoch keine Chance, an die Informationen zu kommen und den Wettlauf gegen die Zeit zu gewinnen: Die Hochseeinsel ist durch einen Orkan vom Festland abgeschnitten, die Bevölkerung bereits evakuiert. Unter den wenigen Menschen, die geblieben sind, ist die Comic-Zeichnerin Linda, die den Toten am `Strand gefunden hat. Verzweifelt versucht Herzfeld sie zu überreden, die Obduktion nach seinen telefonischen Anweisungen durchzuführen. Doch Linda hat noch nie ein Skalpell berührt. Geschweige denn einen Menschen seziert. Als sie sich dennoch in die verlassene Pathologie der Inselklinik wagt, erkennt sie sehr schnell, dass das Leben des entführten Mädchens nicht das einzige ist, das auf dem Spiel steht...",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "r5FtAgAAQBAJ",
+    "publisher": "Droemer eBook",
+    "published_date": "2012-09-26",
+    "page_count": 474,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783426415696",
+    "cover_url": "https://books.google.com/books/content?id=r5FtAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Barbato, Paola",
@@ -1901,7 +1907,7 @@
     ],
     "language": "de",
     "isbn": null,
-    "cover_url": "https://books.google.com/books/content?id=4-9BAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=4-9BAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Landorff, Max",
@@ -1957,7 +1963,7 @@
     ],
     "language": "de",
     "isbn": "9783104014074",
-    "cover_url": "https://books.google.com/books/content?id=X3BvAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=X3BvAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Hoffmann, Jilliane",
@@ -1975,7 +1981,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3499269147",
-    "cover_url": "https://books.google.com/books/content?id=-d1-oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=-d1-oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Hoffmann, Jilliane",
@@ -1986,14 +1992,16 @@
     "location": null,
     "notes": "1.",
     "description": "Der Albtraum jeder Frau: Du kommst abends in dein Apartment. Du bist allein. Alles scheint wie immer, nur ein paar Kleinigkeiten lassen dich stutzen. Du kümmerst dich nicht darum. Du bist müde und gehst schlafen. Und auf diesen Moment hat er gewartet - der Mann, der unter deinem Fenster lauert …",
-    "google_books_id": "FnYUcgAACAAJ",
-    "publisher": null,
-    "published_date": "2010",
-    "page_count": 476,
-    "categories": [],
+    "google_books_id": "yeWUEQAAQBAJ",
+    "publisher": "Narr Francke Attempto Verlag",
+    "published_date": "2025-10-27",
+    "page_count": 365,
+    "categories": [
+      "Literary Criticism"
+    ],
     "language": "de",
-    "isbn": "3499253925",
-    "cover_url": null
+    "isbn": "9783381141630",
+    "cover_url": "https://books.google.com/books/content?id=yeWUEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Hoffmann, Jilliane",
@@ -2011,7 +2019,7 @@
     "categories": [],
     "language": "de",
     "isbn": "349924697X",
-    "cover_url": "https://books.google.com/books/content?id=wKrxPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=wKrxPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Ludwig, Stephan",
@@ -2049,7 +2057,7 @@
     ],
     "language": "de",
     "isbn": "9783548920917",
-    "cover_url": "https://books.google.com/books/content?id=MDAcAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=MDAcAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Slaughter, Karin",
@@ -2069,7 +2077,7 @@
     ],
     "language": "de",
     "isbn": "9783749907991",
-    "cover_url": "https://books.google.com/books/content?id=FFD4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=FFD4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Stevens, Chevy",
@@ -2089,7 +2097,7 @@
     ],
     "language": "en",
     "isbn": "9780748123674",
-    "cover_url": "https://books.google.com/books/content?id=y83y8G-yhi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=y83y8G-yhi4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Masello, Robert",
@@ -2100,14 +2108,16 @@
     "location": null,
     "notes": null,
     "description": "Am Ende der Welt: Point Adélie in der Antarktis. Hier, in der unwirklichen, endlosen Eiswüste in der Nähe des Pols, recherchiert der Journalist Michael Wilde den Alltag in einer Forschungsstation, als er im Polarmeer einen spektakulären Fund macht: die beiden Körper eines Mannes und einer Frau – aneinander gekettet und perfekt konserviert in hundertfünfzig Jahre altem Gletschereis. Die Suche nach dem Geheimnis des versunkenen Paares bringt Michael auf die Spur einer Geschichte, die Jahrhunderte und Kontinente überspannt. Und die sein Leben für immer verändern wird...",
-    "google_books_id": "qOTGkQEACAAJ",
-    "publisher": null,
-    "published_date": "2012",
-    "page_count": 639,
-    "categories": [],
+    "google_books_id": "7UNtAgAAQBAJ",
+    "publisher": "S. Fischer Verlag",
+    "published_date": "2009-10-05",
+    "page_count": 596,
+    "categories": [
+      "Fiction"
+    ],
     "language": "de",
-    "isbn": null,
-    "cover_url": null
+    "isbn": "9783104001418",
+    "cover_url": "https://books.google.com/books/content?id=7UNtAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Hogan, Chuck",
@@ -2127,7 +2137,7 @@
     ],
     "language": "de",
     "isbn": "9783641265489",
-    "cover_url": "https://books.google.com/books/content?id=a7nbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=a7nbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Zander, Joakim",
@@ -2138,14 +2148,16 @@
     "location": null,
     "notes": null,
     "description": "Damaskus: Das Kind in seinen Armen hat hohes Fieber, atmet kaum noch. Im nächsten Moment explodiert eine Bombe: Die Frau, die er liebt, stirbt. Doch der Anschlag galt ihm. Dem amerikanischen Agenten. Brüssel: Im Haifischbecken der EU bewegt sich die schwedische Referentin Klara Walldéen mühelos. Doch dann begegnet sie Mahmoud wieder, einem erfolgreichen Politologen, ihrer großen Liebe. Er besitzt Informationen, die seinen Tod bedeuten können. Und auch Klaras. Arkösund & Schären: Ihr Fluchtpunkt. Hier ist Klara aufgewachsen. Hier gibt es Menschen, so rau wie die Natur. Auf die Verlass ist. Ganz gleich, wie hoch die Wellen schlagen. Langley: Der amerikanische Agent ist der Einzige, der Klara retten kann. Ein Mann, der bei seinen Einsätzen alles vergessen wollte: Vergangenheit, Schuld, sein Kind, das er nie wiedergesehen hat. Und der nur an einem Ort Ruhe findet. Im Wasser. Während er seine Bahnen schwimmt. Zug um Zug.",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "pm2KAwAAQBAJ",
+    "publisher": "Rowohlt Verlag GmbH",
+    "published_date": "2014-09-01",
+    "page_count": 592,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783644529113",
+    "cover_url": "https://books.google.com/books/content?id=pm2KAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Slaughter, Karin",
@@ -2156,16 +2168,14 @@
     "location": null,
     "notes": null,
     "description": "Nach dem schrecklichen Anschlag, dem ihr geliebter Partner in crime und Ehemann Jeffrey Tolliver zum Opfer fiel, wollte Sara Linton nichts mehr, als Abstand zu gewinnen. Doch kaum hat sie in der Stadt ihrer Kindheit wieder Fuß gefasst, bricht erneut das Böse in ihr Leben ein... In der Notaufnahme des Grady Hospital muss sie eine junge Frau versorgen, die erst gefoltert und misshandelt und dann, offenkundig auf der Flucht vor ihrem Peiniger, von einem Auto erfasst wurde. Selbst dem Ermittler Will Trent stockt angesichts der Gewalt, der die junge Frau ausgesetzt war, der Atem. Als er den Unfallort begeht, stößt er auf eine Folterkammer tief unter der Erde – und auf Spuren einer zweiten Opfers!",
-    "google_books_id": "ElD4EAAAQBAJ",
-    "publisher": "HarperCollins eBook",
-    "published_date": "2024-07-23",
-    "page_count": 535,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783749907915",
-    "cover_url": "https://books.google.com/books/content?id=ElD4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Fitzek, Sebastian",
@@ -2185,7 +2195,7 @@
     ],
     "language": "de",
     "isbn": "9783426558522",
-    "cover_url": "https://books.google.com/books/content?id=UcJrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=UcJrAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Hayman, James",
@@ -2205,7 +2215,7 @@
     ],
     "language": "en",
     "isbn": null,
-    "cover_url": "https://books.google.com/books/content?id=b5OwBrohhkwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=b5OwBrohhkwC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Robotham, Michael",
@@ -2225,7 +2235,7 @@
     ],
     "language": "de",
     "isbn": "9783641120238",
-    "cover_url": "https://books.google.com/books/content?id=ck1ZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ck1ZAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Beckett, Simon",
@@ -2245,7 +2255,7 @@
     ],
     "language": "de",
     "isbn": "9783644438910",
-    "cover_url": "https://books.google.com/books/content?id=jyCZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=jyCZAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Robotham, Michael",
@@ -2256,14 +2266,16 @@
     "location": null,
     "notes": null,
     "description": ">>Es gibt einen Moment, in dem alle Hoffnung vergeht, aller Stolz schwindet, alle Erwartung, aller Glaube, alles Sehnen. Dieser Moment gehört mir. Dann höre ich den Klang einer zerbrechenden Seele. Es ist kein lautes Knacken wie von splitternden Knochen, wenn ein Rückgrat bricht oder ein Schädel birst. Auch nicht weich und feucht wie ein gebrochenes Herz. Es ist ein Klang, bei dem man sich fragt, wie viel Schmerz ein Mensch ertragen kann; ein Laut, der das Gedächtnis zerschmettert und die Vergangenheit in die Gegenwart sickern lässt, ein Ton, so hoch, dass nur die Hunde der Hölle ihn hören können. Ein neuer packender Fall für den Psychologen Joe O´Loughlin und Detective Inspector Vincent Ruiz.",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "GJkfuzxHuJkC",
+    "publisher": "Goldmann Verlag",
+    "published_date": "2009-06-24",
+    "page_count": 443,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783641025618",
+    "cover_url": "https://books.google.com/books/content?id=GJkfuzxHuJkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Robotham, Michael",
@@ -2283,7 +2295,7 @@
     ],
     "language": "de",
     "isbn": "9783641025618",
-    "cover_url": "https://books.google.com/books/content?id=GJkfuzxHuJkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=GJkfuzxHuJkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Flynn, Gillian",
@@ -2303,7 +2315,7 @@
     ],
     "language": "en",
     "isbn": "9780307588388",
-    "cover_url": "https://books.google.com/books/content?id=L25K1tY5WyoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=L25K1tY5WyoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Ahnhem, Stefan",
@@ -2323,7 +2335,7 @@
     ],
     "language": "de",
     "isbn": "9783843709286",
-    "cover_url": "https://books.google.com/books/content?id=VLuEAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=VLuEAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Rankin, Ian",
@@ -2359,7 +2371,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3492267815",
-    "cover_url": "https://books.google.com/books/content?id=mBHMSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=mBHMSAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Castillo, Linda",
@@ -2370,16 +2382,14 @@
     "location": null,
     "notes": null,
     "description": "Sadie Miller ist verschwunden. Ein aufmüpfiger Amisch-Teenager aus Painters Mill. Ihre Familie ist verzweifelt. Verbittet sich aber jede Einmischung. Als Kate Burkholder, die Spezialistin für Amisch-Delikte, gerufen wird, ahnt sie Schlimmes. Denn gerade wurde die blutgetränkte Tasche des Mädchens gefunden. Und da sind noch mehr vermisste Mädchen im gesamten Country. Wo sind sie, und was ist mit ihnen geschehen?",
-    "google_books_id": "YW5qAgAAQBAJ",
-    "publisher": "S. Fischer Verlag",
-    "published_date": "2013-07-25",
-    "page_count": 453,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783104023861",
-    "cover_url": "https://books.google.com/books/content?id=YW5qAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Fitzek, Sebastian",
@@ -2399,7 +2409,7 @@
     ],
     "language": "de",
     "isbn": "9783426417935",
-    "cover_url": "https://books.google.com/books/content?id=E6puAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=E6puAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Gerritsen, Tess",
@@ -2410,13 +2420,13 @@
     "location": null,
     "notes": null,
     "description": "Vor fast zwanzig Jahren richtet ein Amokläufer in einem kleinen Restaurant in Chinatown ein Blutbad an. Doch wer schreibt den Angehörigen der Opfer seither jahraus, jahrein jene Briefe, die besagen, dass der wahre Täter noch immer nicht gefasst sei? Erst als fast zwei Jahrzehnte später bei einer Stadtführung durch Boston die Leiche einer Frau gefunden wird, die mit einem antiken chinesischen Ritualschwert verstümmelt wurde, wird der alte Fall wieder aufgerollt. Und nicht immer haben Jane Rizzoli und Maura Isles bei den Ermittlungen das Gefühl, es mit einem leibhaftigen Gegner aus Fleisch und Blut zu tun zu haben..",
-    "google_books_id": "U_OrwwEACAAJ",
+    "google_books_id": null,
     "publisher": null,
-    "published_date": "2020",
+    "published_date": null,
     "page_count": null,
     "categories": [],
-    "language": "de",
-    "isbn": "3734108152",
+    "language": null,
+    "isbn": null,
     "cover_url": null
   },
   {
@@ -2437,7 +2447,7 @@
     ],
     "language": "de",
     "isbn": "9783962153274",
-    "cover_url": "https://books.google.com/books/content?id=RzalEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=RzalEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Robotham, Michael",
@@ -2457,7 +2467,7 @@
     ],
     "language": "de",
     "isbn": "9783641166588",
-    "cover_url": "https://books.google.com/books/content?id=4NtGCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=4NtGCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Heitz, Markus",
@@ -2477,7 +2487,7 @@
     ],
     "language": "de",
     "isbn": "9783426425473",
-    "cover_url": "https://books.google.com/books/content?id=GtecAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=GtecAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Neubauer, Nicole",
@@ -2488,14 +2498,16 @@
     "location": null,
     "notes": null,
     "description": "Die erfolgreiche Anwältin Rose Benninghoff liegt mit durchgeschnittener Kehle in ihrer Designerwohnung. Im Keller des Hauses kauert der vierzehnjährige Oliver Baptiste, sein Körper mit Blutergüssen übersät, seine Hände blutverschmiert. Er kann sich an nichts erinnern. In einem klirrend kalten Jahrhundertwinter nimmt der Münchner Hauptkommissar Waechter mit seinem Team die Jagd nach dem Mörder auf. Doch bald verschwimmen die Grenzen zwischen Tätern und Opfern immer mehr, und die Ermittler stoßen auf ein altes Verbrechen, das nie gesühnt wurde und das seine Schatten bis in die Gegenwart wirft...",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "4D2HBAAAQBAJ",
+    "publisher": "Blanvalet Taschenbuch Verlag",
+    "published_date": "2015-01-19",
+    "page_count": 320,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783641149222",
+    "cover_url": "https://books.google.com/books/content?id=4D2HBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Ahnhem, Stefan",
@@ -2531,7 +2543,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3404162722",
-    "cover_url": "https://books.google.com/books/content?id=EDsvAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=EDsvAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Robotham, Michael",
@@ -2542,14 +2554,16 @@
     "location": null,
     "notes": null,
     "description": "Als der ehemalige Polizist Vincent Ruiz eines Abends in einer Londoner Bar beobachtet, wie eine junge Frau von ihrem gewalttätigen Freund bedroht wird, muss er eingreifen. Doch obwohl er Holly Knight für die Nacht Unterschlupf bietet, ist sie am nächsten Morgen verschwunden – und mit ihr einige wertvolle Gegenstände. Bei dem Versuch, sie aufzuspüren, stößt er nur auf Hollys Freund, der brutal ermordet wurde. Ruiz steht vor einem Rätsel: In welche Machenschaften ist Holly Knight verstrickt? Zur gleichen Zeit spürt der berühmte Journalist Luca Terracini einer Serie von Banküberfällen in Bagdad nach. Dass zudem immer wieder große Summen an Wiederaufbauhilfe verloren gehen, könnte damit in direktem Zusammenhang stehen. Luca macht sich auf die Suche nach der Wahrheit – ein gefährliches Unterfangen, das ihn bis nach London zu Vincent Ruiz führt.",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "S9OXX53HhJMC",
+    "publisher": "Goldmann Verlag",
+    "published_date": "2012-04-09",
+    "page_count": 451,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783641076849",
+    "cover_url": "https://books.google.com/books/content?id=S9OXX53HhJMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Oswald, James",
@@ -2567,7 +2581,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3442480302",
-    "cover_url": "https://books.google.com/books/content?id=u7ZNnwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=u7ZNnwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Lorenz, Wiebke",
@@ -2578,14 +2592,14 @@
     "location": null,
     "notes": null,
     "description": "Steckt in jedem Menschen ein Mörder? In Gedanken hat Marie schon erschlagen, erwürgt, zerstückelt. Die furchtbar realen Gewaltfantasien kommen ohne Vorwarnung und machen ihr unaussprechliche Angst. Doch denken heißt nicht tun. Glaubt Marie. Bis ein grausamer Mord geschieht, der genau dem Horror-Drehbuch ihres Kopfes entsprungen zu sein scheint. Alle halten Marie für eine Mörderin. Auch sie selbst. Sie wird verurteilt, eingewiesen, weggesperrt. Ein junger Arzt hilft ihr dabei, die Wochen vor der Mordnacht zu rekonstruieren, und in Marie wachsen die Zweifel. Ist die Wahrheit noch viel furchtbarer als ihre Fantasie?",
-    "google_books_id": "Z4nluQAACAAJ",
+    "google_books_id": null,
     "publisher": null,
-    "published_date": "2012",
-    "page_count": 349,
+    "published_date": null,
+    "page_count": null,
     "categories": [],
-    "language": "de",
-    "isbn": "3896674692",
-    "cover_url": "https://books.google.com/books/content?id=Z4nluQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "King, Stephen",
@@ -2605,7 +2619,7 @@
     ],
     "language": "en",
     "isbn": "9781476770383",
-    "cover_url": "https://books.google.com/books/content?id=ZU0uBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ZU0uBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Ellis, David",
@@ -2625,7 +2639,7 @@
     ],
     "language": "de",
     "isbn": "9783641104269",
-    "cover_url": "https://books.google.com/books/content?id=t4EcNDRlCQIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=t4EcNDRlCQIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Neuhaus, Nele",
@@ -2645,7 +2659,7 @@
     ],
     "language": "de",
     "isbn": "3550080549",
-    "cover_url": "https://books.google.com/books/content?id=QBzNoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=QBzNoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Thiesler, Sabine",
@@ -2656,16 +2670,14 @@
     "location": null,
     "notes": null,
     "description": "Zuerst verliert er durch einen schrecklichen Unfall seine Tochter. Dann seinen Beruf und schließlich seine Frau. Als der erfolgreiche Medienmanager Jonathan in einem einsamen Bergdorf in der Toskana ankommt, scheint er am Ende zu sein. Doch dann trifft er die junge Sofia und beginnt mit ihr ein neues Leben, bis ihn die Vergangenheit einholt. Aus Rache wird er zum Mörder, aber das ist erst der Anfang...",
-    "google_books_id": "1Pnoh7LbXYcC",
-    "publisher": "Heyne Verlag",
-    "published_date": "2010-10-25",
-    "page_count": 314,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783641051341",
-    "cover_url": "https://books.google.com/books/content?id=1Pnoh7LbXYcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Fitzek, Sebastian",
@@ -2676,16 +2688,14 @@
     "location": null,
     "notes": null,
     "description": "Als Strafverteidiger Robert Stern diesem ungewöhnlichen Treffen zugestimmt hatte, wusste er nicht, dass er damit eine Verabredung mit dem Tod einging. Noch weniger ahnte er, dass der Tod 1,43m messen, Turnschuhe tragen und lächelnd auf einem gottverlassenen Industriegelände in sein Leben treten würde. Simon, von nun an Sterns ständiger Begleiter, ist ein zehnjähriger Junge – und fest davon überzeugt, in einem früheren Leben ein Mörder gewesen zu sein...",
-    "google_books_id": "Qe5rAgAAQBAJ",
-    "publisher": "Droemer eBook",
-    "published_date": "2009-10-02",
-    "page_count": 486,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783426559284",
-    "cover_url": "https://books.google.com/books/content?id=Qe5rAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Castillo, Linda",
@@ -2705,7 +2715,7 @@
     ],
     "language": "de",
     "isbn": "9783104023878",
-    "cover_url": "https://books.google.com/books/content?id=O8RqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=O8RqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Lucius, Walter (Goverde, Walter)",
@@ -2723,7 +2733,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3518465449",
-    "cover_url": "https://books.google.com/books/content?id=jnkwngAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=jnkwngAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Gerritsen, Tess",
@@ -2743,7 +2753,7 @@
     ],
     "language": "de",
     "isbn": "9783641123932",
-    "cover_url": "https://books.google.com/books/content?id=zYy7BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=zYy7BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Robotham, Michael",
@@ -2763,7 +2773,7 @@
     ],
     "language": "de",
     "isbn": "9783641058746",
-    "cover_url": "https://books.google.com/books/content?id=VGFVKQc0HN8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=VGFVKQc0HN8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "King, Stephen",
@@ -2783,7 +2793,7 @@
     ],
     "language": "de",
     "isbn": "9783641164027",
-    "cover_url": "https://books.google.com/books/content?id=NplpCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=NplpCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Grebe, Camilla & Träff Asa",
@@ -2794,14 +2804,14 @@
     "location": null,
     "notes": null,
     "description": "Siri Bergmann, Psychotherapeutin aus Stockholm, fühlt sich endlich bereit, mit ihrer Vergangenheit und dem Selbstmord ihres ersten Mannes abzuschließen. Doch dann stößt sie in seinen alten Kisten auf eine merkwürdige Notiz. Die Sterbeanzeige eines Mannes, der in einer eisigen Winternacht ermordet wurde...",
-    "google_books_id": "gwy4NAEACAAJ",
+    "google_books_id": null,
     "publisher": null,
-    "published_date": "2013-02-25",
-    "page_count": 490,
+    "published_date": null,
+    "page_count": null,
     "categories": [],
-    "language": "de",
-    "isbn": "3442753694",
-    "cover_url": "https://books.google.com/books/content?id=gwy4NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Thiesler, Sabine",
@@ -2821,7 +2831,7 @@
     ],
     "language": "de",
     "isbn": "9783641051372",
-    "cover_url": "https://books.google.com/books/content?id=Bl9yrXAEIOoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Bl9yrXAEIOoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Meade, Glenn",
@@ -2841,7 +2851,7 @@
     ],
     "language": "de",
     "isbn": "9783751708821",
-    "cover_url": "https://books.google.com/books/content?id=LJxEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=LJxEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Katzenbach, John (USA)",
@@ -2861,7 +2871,7 @@
     ],
     "language": "de",
     "isbn": "9783426559413",
-    "cover_url": "https://books.google.com/books/content?id=VmFrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=VmFrAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Aichner, Bernhard (Innsbruck)",
@@ -2881,7 +2891,7 @@
     ],
     "language": "de",
     "isbn": "9783641281120",
-    "cover_url": "https://books.google.com/books/content?id=Lr0LEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Lr0LEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Hawkins, Paula (London)",
@@ -2892,16 +2902,14 @@
     "location": null,
     "notes": null,
     "description": "Jeden Morgen pendelt Rachel mit dem Zug in die Stadt, und jeden Morgen hält der Zug an der gleichen Stelle auf der Strecke an. Rachel blickt in die Gärten der umliegenden Häuser, sieht ihre Bewohner. Und eines Tages beobachtet sie etwas Schockierendes …",
-    "google_books_id": "nfziDAAAQBAJ",
-    "publisher": "Random House",
-    "published_date": "2016",
-    "page_count": 417,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "en",
-    "isbn": "9781784161101",
-    "cover_url": "https://books.google.com/books/content?id=nfziDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Stevens, Taylor (Dallas)",
@@ -2921,7 +2929,7 @@
     ],
     "language": "de",
     "isbn": "9783641118396",
-    "cover_url": "https://books.google.com/books/content?id=m3ASAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=m3ASAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Winter, Hanna (Berlin)",
@@ -2941,7 +2949,7 @@
     ],
     "language": "de",
     "isbn": "9783110770308",
-    "cover_url": "https://books.google.com/books/content?id=_JqnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=_JqnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Walker, Adrian J (London)",
@@ -2961,7 +2969,7 @@
     ],
     "language": "de",
     "isbn": "9783104038421",
-    "cover_url": "https://books.google.com/books/content?id=OVURDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=OVURDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Patterson, James (Palm Beach)",
@@ -2979,7 +2987,7 @@
     "categories": [],
     "language": "en",
     "isbn": null,
-    "cover_url": "https://books.google.com/books/content?id=G4gjUOUFla0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=G4gjUOUFla0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Winner, Jonas (Berlin)",
@@ -2990,16 +2998,14 @@
     "location": null,
     "notes": null,
     "description": "Sammy ist elf und gerade mit seinen Eltern nach Berlin gezogen. Im Luftschutzbunker der altern Jugendstilvilla in Grunewald macht er eine verstörende Entdeckung. Ein vollkommen verängstigtes Mädchen, nicht viel älter als er, ist dort unten in einer Zelle eingesperrt, die man mit Gummifolie ausgekleidet hat. Nur durch einen winzigen Schlitz hindurch kann er sie sehen. Am nächsten Tag ist die Zelle leer, das Mädchen verschwunden. Und für Sammy kann es dafür eigentlich nur einen Grund geben: seinen Vater.",
-    "google_books_id": "GABEDwAAQBAJ",
-    "publisher": "Klett-Cotta",
-    "published_date": "2018-01-01",
-    "page_count": 704,
-    "categories": [
-      "Medical"
-    ],
-    "language": "de",
-    "isbn": "9783608266214",
-    "cover_url": "https://books.google.com/books/content?id=GABEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Carrisi, Donato (Rom)",
@@ -3019,7 +3025,7 @@
     ],
     "language": "de",
     "isbn": "9783037920954",
-    "cover_url": "https://books.google.com/books/content?id=DvKkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=DvKkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Pflüger, Andreas (Berlin)",
@@ -3039,7 +3045,7 @@
     ],
     "language": "de",
     "isbn": "9783518744925",
-    "cover_url": "https://books.google.com/books/content?id=JIArCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=JIArCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Jackson, Lisa (Oregon)",
@@ -3059,7 +3065,7 @@
     ],
     "language": "de",
     "isbn": "9783426459324",
-    "cover_url": "https://books.google.com/books/content?id=wGaZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=wGaZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Tsokos, Michael",
@@ -3097,7 +3103,7 @@
     ],
     "language": "de",
     "isbn": "9783832188245",
-    "cover_url": "https://books.google.com/books/content?id=nH-1BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=nH-1BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Fitzek, Sebastian",
@@ -3117,7 +3123,7 @@
     ],
     "language": "de",
     "isbn": "9783426402269",
-    "cover_url": "https://books.google.com/books/content?id=pBVuAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=pBVuAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Eschbach, Andreas",
@@ -3137,7 +3143,7 @@
     ],
     "language": "de",
     "isbn": "9783838745091",
-    "cover_url": "https://books.google.com/books/content?id=1eA2AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=1eA2AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Casey, Jane",
@@ -3155,7 +3161,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3442375207",
-    "cover_url": "https://books.google.com/books/content?id=j7mwkgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=j7mwkgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Parsons, Charlotte",
@@ -3193,7 +3199,7 @@
     ],
     "language": "de",
     "isbn": "9783423413183",
-    "cover_url": "https://books.google.com/books/content?id=WSJgCyn8-vAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=WSJgCyn8-vAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler Olsen, Jussi",
@@ -3213,7 +3219,7 @@
     ],
     "language": "de",
     "isbn": "9783423426978",
-    "cover_url": "https://books.google.com/books/content?id=slftBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=slftBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler Olsen, Jussi",
@@ -3224,16 +3230,14 @@
     "location": null,
     "notes": null,
     "description": "In einem Park in Kopenhagen wird eine alte Frau ermordet aufgefunden. Fast zeitgleich begibt sich ein durchgedrehter Autofahrer auf die tödliche Jagd nach jungen Frauen. Irgendwo da draußen, so hat es den Anschein, werden weitere perfide Morde geplant. Steht all dies womöglich im Zusammenhang mit einem lange zurückliegenden und noch immer unaufgekärten Verbrechen? Das Manegement des Poilzeipräsidiums in Kopenhagen ist höchst unzufrieden mit der Aufklärungsrate des Sonderdezernats Q. Ausgerechnet Rose soll nun das Ruder herumreißen – doch Rose ist in ihrem aktuellen Zustand weit davon entfernt.",
-    "google_books_id": "qBXEDQAAQBAJ",
-    "publisher": "Deutscher Taschenbuch Verlag",
-    "published_date": "2017-03-10",
-    "page_count": 678,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783423431293",
-    "cover_url": "https://books.google.com/books/content?id=qBXEDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "McKinty, Adrian",
@@ -3251,7 +3255,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3518465953",
-    "cover_url": "https://books.google.com/books/content?id=Dn7UrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Dn7UrQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Adler Olsen, Jussi",
@@ -3271,7 +3275,7 @@
     ],
     "language": "de",
     "isbn": "9783423428699",
-    "cover_url": "https://books.google.com/books/content?id=QfSFCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=QfSFCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Adler Olsen, Jussi",
@@ -3300,16 +3304,14 @@
     "location": null,
     "notes": null,
     "description": "Tempe war erst sechs Jahre alt, als ihr kleiner Bruder plötzlich starb, wenig später verunglückte ihr Vater tödlich. In dieser Zeit fand sie Trost bei ihrer besten Freundin, mit der sie einige unvergessliche Sommerferien verbrachte: Évngéline. Bis das Mädchen eines Tages spurlos verschwand. Jahrzehnte später eröffnet sichTempe die Chance, endlich Gewissheit über Évangélines Schicksal zu erlangen. Ein Spezialist für 'cold cases' aus Montreal bittet die forensische Anthropologin um Hilfe bei der Analyse eines Skeletts, das aus Neuschottland zu stammen scheint.",
-    "google_books_id": "vZO0fl4nrlkC",
-    "publisher": "Karl Blessing Verlag",
-    "published_date": "2011-06-29",
-    "page_count": 600,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783641067908",
-    "cover_url": "https://books.google.com/books/content?id=vZO0fl4nrlkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Marklund, Liza",
@@ -3329,7 +3331,7 @@
     ],
     "language": "de",
     "isbn": "9783843713146",
-    "cover_url": "https://books.google.com/books/content?id=OXz2CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=OXz2CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Dorn, Wulf",
@@ -3349,7 +3351,7 @@
     ],
     "language": "de",
     "isbn": "9783641196820",
-    "cover_url": "https://books.google.com/books/content?id=ZmpLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ZmpLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Eggers, Dave",
@@ -3360,13 +3362,13 @@
     "location": null,
     "notes": null,
     "description": "Die 24-jährige Mae Holland ist überglücklich. Sie hat einen Job ergattert in der hippsten Firma der Welt, beim 'Circle', einem freundlichen Internetkonzern mit Sitz in Kalifornien, der die Geschäftsfelder von Googel, Apple, Facebook und Twitter geschlucht hat, indem er alle Kunden mit einer einzigen Internetidentität ausstattet, über die einfach alles abgewickelt werden kann. Mit dem Wegfall der Anonymität im Netz – so ein Ziel der 'drei Weisen', die den Konzern leiten - wird es keinen Schmutz mehr geben im Internet und auch keine Kriminalität.",
-    "google_books_id": "Ch3itwEACAAJ",
+    "google_books_id": null,
     "publisher": null,
-    "published_date": "2018-12",
-    "page_count": 144,
+    "published_date": null,
+    "page_count": null,
     "categories": [],
-    "language": "de",
-    "isbn": "3140227256",
+    "language": null,
+    "isbn": null,
     "cover_url": null
   },
   {
@@ -3387,7 +3389,7 @@
     ],
     "language": "de",
     "isbn": "9783644436619",
-    "cover_url": "https://books.google.com/books/content?id=j5lrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=j5lrAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Silva, Daniel",
@@ -3407,7 +3409,7 @@
     ],
     "language": "de",
     "isbn": "3492252591",
-    "cover_url": "https://books.google.com/books/content?id=KKROwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=KKROwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Lapidus, Jens",
@@ -3425,7 +3427,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3502101949",
-    "cover_url": "https://books.google.com/books/content?id=Bc8DYAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Bc8DYAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Slaughter, Karin",
@@ -3445,7 +3447,7 @@
     ],
     "language": "de",
     "isbn": "9783959676700",
-    "cover_url": "https://books.google.com/books/content?id=zzNqDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=zzNqDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Schätzing, Frank",
@@ -3456,16 +3458,14 @@
     "location": null,
     "notes": null,
     "description": "Juni 1999: In Köln werden zahlreiche hochrangige Politiker zum G-8-Wirtschaftsgipfel erwartet, darunter auch Bill Clinton und Boris Jelzin. Der serbische Diktator Milosevic hat vor den Verbänden der Nato die Waffen gestreckt, und nun soll über die Zukunft des Kosovo verhandelt werden. Die Stadt gleicht einem Hochsicherheitstrakt. Geheimdienstleute aus aller Welt, Polizei und Terrorspezialisten sollen Gefahren aller Art abwenden. Inmitten der Gipfelhysterie trifft der irische Physiker und Bestsellerautor Dr. Liam O'Connor zu einer Lesereise in Köln ein. Am Flughafen erkennt er einen alten Bekannten, einen IRA-Aktivisten, der sich als Handwerker getarnt auf dem Flughafengelände herumtreibt.\n\nAnhang: Über den Kosovo-Konflikt\nDie Geschichte des Kosovo ist sehr komplex. Für die Serben ist das Kosovo 'Heilige Erde'. Es gilt ihnen als die Wiege der serbischen Nation, obwohl das erste serbische Reich im neunten Jahrhundert in Raszien entstand, dem heutigen Sandzak. Tatsächlich hatte das Kosovo bis zum 12. Jahrhundert zum byzantinischen Reich gehört, erst dann wurde es Teil des serbischen Reichs – für fast zweihundert Jahre. Fast jeder dürfte von der Schlacht auf dem Amselfeld, dem kosovo polje, gehört haben. Mit ihr begann, was 1999 vorläufig endete – der beständige Kampf um ein Stück Land, das wie kaum ein anderes in Europa zum Mythos hochstilisiert worden ist.",
-    "google_books_id": "0_xhv47L8CQC",
-    "publisher": "Emons Verlag",
-    "published_date": "2011",
-    "page_count": 792,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783863580520",
-    "cover_url": "https://books.google.com/books/content?id=0_xhv47L8CQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Sansom, Christopher J.",
@@ -3485,7 +3485,7 @@
     ],
     "language": "de",
     "isbn": "9783104007168",
-    "cover_url": "https://books.google.com/books/content?id=-vduAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=-vduAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Scrivner Love, Melissa",
@@ -3505,7 +3505,7 @@
     ],
     "language": "de",
     "isbn": "9783518765180",
-    "cover_url": "https://books.google.com/books/content?id=1JW2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=1JW2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Cummins, Fiona",
@@ -3541,7 +3541,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3404171810",
-    "cover_url": "https://books.google.com/books/content?id=9zr2oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=9zr2oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Seddon, Holly",
@@ -3561,7 +3561,7 @@
     ],
     "language": "de",
     "isbn": "9783641170318",
-    "cover_url": "https://books.google.com/books/content?id=VfwqCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=VfwqCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Winslow, Don",
@@ -3581,7 +3581,7 @@
     ],
     "language": "de",
     "isbn": "9783426462102",
-    "cover_url": "https://books.google.com/books/content?id=HaEnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=HaEnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Rankin, Ian",
@@ -3619,7 +3619,7 @@
     ],
     "language": "de",
     "isbn": "9783644015531",
-    "cover_url": "https://books.google.com/books/content?id=IlxrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=IlxrEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Koryta, Michael",
@@ -3637,7 +3637,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3453438442",
-    "cover_url": "https://books.google.com/books/content?id=xi7qjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=xi7qjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Schätzing, Frank",
@@ -3657,7 +3657,7 @@
     ],
     "language": "de",
     "isbn": "9783462300260",
-    "cover_url": "https://books.google.com/books/content?id=WM5mAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=WM5mAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Billingham, Mark",
@@ -3677,7 +3677,7 @@
     ],
     "language": "de",
     "isbn": "9783641187163",
-    "cover_url": "https://books.google.com/books/content?id=FwArCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=FwArCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Robotham, Michael",
@@ -3697,7 +3697,7 @@
     ],
     "language": "de",
     "isbn": "9783641338398",
-    "cover_url": "https://books.google.com/books/content?id=1i5NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=1i5NEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Robotham, Michael",
@@ -3717,7 +3717,7 @@
     ],
     "language": "de",
     "isbn": "9783641338398",
-    "cover_url": "https://books.google.com/books/content?id=1i5NEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=1i5NEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Louth, Nick",
@@ -3737,7 +3737,7 @@
     ],
     "language": "de",
     "isbn": "9783759243072",
-    "cover_url": "https://books.google.com/books/content?id=xcsdEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=xcsdEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Littell, Robert",
@@ -3755,7 +3755,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3596169364",
-    "cover_url": "https://books.google.com/books/content?id=NeyDGQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=NeyDGQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Wilhelm, Uwe",
@@ -3775,7 +3775,7 @@
     ],
     "language": "de",
     "isbn": "9783641189181",
-    "cover_url": "https://books.google.com/books/content?id=jFE7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=jFE7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Meltz, Olivia",
@@ -3795,7 +3795,7 @@
     ],
     "language": "de",
     "isbn": "9783940873385",
-    "cover_url": "https://books.google.com/books/content?id=o9N7AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=o9N7AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Jonasson, Jonas",
@@ -3815,7 +3815,7 @@
     ],
     "language": "de",
     "isbn": "9783641083083",
-    "cover_url": "https://books.google.com/books/content?id=MceZAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=MceZAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Olsson, Fredrik T.",
@@ -3833,7 +3833,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3492056393",
-    "cover_url": "https://books.google.com/books/content?id=Pp0bMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Pp0bMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Edwardson, Ake",
@@ -3853,7 +3853,7 @@
     ],
     "language": "de",
     "isbn": "9783843705721",
-    "cover_url": "https://books.google.com/books/content?id=czcbAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=czcbAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Garcia Saenz, Eva",
@@ -3873,7 +3873,7 @@
     ],
     "language": "de",
     "isbn": "9783104905747",
-    "cover_url": "https://books.google.com/books/content?id=oKONDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=oKONDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Streeck, Hendrik",
@@ -3884,14 +3884,16 @@
     "location": "Bonn-Arzt und Wissenschaftler",
     "notes": null,
     "description": "Eine junge Wissenschaftlerin stürzt von einem Hochhaus in Boston. Detective Vince Brickle ermittelt und stößt rasch auf eine Reihe von Ungereimtheiten: Die Tote forschte am Virologischen Institut an einem wichtigen Projekt und stand kurz vor dem Durchbruch. Zusammen mit dem Virologen Frank findet Vince heraus, dass die Wissenschaftlerin ein neues gefährliches Virus so manipuliert hat, dass es als tödliche Waffe eingesetzt werden kann.",
-    "google_books_id": "46L70AEACAAJ",
-    "publisher": null,
-    "published_date": "2025",
-    "page_count": null,
-    "categories": [],
+    "google_books_id": "p24oEQAAQBAJ",
+    "publisher": "Piper ebooks",
+    "published_date": "2025-02-27",
+    "page_count": 403,
+    "categories": [
+      "Fiction"
+    ],
     "language": "de",
-    "isbn": "3492065597",
-    "cover_url": null
+    "isbn": "9783492609777",
+    "cover_url": "https://books.google.com/books/content?id=p24oEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Cavanagh, Steve",
@@ -3911,7 +3913,7 @@
     ],
     "language": "en",
     "isbn": "9781409152408",
-    "cover_url": "https://books.google.com/books/content?id=dE3JDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=dE3JDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Jaud, Tommy",
@@ -3931,7 +3933,7 @@
     ],
     "language": "de",
     "isbn": "9783104006468",
-    "cover_url": "https://books.google.com/books/content?id=orVqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=orVqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Cavanagh, Steve",
@@ -3951,7 +3953,7 @@
     ],
     "language": "de",
     "isbn": "9783641305451",
-    "cover_url": "https://books.google.com/books/content?id=gBW3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=gBW3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Link, Charlotte",
@@ -3971,7 +3973,7 @@
     ],
     "language": "de",
     "isbn": "9783641229634",
-    "cover_url": "https://books.google.com/books/content?id=F0JJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=F0JJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Ragde, Anne",
@@ -3991,7 +3993,7 @@
     ],
     "language": "de",
     "isbn": "9783641146993",
-    "cover_url": "https://books.google.com/books/content?id=IvE9AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=IvE9AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Kepler, Lars",
@@ -4011,7 +4013,7 @@
     ],
     "language": "de",
     "isbn": "9783838702209",
-    "cover_url": "https://books.google.com/books/content?id=l42Ax8tG3AkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=l42Ax8tG3AkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Kepler, Lars",
@@ -4051,7 +4053,7 @@
     ],
     "language": "de",
     "isbn": "9783426444627",
-    "cover_url": "https://books.google.com/books/content?id=NTCbDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=NTCbDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Parks, Brad",
@@ -4071,7 +4073,7 @@
     ],
     "language": "de",
     "isbn": "9783104903132",
-    "cover_url": "https://books.google.com/books/content?id=GDs7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=GDs7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Gran, Sara",
@@ -4091,7 +4093,7 @@
     ],
     "language": "de",
     "isbn": "9783426419960",
-    "cover_url": "https://books.google.com/books/content?id=GVlrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=GVlrAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Lyons, C.J.",
@@ -4111,7 +4113,7 @@
     ],
     "language": "de",
     "isbn": "3802588444",
-    "cover_url": "https://books.google.com/books/content?id=WLsFuwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=WLsFuwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Dusse, Karsten",
@@ -4131,7 +4133,7 @@
     ],
     "language": "de",
     "isbn": "9783641261634",
-    "cover_url": "https://books.google.com/books/content?id=PAG7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=PAG7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Stroud, Carsten",
@@ -4151,7 +4153,7 @@
     ],
     "language": "de",
     "isbn": "9783832187507",
-    "cover_url": "https://books.google.com/books/content?id=25S1BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=25S1BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Kepler, Lars",
@@ -4171,7 +4173,7 @@
     ],
     "language": "de",
     "isbn": "9783732541171",
-    "cover_url": "https://books.google.com/books/content?id=X5WQDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=X5WQDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Kepler, Lars",
@@ -4189,7 +4191,7 @@
     "categories": [],
     "language": "de",
     "isbn": "3785724632",
-    "cover_url": "https://books.google.com/books/content?id=H6T_ugAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=H6T_ugAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
   },
   {
     "author": "Gran, Sara",
@@ -4200,16 +4202,14 @@
     "location": null,
     "notes": "3. Fall",
     "description": "Mit Claire DeWitt kehrt eine der überzeugendsten Ermittlerfiguren auf die Krimi-Bühne zurück. In ihrem neuen Fall entgeht Claire DeWitt knapp einem Anschlag. Trotz zahlreicher Blessuren nimmt sie die Verfolgung des Attentäters auf. Nicht die beste Idee, wie sich zeigt.",
-    "google_books_id": "Vbx1DwAAQBAJ",
-    "publisher": "Heyne Verlag",
-    "published_date": "2019-02-25",
-    "page_count": 256,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783641220075",
-    "cover_url": "https://books.google.com/books/content?id=Vbx1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Raabe, Marc",
@@ -4229,7 +4229,7 @@
     ],
     "language": "de",
     "isbn": "9783843721196",
-    "cover_url": "https://books.google.com/books/content?id=QxKTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=QxKTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Miranda, Megan",
@@ -4249,7 +4249,7 @@
     ],
     "language": "de",
     "isbn": "9783641210656",
-    "cover_url": "https://books.google.com/books/content?id=h3oqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=h3oqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Suarez, Daniel",
@@ -4269,7 +4269,7 @@
     ],
     "language": "en",
     "isbn": "9781101587331",
-    "cover_url": "https://books.google.com/books/content?id=Mw1PmllcFFoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Mw1PmllcFFoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Fassnacht, Lucas",
@@ -4289,7 +4289,7 @@
     ],
     "language": "de",
     "isbn": "9783641271527",
-    "cover_url": "https://books.google.com/books/content?id=FkVnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=FkVnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Coben, Harlan",
@@ -4309,7 +4309,7 @@
     ],
     "language": "de",
     "isbn": "9783641286514",
-    "cover_url": "https://books.google.com/books/content?id=BkNnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=BkNnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Born, Leo",
@@ -4340,16 +4340,14 @@
     "location": null,
     "notes": "Fall 2",
     "description": "Es ist Sommer in Berlin. Ein Mann fällt vom Himmel. Ein blinder Passagier, versteckt im Fahrwerkraum eines Flugzeugs. Ein Leben, das im Garten einer hübschen Jugendstilvilla endet. Pressefotograf Bronski und seine Kollegin Svenja Spielmann recherchieren in einer Welt der Gewalt und des schönen Scheins. Seit er denken kann, fotografiert Bronski das Unglück.",
-    "google_books_id": "5GAGEAAAQBAJ",
-    "publisher": "btb Verlag",
-    "published_date": "2021-07-26",
-    "page_count": 234,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783641272081",
-    "cover_url": "https://books.google.com/books/content?id=5GAGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Borck, Hubertus",
@@ -4369,7 +4367,7 @@
     ],
     "language": "de",
     "isbn": "9783644012264",
-    "cover_url": "https://books.google.com/books/content?id=DQyWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=DQyWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Aurass, Dieter",
@@ -4389,7 +4387,7 @@
     ],
     "language": "de",
     "isbn": "9783948346782",
-    "cover_url": "https://books.google.com/books/content?id=dYCfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=dYCfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Brown, Dan",
@@ -4409,7 +4407,7 @@
     ],
     "language": "de",
     "isbn": "9782808008181",
-    "cover_url": "https://books.google.com/books/content?id=Vo5QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Vo5QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Berenz, Björn",
@@ -4429,7 +4427,7 @@
     ],
     "language": "de",
     "isbn": "9783641299101",
-    "cover_url": "https://books.google.com/books/content?id=Oi3hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Oi3hEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Delaney, J.P.",
@@ -4449,7 +4447,7 @@
     ],
     "language": "de",
     "isbn": "9783641300081",
-    "cover_url": "https://books.google.com/books/content?id=KBScEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=KBScEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Hausmann, Romy",
@@ -4469,7 +4467,7 @@
     ],
     "language": "de",
     "isbn": "9783423436885",
-    "cover_url": "https://books.google.com/books/content?id=Oj-6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=Oj-6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Miranda, Megan",
@@ -4489,7 +4487,7 @@
     ],
     "language": "de",
     "isbn": "9783641275273",
-    "cover_url": "https://books.google.com/books/content?id=GxsnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=GxsnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Bennett, Michael",
@@ -4509,7 +4507,7 @@
     ],
     "language": "de",
     "isbn": "9783641298739",
-    "cover_url": "https://books.google.com/books/content?id=HhOcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=HhOcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Wells, Dan",
@@ -4520,16 +4518,14 @@
     "location": null,
     "notes": null,
     "description": "Mein Name ist John Cleaver. Ich bin 16 Jahre alt und lebe in Clayton County. Ich möchte das Richtige tun, um jeden Preis. Doch das ist nur die eine Hälfte von mir. Mein Name ist Mr. Monster. Ich weise alle Anzeichen eines Serienkillers auf. Ich phantasiere über Feuer, Gewalt und Tod. Ich habe einen Dämon besiegt. Doch es gibt viele Dämonen da draußen.",
-    "google_books_id": "fTeivx9w4DUC",
-    "publisher": "Hachette UK",
-    "published_date": "2010-04-01",
-    "page_count": 201,
-    "categories": [
-      "Young Adult Fiction"
-    ],
-    "language": "en",
-    "isbn": "9780755354306",
-    "cover_url": "https://books.google.com/books/content?id=fTeivx9w4DUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "Gruber, Andreas",
@@ -4549,7 +4545,7 @@
     ],
     "language": "de",
     "isbn": "9783641205447",
-    "cover_url": "https://books.google.com/books/content?id=6xw-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=6xw-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Edwardson, Ake",
@@ -4560,14 +4556,16 @@
     "location": null,
     "notes": null,
     "description": "In einem verrufenen Hotel mitten in Göteborg wird eine junge Frau tot aufgefunden – sie wurde erhängt. Ihre mit weißer Farbe bemalte Hand gibt Erik Winter Rätsel auf. Wenig später findet man auch Paulas Mutter tot auf, und für Winter rückt ein Indiz in den Mittelpunkt der Ermittlungen: Beide Leichen haben eine weiß bemalte Hand.",
-    "google_books_id": null,
-    "publisher": null,
-    "published_date": null,
-    "page_count": null,
-    "categories": [],
-    "language": null,
-    "isbn": null,
-    "cover_url": null
+    "google_books_id": "8RcbAwAAQBAJ",
+    "publisher": "Ullstein eBooks",
+    "published_date": "2011-12-09",
+    "page_count": 458,
+    "categories": [
+      "Fiction"
+    ],
+    "language": "de",
+    "isbn": "9783843702935",
+    "cover_url": "https://books.google.com/books/content?id=8RcbAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Holt, Anne & Even",
@@ -4587,7 +4585,7 @@
     ],
     "language": "sv",
     "isbn": "9789164241689",
-    "cover_url": "https://books.google.com/books/content?id=GS6ECwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=GS6ECwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Aichner, Bernhard",
@@ -4607,7 +4605,7 @@
     ],
     "language": "de",
     "isbn": "9783641273095",
-    "cover_url": "https://books.google.com/books/content?id=ZmxLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=ZmxLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   },
   {
     "author": "Redondo, Dolores",
@@ -4618,16 +4616,14 @@
     "location": null,
     "notes": null,
     "description": "Wenn die Natur tobt und die Menschen am schutzlosesten sind, schlägt er erbarmungslos zu. Er ist als 'der Komponist' bekannt. Am verheißungsvollen Vorabend des schlimmsten Hurrikans der Geschichte von New Orleans befindet sich die junge Kommissarin Amaia Salazar mit ihrem Ermittlungsteam in der Stadt. Doch dann erreicht sie ein Anruf aus Spanien, der sie mit den Geistern ihrer Kindheit konfrontiert.",
-    "google_books_id": "vEVnEAAAQBAJ",
-    "publisher": "btb Verlag",
-    "published_date": "2022-09-14",
-    "page_count": 556,
-    "categories": [
-      "Fiction"
-    ],
-    "language": "de",
-    "isbn": "9783641263942",
-    "cover_url": "https://books.google.com/books/content?id=vEVnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "google_books_id": null,
+    "publisher": null,
+    "published_date": null,
+    "page_count": null,
+    "categories": [],
+    "language": null,
+    "isbn": null,
+    "cover_url": null
   },
   {
     "author": "McIlanney, Liam",
@@ -4647,6 +4643,6 @@
     ],
     "language": "de",
     "isbn": "9783641250911",
-    "cover_url": "https://books.google.com/books/content?id=HaXbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "cover_url": "https://books.google.com/books/content?id=HaXbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
   }
 ]

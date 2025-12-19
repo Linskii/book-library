@@ -11,6 +11,7 @@ import time
 from pathlib import Path
 from typing import Dict, List, Optional
 import urllib.parse
+from tqdm import tqdm
 
 
 def parse_date(date_str: str) -> tuple[Optional[int], Optional[int]]:
@@ -178,9 +179,11 @@ def search_google_books(title: str, author: str) -> Optional[Dict]:
                 elif 'thumbnail' in book_info['imageLinks']:
                     result['cover_url'] = book_info['imageLinks']['thumbnail']
 
-                # Convert http to https
+                # Convert http to https and upgrade to higher resolution
                 if result['cover_url']:
                     result['cover_url'] = result['cover_url'].replace('http://', 'https://')
+                    # Upgrade zoom level from 1 to 5 for much higher quality images
+                    result['cover_url'] = result['cover_url'].replace('zoom=1', 'zoom=5')
 
             return result
 
@@ -232,26 +235,21 @@ def process_book(book_data: Dict, fetch_missing: bool = True) -> Dict:
 
     # Fetch from Google Books API if description or cover is missing
     if fetch_missing and (not processed['description'] or not processed.get('cover_url')):
-        print(f"  🔍 Fetching from Google Books API...")
         google_data = search_google_books(processed['title'], processed['author'])
 
         if google_data:
             # Only use Google data for fields that are empty
             if not processed['description'] and google_data['description']:
                 processed['description'] = google_data['description']
-                print(f"  ✓ Found description")
 
             if google_data['cover_url']:
                 processed['cover_url'] = google_data['cover_url']
-                print(f"  ✓ Found cover")
 
             # Always add metadata if available
             for key in ['google_books_id', 'publisher', 'published_date',
                        'page_count', 'categories', 'language', 'isbn']:
                 if google_data.get(key):
                     processed[key] = google_data[key]
-        else:
-            print(f"  ✗ No data found in Google Books")
 
     return processed
 
@@ -326,15 +324,22 @@ def main(mode: str = None):
     processed_books = []
     total = len(books_to_process)
 
-    for i, book_data in enumerate(books_to_process, 1):
-        print(f"[{i}/{total}] {book_data['author']}: {book_data['title']}")
+    # Use tqdm for beautiful progress bar
+    with tqdm(books_to_process, desc="📚 Processing", unit="book",
+              bar_format='{l_bar}{bar:30}{r_bar}{bar:-10b}',
+              colour='green') as pbar:
+        for book_data in pbar:
+            # Update progress bar description with current book
+            author = book_data['author'][:20]  # Truncate if too long
+            title = book_data['title'][:30]
+            pbar.set_description(f"📚 {author}: {title}")
 
-        processed = process_book(book_data, fetch_missing=fetch_missing)
-        processed_books.append(processed)
+            processed = process_book(book_data, fetch_missing=fetch_missing)
+            processed_books.append(processed)
 
-        # Rate limiting for API calls
-        if fetch_missing and i < total:
-            time.sleep(0.5)
+            # Rate limiting for API calls
+            if fetch_missing:
+                time.sleep(0.5)
 
     # Sort by date
     processed_books.sort(key=lambda x: (
