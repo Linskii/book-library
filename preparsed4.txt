@@ -1,0 +1,345 @@
+[
+  {
+    "author": "Kepler, Lars",
+    "title": "Der Hypnotiseur (Band 1)",
+    "date_read": null,
+    "notes": "Bergisch Gladbach",
+    "description": "Vor den Toren Stockholms wird an einem Sportplatz ein brutal ermordeter Mann entdeckt. Kurz darauf werden seine Frau und Tochter ebenso bestialisch getötet aufgefunden. Offenbar wollte der Täter die gesamte Familie auslöschen. Doch der Sohn überlebt schwer verletzt. Als Kommissar Joona Linna erfährt, dass es noch eine Schwester gibt, wird ihm klar, dass er sie unbedingt vor dem Mörder finden muss. Er setzt sich mit dem Arzt und Hypnotiseur Erik Maria Bark in Verbindung. Er soll den kaum ansprechbaren Jungen unter Hypnose verhören."
+  },
+  {
+    "author": "Kepler, Lars",
+    "title": "Paganinis Fluch (Band 2)",
+    "date_read": null,
+    "notes": null,
+    "description": "Carl Palmcrona wird im Stockholmer Nobelstadtteil Östermalm in seiner Wohnung tot aufgefunden. Das Zimmer, in dem er an einem Strick hängt, ist unmöbliert und es gibt darin nichts, worauf er hätte steigen können, um Selbstmord zu begehen. Am selben Tag wird auf einer Jacht, die in den Stockholmer Schären treibt, eine tote Frau entdeckt. Die beiden Todesfälle geben der Polizei Rätsel auf. Bis Kommissar Joona Linna zwischen ihnen eine Verbindung entdeckt."
+  },
+  {
+    "author": "Gößling, Andreas",
+    "title": "Wolfswut",
+    "date_read": null,
+    "notes": null,
+    "description": "Ein paar harmlos aussehende Fässer in der Garage ihres verstorbenen Vaters verwandeln das Leben von Lotte Soltau in einen Trümmerhaufen: In den Fässern lagern fünf brutal zerstückelte Frauen, teilweise müssen die Verstümmelungen bei lebendigem Leib zugefügt worden sein. Während Lotte noch versucht zu begreifen, wie ihr Vater zu den Taten eines Serienkillers fähig sein konnte, geschieht ein neuer grausiger Mord."
+  },
+  {
+    "author": "Parks, Brad",
+    "title": "Nicht ein Wort",
+    "date_read": null,
+    "notes": null,
+    "description": "Er ist Richter. Er liebt seine Familie. Das wissen auch die, die seine Kinder entführt haben. Damit er ein falsches Urteil spricht. Wird er Recht sprechen oder das Leben seiner Kinder retten? Plötzlich steht das Schicksal seiner gesamten Familie auf dem Spiel, und Scott Sampson muss die schwerste Entscheidung seines Lebens treffen."
+  },
+  {
+    "author": "Gran, Sara",
+    "title": "Das Ende der Welt",
+    "date_read": null,
+    "notes": null,
+    "description": "San Francisco. Claire DeWitts Ex-Freund Paul wurde in seiner Wohnung erschossen, seine wertvollen Gitarren gestohlen. Alles deutet auf einen Raubmord. Seltsamerweise verkraftet Pauls Ehefrau Lydia den Tod ihres Mannes besser als Claire. Sie muss herausfinden, was wirklich geschah. Claires stetig steigender Drogenkonsum ist ihr Betäubung und geniale Ermittlungshilfe zugleich."
+  },
+  {
+    "author": "Lyons, C.J.",
+    "title": "Tot ist nur, wer vergessen ist",
+    "date_read": null,
+    "notes": null,
+    "description": "Sarah Durandt weiß, dass der Mörder ihres Mannes und ihres Sohnes tot ist - denn sie war Zeugin bei der Vollstreckung der Todesstrafe. Da die Leichen nie gefunden wurden, begibt sich Sarah selbst auf die Suche, um endlich mit ihrer Vergangenheit abzuschließen. Doch was sie herausfindet, ist ungleich erschütternder, als sie es sich je hätte vorstellen können."
+  },
+  {
+    "author": "Dusse, Karsten",
+    "title": "Achtsam morden",
+    "date_read": null,
+    "notes": null,
+    "description": "Björn Diemel wird von seiner Frau gezwungen, ein Achtsamkeits-Seminar zu besuchen, um seine Ehe ins Reine zu bringen. Der Kurs trägt tatsächlich Früchte und Björn kann das Gelernte sogar in seinen Job integrieren. Denn als sein Mandant, ein brutaler Großkrimineller, beginnt, ihm ernstliche Probleme zu bereiten, bringt er ihn einfach um - und zwar nach allen Regeln der Achtsamkeit."
+  },
+  {
+    "author": "Stroud, Carsten",
+    "title": "Die Rückkehr (Band 2)",
+    "date_read": null,
+    "notes": null,
+    "description": "Ein kleiner Ort im Süden der USA wird zum Schauplatz einer Folge nie da gewesener, schockierender Ereignisse. Ein Excop wird gefasst, in seinem Hummer-SUV liegen 100.000 Dollar eines kürzlich verübten Banküberfalls. Doch ihm gelingt die Flucht. Der kleine Rainey hört eine Stimme aus der Vergangenheit und mutiert von einem normalen Jungen in ein gnadenloses Monster. Und mittendrin der Ermittler Nick Kavanaugh und seine Frau Kate."
+  },
+  {
+    "author": "Kepler, Lars",
+    "title": "Hasenjagd (Band 6)",
+    "date_read": null,
+    "notes": null,
+    "description": "Joona Linna sitzt bereits seit zwei Jahren im Hochsicherheitstrakt der JVA Kumla ein, als er zu einem heimlichen Treffen mit dem schwedischen Premierminister gebeten wird. In einem wohlhabenden Stockholmer Viertel ist ein Mann bestialisch ermordet worden. Kurz darauf geschieht ein weiterer Mord, nach ähnlich brutalem Muster: Beiden Opfern wurde vor ihrem quälend langsamen Tod ein Kinderlied vorgespielt."
+  },
+  {
+    "author": "Kepler, Lars",
+    "title": "Flammenkinder (Band 3)",
+    "date_read": null,
+    "notes": null,
+    "description": "Sundsvall: In einer Einrichtung für schwer erziehbare Jugendliche werden ein Mädchen und eine Betreuerin brutal ermordet. Als entdeckt wird, dass ein anderes Mädchen verschwunden ist, scheint klar, dass sie die Morde verübt hat. Da meldet sich eine verzweifelte Frau: Ihr Auto wurde gestohlen, wahrscheinlich von dem geflohenen Mädchen - und auf dem Rücksitz saß ihr vierjähriger Sohn!"
+  },
+  {
+    "author": "Gran, Sara",
+    "title": "Das Ende der Lügen",
+    "date_read": null,
+    "notes": "3. Fall",
+    "description": "Mit Claire DeWitt kehrt eine der überzeugendsten Ermittlerfiguren auf die Krimi-Bühne zurück. In ihrem neuen Fall entgeht Claire DeWitt knapp einem Anschlag. Trotz zahlreicher Blessuren nimmt sie die Verfolgung des Attentäters auf. Nicht die beste Idee, wie sich zeigt."
+  },
+  {
+    "author": "Raabe, Marc",
+    "title": "Zimmer 19",
+    "date_read": null,
+    "notes": null,
+    "description": "Auf der Eröffnungsveranstaltung der Berlinale wird zum Entsetzen aller ein Snuff-Film gezeigt. Das Opfer: die Tochter des Bürgermeisters Otto Keller. Tom Babylon vom LKA und die Psychologin Sita Johanns ermitteln unter Hochdruck. Plötzlich stellt Sita Johanns fest, es gibt eine Verbindung zwischen ihr und den Opfern: Ein furchtbares Ereignis in ihrer Jugend - und die Zahl Neunzehn."
+  },
+  {
+    "author": "Miranda, Megan",
+    "title": "TICK TACK-Wie lange kannst Du lügen?",
+    "date_read": null,
+    "notes": null,
+    "description": "Zehn Jahre ist es her, dass Nic ihre Heimatstadt von einem Tag auf den anderen verließ. Doch die Erinnerung an die Nacht, in der ihre beste Freundin Corinne spurlos verschwand, hat sie nie losgelassen. Eines Tages erhält sie eine geheimnisvolle Nachricht: 'Dieses Mädchen. Ich habe es gesehen.' Nic weiß, dass nur eine damit gemeint sein kann: Corinne."
+  },
+  {
+    "author": "Suarez, Daniel",
+    "title": "Kill decision",
+    "date_read": null,
+    "notes": null,
+    "description": "Blutiger Drohnenangriff auf eine Pilgerstätte im Irak. Die Biologin Linda McKinney ahnt nichts davon: Sie erforscht gerade eine besonders aggressive Spezies afrikanischer Ameisen, als sie mitten im Dschungel gekidnappt wird. Wer sind die Mächte, die Lindas Forschungen zur Schwarmintelligenz unterdrücken wollen? Während sich in den USA grauenhafte Bombardements häufen, macht sich das Team um Odin und McKinney daran, die Menschheit zu retten."
+  },
+  {
+    "author": "Fassnacht, Lucas",
+    "title": "Tartarus",
+    "date_read": null,
+    "notes": null,
+    "description": "Leon Gärtner hat den Masterabschluss in der Tasche. Auf seiner ersten Konferenz lernt er eine Journalistin kennen, die geheimnisvolle Valérie. Doch dann wird Valérie vor seinen Augen ermordet. Leon hat eine einzige Spur: den Namen Tartarus. Als die offiziellen Ermittlungen stocken, beginnt er, auf eigene Faust zu recherchieren und gelangt in eine Welt, in der jedes falsche Wort den Tod bedeuten kann."
+  },
+  {
+    "author": "Coben, Harlan",
+    "title": "Was im Dunkeln liegt",
+    "date_read": null,
+    "notes": "Fall 2",
+    "description": "Privatdetektiv Wilde ist dafür bekannt, jedem Geheimnis auf die Spur zu kommen. Das größte jedoch trägt er selbst mit sich herum. Denn als kleiner Junge wurde er in den Wäldern der Appalachen gefunden – ohne Erinnerung. Als er eines Tages endlich eine heiße Fährte aufnimmt, stellt sich heraus, dass seine mysteriöse Herkunft mit einem aktuellen Vermisstenfall verknüpft scheint."
+  },
+  {
+    "author": "Born, Leo",
+    "title": "Sterbende Seelen",
+    "date_read": null,
+    "notes": null,
+    "description": "Frankfurt wird von einer brutalen Mordserie erschüttert, deren blutige Spuren Kommissarin Mara 'Die Krähe' Billinsky bis nach Sizilien führen - mitten in ein grausames Netz aus Zwangsprostitution, Drogenhandel und düsterem Aberglauben. Maras einzige Chance, um an die Hintermänner dieser finsteren Organisation zu gelangen, ist die Prostituierte Joy."
+  },
+  {
+    "author": "Aichner, Bernhard",
+    "title": "Gegenlicht",
+    "date_read": null,
+    "notes": "Fall 2",
+    "description": "Es ist Sommer in Berlin. Ein Mann fällt vom Himmel. Ein blinder Passagier, versteckt im Fahrwerkraum eines Flugzeugs. Ein Leben, das im Garten einer hübschen Jugendstilvilla endet. Pressefotograf Bronski und seine Kollegin Svenja Spielmann recherchieren in einer Welt der Gewalt und des schönen Scheins. Seit er denken kann, fotografiert Bronski das Unglück."
+  },
+  {
+    "author": "Borck, Hubertus",
+    "title": "Die Klinik",
+    "date_read": null,
+    "notes": null,
+    "description": "Ein Unfall mit dem Fahrrad, Krankenhaus, Koma. Als der junge Familienvater nicht mehr in akuter Lebensgefahr schwebt, stirbt er plötzlich. Die Witwe ist überzeugt, dass er umgebracht wurde. Die 59-jährige Kriminalkommissarin Franka Erdmann und ihr junger Assistent Alpay Eloglu stoßen auf weitere mysteriöse Todesfälle in der Klinik. Der Ort, der Heilung verspricht, wird zur mörderischen Falle."
+  },
+  {
+    "author": "Aurass, Dieter",
+    "title": "Wasserstoff",
+    "date_read": null,
+    "notes": null,
+    "description": "Als nur einen Tag später ein Vorstandsmitglied des Automobilkonzerns vom Dach des Firmengebäudes in den Tod springt, wird es Zeit zu handeln. Der eigenbrötlerische Kriminalhauptkommissar Wolf Wurmleitner erhält den Auftrag, die Hintergründe der Todesfälle zu untersuchen. Alle Verstorbenen waren an der revolutionären Entwicklung neuer Wasserstofftanks beteiligt. Wer hat ein Motiv, sie aufzuhalten?"
+  },
+  {
+    "author": "Brown, Dan",
+    "title": "Sakrileg (Band 2)",
+    "date_read": null,
+    "notes": null,
+    "description": "Robert Langdon, Symbolologe aus Harvard, befindet sich aus beruflichen Gründen in Paris, als er einen merkwürdigen Anruf erhält: Der Chefkurator des Louvre wurde mitten in der Nacht vor dem Gemälde der Mona Lisa ermordet aufgefunden. Langdon begibt sich zum Tatort und erkennt schon bald, dass der Tote durch eine Reihe von versteckten Hinweisen auf die Werke Leonardo da Vincis aufmerksam machen wollte."
+  },
+  {
+    "author": "Berenz, Björn",
+    "title": "Knäcketod",
+    "date_read": null,
+    "notes": null,
+    "description": "Eigentlich möchte Ina in Schweden einen geruhsamen Lebensabend genießen. Doch bei ihrer Ankunft auf dem Tingsmålahof zerplatzen ihre Träume. Statt ihres Geliebten Viggo empfängt sie nämlich seine Witwe Agneta. Schlimmer noch: Plötzlich steigt die Rate verdächtiger Todesfälle in der Gegend sprunghaft an, und Ina bleibt nichts anderes übrig, als selbst zu ermitteln."
+  },
+  {
+    "author": "Delaney, J.P.",
+    "title": "Die Fremde in meinem Haus",
+    "date_read": null,
+    "notes": null,
+    "description": "'Hallo, ich bin Anna. Aber geboren wurde ich als Sky und ich glaube, dass du meine leibliche Mutter bist.' Diese Nachricht trifft Susie wie ein Schlag in die Magengrube. Tatsächlich hat sie vor 15 Jahren ihre Tochter zur Adoption freigegeben. In der Hoffnung, ihren Fehler aus der Vergangenheit wieder gutzumachen, nimmt sie Anna bei sich auf. Doch das Mädchen verhält sich seltsam und verstrickt sich mehr und mehr in Lügen."
+  },
+  {
+    "author": "Hausmann, Romy",
+    "title": "Marta schläft",
+    "date_read": null,
+    "notes": null,
+    "description": "Es ist Jahre her, dass man Nadja für ein grausames Verbrechen verurteilt hat. Nach ihrer Haftentlassung wünscht sie sich nichts sehnlicher, als ein normales Leben zu führen. Doch dann geschieht ein Mord. Ein abgelegenes Haus wird zum Schauplatz eines bizarren Spiels – denn Nadjas Vergangenheit macht sie zum perfekten Opfer. Und zur perfekten Mörderin."
+  },
+  {
+    "author": "Miranda, Megan",
+    "title": "Bad Dreams",
+    "date_read": null,
+    "notes": null,
+    "description": "Arden Maynor ist sechs Jahre alt, als sie schlafwandelnd das Haus verlässt und in einer Sturmnacht verschwindet. Entgegen aller Wahrscheinlichkeit wird Arden Tage später gefunden. Viele Jahre später lebt sie unter dem Namen Olivia hunderte Meilen entfernt. Doch nun, wo der zwanzigste Jahrestag ihrer Rettung näher rückt, fühlt sie sich wieder beobachtet. Eines Nachts wacht sie plötzlich außerhalb ihres Bettes auf, wie damals."
+  },
+  {
+    "author": "Bennett, Michael",
+    "title": "6 Tote",
+    "date_read": null,
+    "notes": null,
+    "description": "Als Polizistin in Auckland und getrennt lebende Mutter einer Teenie-Tochter, hat Hana Westerman sich angewöhnt, stets nach vorn zu blicken. Doch ihr schwierigster Fall hat gerade erst begonnen: Ein mysteriöser Tippgeber weist ihr den Weg zu einem Toten, aufgehängt in einem geheimen Raum. Zu diesem Zeitpunkt ahnt Hana noch nicht, dass sie es mit dem ersten Serienkiller in der Geschichte Neuseelands zu tun hat."
+  },
+  {
+    "author": "Wells, Dan",
+    "title": "Mr. Monster (Band 2)",
+    "date_read": null,
+    "notes": null,
+    "description": "Mein Name ist John Cleaver. Ich bin 16 Jahre alt und lebe in Clayton County. Ich möchte das Richtige tun, um jeden Preis. Doch das ist nur die eine Hälfte von mir. Mein Name ist Mr. Monster. Ich weise alle Anzeichen eines Serienkillers auf. Ich phantasiere über Feuer, Gewalt und Tod. Ich habe einen Dämon besiegt. Doch es gibt viele Dämonen da draußen."
+  },
+  {
+    "author": "Wells, Dan",
+    "title": "Ich will dich nicht töten (Band 3)",
+    "date_read": "2015-11-06",
+    "notes": null,
+    "description": "Meine wichtigsten Regeln lauten: Sieh Mädchen nicht an. Sprich nicht länger mit ihnen als nötig. Doch nun ist da Marci, und sie ist unwiderstehlich. Ich möchte einfach ein normaler sechzehnjähriger Junge sein. Doch ich bin alles andere als das – ich bin ein Serienkiller. Ich weiß, dass es dort draußen Dämonen gibt. Und ich fürchte, dass das Dunkle in mir erneut die Oberhand gewinnt."
+  },
+  {
+    "author": "Gruber, Andreas",
+    "title": "Rachewinter (Band 3)",
+    "date_read": null,
+    "notes": null,
+    "description": "Mehrere Männer im besten Alter, erfolgreich und vermögend, werden grausam ermordet – und obwohl sie in verschiedenen Städten lebten, haben sich alle kurz vor ihrem Tod mit einer geheimnisvollen dunkelhaarigen Frau getroffen. Das müssen auch Kommissar Walter Pulaski in Leipzig und Anwältin Evelyn Meyers in Wien feststellen, die beide in die Fälle verwickelt werden."
+  },
+  {
+    "author": "Edwardson, Ake",
+    "title": "Zimmer Nr. 10 (Band 7)",
+    "date_read": null,
+    "notes": null,
+    "description": "In einem verrufenen Hotel mitten in Göteborg wird eine junge Frau tot aufgefunden – sie wurde erhängt. Ihre mit weißer Farbe bemalte Hand gibt Erik Winter Rätsel auf. Wenig später findet man auch Paulas Mutter tot auf, und für Winter rückt ein Indiz in den Mittelpunkt der Ermittlungen: Beide Leichen haben eine weiß bemalte Hand."
+  },
+  {
+    "author": "Holt, Anne & Even",
+    "title": "Infarkt (Band 2)",
+    "date_read": null,
+    "notes": null,
+    "description": "Ein spektakulärer Kunstraub. Eine Reihe unerklärlicher Herzversagen bei prominenten Sportlern. Die einzige Verbindung ist der millionenschwere Unternehmer Najib Aysha. Die norwegische Kardiologin Sara Zuckerman wird auf diesen Fall aufmerksam. Und dann erinnert sich Sara an ein Foto, das sie vor vielen Jahren gesehen hat und das der Schlüssel zu diesem Fall sein könnte."
+  },
+  {
+    "author": "Billingham, Mark",
+    "title": "Zeit zum Sterben",
+    "date_read": "Januar 2025",
+    "notes": null,
+    "description": "In einem einsamen Landstrich Englands werden zwei Schülerinnen als vermisst gemeldet. Als der Familienvater Stephen Bates verdächtigt wird, beginnt die Presse eine gnadenlose Hetzkampagne. Dann wird im Wald eine verweste Leiche gefunden. Doch wo ist das andere Mädchen? Der legendäre Ermittler Tom Thorne und seine Partnerin Helen wollen die Wahrheit – wie schrecklich sie auch sein mag."
+  },
+  {
+    "author": "Robotham, Michael",
+    "title": "Fürchte die Schatten (Cyrus Haven 2. Fall)",
+    "date_read": "Januar 2025",
+    "notes": "Sydney",
+    "description": "Evie Cormacs Leben ist eine Lüge. Seit man sie aus den Fängen eines angeblichen Entführers rettete, verbirgt sie verzweifelt ihre wahre Identität und Geschichte. Einer ist dennoch entschlossen, ihr zu helfen: Cyrus Haven, Psychologe. Als er bei Ermittlungen zum Mord an einem Detective auf Hinweise zu ihrer Vergangenheit stößt, will er endlich Licht ins Dunkel bringen."
+  },
+  {
+    "author": "Robotham, Michael",
+    "title": "Schweige still (Cyrus Haven 1. Fall)",
+    "date_read": "Februar 2025",
+    "notes": "Band 1",
+    "description": "Seine Kindheit birgt ein schweres Trauma, sein Leben hat er dem Kampf gegen das Verbrechen gewidmet: Der Psychologe Cyrus Haven berät die Polizei bei der Aufklärung von Gewaltverbrechen. Während er einen brutalen Mordfall untersucht, lernt Cyrus Evie Cormac kennen. Evie, die als Kind aus den Fängen eines Entführers gerettet wurde, ist zu einer hochintelligenten, aber unberechenbaren jungen Frau herangewachsen."
+  },
+  {
+    "author": "Louth, Nick",
+    "title": "Die Suche",
+    "date_read": "März 2025",
+    "notes": "England",
+    "description": "Eine Wissenschaftlerin verschwindet spurlos. In Amsterdam sterben Menschen. Malaria breitet sich in der Stadt aus, übertragen von gezielt ausgesetzten Mücken. Die Wissenschaftlerin Erica Stroud-Jones steht kurz vor dem Durchbruch in der Malaria-Forschung. Ihr Freund Max Carver sucht in der Amsterdamer Unterwelt nach ihr. Max muss wissen, woran Erica zuletzt gearbeitet hat, nur so lässt sich die Katastrophe aufhalten."
+  },
+  {
+    "author": "Littell, Robert",
+    "title": "Die Kalte Legende",
+    "date_read": "April 2025",
+    "notes": "Frankreich",
+    "description": "Der ehemalige CIA-Agent Martin Odum arbeitet als Privatdetektiv in Brooklyn. Aber wer verbirgt sich hinter dem Namen Martin Odum? Eines Tages erteilt ihm die junge, attraktive Russin Stella Kastner einen Auftrag, der ihn nach Israel führt. Dort holt ihn die Vergangenheit ein. Jetzt steht er vor einem unlösbaren Dilemma: Wenn er sich erinnert, ist er tot. Wenn er sich nicht erinnert, ebenfalls."
+  },
+  {
+    "author": "Wilhelm, Uwe",
+    "title": "Die Farben des Blutes",
+    "date_read": "Mai 2025",
+    "notes": "Berlin",
+    "description": "Er hasst sie, er jagt sie, er tötet sie ... Drei Morde in drei Monaten. Drei Frauen. Die Berliner Polizei steht unter Druck. Doch dann ist die Serie mit einem Mal beendet – nur nicht für Staatsanwältin Helena Faber. Als ein Jahr später eine vierte Frau brutal ermordet wird, macht Helena Jagd auf den, der sich selbst Dionysos nennt."
+  },
+  {
+    "author": "Meltz, Olivia",
+    "title": "Das Manifest der Macht",
+    "date_read": "Juni 2025",
+    "notes": "Autorenteam",
+    "description": "John Marks, angesehener New Yorker Rechtsanwalt, schließt eine der größten Firmenfusionen der Kanzleigeschichte ab. Das nutzt die Starreporterin Samantha Cunningham für ihre Zwecke und behauptet, John sei ein direkter Nachfahre von Karl Marx. Stattdessen stoßen sie auf ein Geheimnis, eine Legende, die die Welt auf den Kopf stellen könnte. Jetzt suchen die drei nach einem Schatz: Dem Schatz der Kommunisten."
+  },
+  {
+    "author": "Jonasson, Jonas",
+    "title": "Die Analphabetin die rechnen konnte",
+    "date_read": "Juni 2025",
+    "notes": "Schweden",
+    "description": "Mit fünf fing sie an zu arbeiten, mit zehn wurde sie Waise, mit fünfzehn von einem Auto überfahren. Im Grunde deutete alles darauf hin, dass Nombeko ihr Dasein in ihrer Hütte im größten Slum Südafrikas fristen und sehr früh sterben würde. Aber Nombeko war ein Rechengenie – und schon bald lag das Schicksal der Welt in ihren Händen."
+  },
+  {
+    "author": "Olsson, Fredrik T.",
+    "title": "Der Code",
+    "date_read": "Juli 2025",
+    "notes": "Schweden",
+    "description": "In Amsterdam fällt die junge Sumerologin Janine Haynes einem Verbrechen zum Opfer. Zur gleichen Zeit ermorden drei als Sanitäter getarnte Unbekannte in Berlin einen Obdachlosen. Und in Stockholm verschwindet der Kryptologe und Software-Experte William Sandberg spurlos. Seine Ex-Frau Christiane entdeckt einen Gegenstand, den er nie zurücklassen würde. Sehr schnell gibt es keinen Zweifel mehr, dass William entführt wurde."
+  },
+  {
+    "author": "Edwardson, Ake",
+    "title": "In alle Ewigkeit (Band 4)",
+    "date_read": "August 2025",
+    "notes": "Göteborg",
+    "description": "Als in einem Göteborger Park eine junge Frau vergewaltigt wird und danach nur knapp ihrem Peiniger entkommt, fühlt sich Kommissar Winter an einen schrecklichen Mord erinnert, der vor fünf Jahren an genau dieser Stelle begangen wurde. Ein Fall, den er nie lösen konnte. Und tatsächlich: Schon bald erschüttert der Fund einer weiteren Leiche die Stadt."
+  },
+  {
+    "author": "Garcia Saenz, Eva",
+    "title": "Die Stille des Todes",
+    "date_read": "September 2025",
+    "notes": "Baskenland – Spanien",
+    "description": "Es sterben immer zwei. Sie sind immer gleich alt. Und sie kennen sich nicht. Eine Stadt ist in Angst. In der Kathedrale von Vitoria liegt ein totes Paar, völlig nackt, die Hände auf der Wange des anderen. Das alles gleicht exakt einer Serie von Verbrechen vor zwanzig Jahren, die die Stadt in Atem hielt. Doch der Fall gilt als gelöst, der Täter sitzt in strenger Einzelhaft."
+  },
+  {
+    "author": "Streeck, Hendrik",
+    "title": "Das Institut",
+    "date_read": "Oktober 2025",
+    "notes": "Bonn-Arzt und Wissenschaftler",
+    "description": "Eine junge Wissenschaftlerin stürzt von einem Hochhaus in Boston. Detective Vince Brickle ermittelt und stößt rasch auf eine Reihe von Ungereimtheiten: Die Tote forschte am Virologischen Institut an einem wichtigen Projekt und stand kurz vor dem Durchbruch. Zusammen mit dem Virologen Frank findet Vince heraus, dass die Wissenschaftlerin ein neues gefährliches Virus so manipuliert hat, dass es als tödliche Waffe eingesetzt werden kann."
+  },
+  {
+    "author": "Cavanagh, Steve",
+    "title": "Liar (Band 3)",
+    "date_read": "November 2025",
+    "notes": "Belfast",
+    "description": "Leonard Howells durchlebt einen Albtraum: Seine Tochter Caroline wurde entführt. Nur einem Mann traut Howell zu, sie zu retten: Eddie Flynn. Eddie weiß, wie es ist, eine Tochter zu verlieren. Doch als die Lösegeldübergabe scheitert und Leonard Howells selbst unter Verdacht gerät, sind plötzlich zwei Leben in Gefahr."
+  },
+  {
+    "author": "Jaud, Tommy",
+    "title": "Hummeldumm",
+    "date_read": "November 2025",
+    "notes": "Köln",
+    "description": "Wer an allem schuld ist, ist für Matze sowieso klar: seine Freundin Sina. Während er die neue Eigentumswohnung klargemacht hat, sollte sie einfach nur 'irgendwas' buchen. Doch musste dieses 'irgendwas' ausgerechnet eine zweiwöchige Gruppenreise durch Namibia sein? Was hat er denn verbrochen, dass man ihn nun täglich in einen Kleinbus voller Bekloppter sperrt?"
+  },
+  {
+    "author": "Cavanagh, Steve",
+    "title": "Seven Days (Band 6)",
+    "date_read": "Dezember 2025",
+    "notes": "Belfast",
+    "description": "Randal Korn hat mehr Menschen auf den elektrischen Stuhl geschickt als jeder andere Staatsanwalt in Amerika. Sein nächstes Opfer: Andy Dubois, ein junger Afroamerikaner. Korn hat bereits alles für einen möglichst kurzen Prozess vorbereitet. Doch er hat nicht mit Eddie Flynn gerechnet. Dem New Yorker Anwalt bleiben sieben Tage, um Andy vor einer korrupten Justiz zu retten."
+  },
+  {
+    "author": "Aichner, Bernhard",
+    "title": "Brennweite",
+    "date_read": null,
+    "notes": null,
+    "description": "Frühling der Wunder. Deutschland erlebt das Unfassbare. Ein Blinder kann plötzlich wieder sehen, ein Terroranschlag wird verhindert, und eine Prophezeiung erschüttert das ganze Land. Verantwortlich dafür ist ein Mann, der aus dem Nichts kam. Ein Mönch, unscheinbar und bescheiden. Nur David Bronski und seine Kollegin Svenja Spielmann zweifeln. Sie machen sich auf die Suche nach der Wahrheit."
+  },
+  {
+    "author": "Redondo, Dolores",
+    "title": "Todesspiel. Die Nordseite des Herzens",
+    "date_read": null,
+    "notes": null,
+    "description": "Wenn die Natur tobt und die Menschen am schutzlosesten sind, schlägt er erbarmungslos zu. Er ist als 'der Komponist' bekannt. Am verheißungsvollen Vorabend des schlimmsten Hurrikans der Geschichte von New Orleans befindet sich die junge Kommissarin Amaia Salazar mit ihrem Ermittlungsteam in der Stadt. Doch dann erreicht sie ein Anruf aus Spanien, der sie mit den Geistern ihrer Kindheit konfrontiert."
+  },
+  {
+    "author": "McIlanney, Liam",
+    "title": "Ein frommer Mörder",
+    "date_read": null,
+    "notes": null,
+    "description": "Glasgow, 1969. Ein brutaler Serienkiller versetzt die Stadt in Angst. Als die Behörden beschließen, die Öffentlichkeit in die Suche einzubeziehen, gerät die Lage vollends außer Kontrolle. Ein Hilferuf erreicht den talentierten Ermittler DI McCormack. Er soll die Ermittlungen wieder in geordnete Bahnen lenken. Doch die Beamten aus der Stadt stehen dem Neuankömmling aus den Highlands ablehnend gegenüber."
+  }
+]

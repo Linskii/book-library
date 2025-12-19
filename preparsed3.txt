@@ -1,0 +1,219 @@
+[
+  {
+    "author": "Tsokos, Michael",
+    "title": "Der Totenleser",
+    "date_read": "November 2017",
+    "notes": null,
+    "description": "In seinem zweiten Buch ist Michael Tsokos, Deutschlands bekanntester Rechtsmediziner, dem Tod erneut auf der Spur – und schildert weitere unglaubliche Fälle aus eigener Erfahrung."
+  },
+  {
+    "author": "Izquierdo, Andreas",
+    "title": "Der Club der Traumtänzer",
+    "date_read": "November 2017",
+    "notes": "Esther",
+    "description": "Gabor Schöning sieht gut aus, ist erfolgreich, und die Frauen liegen ihm zu Füßen: Die Welt ist für ihn wie ein großer Süßwarenladen. Außerdem ist Gabor ein Mistkerl. Er schreckt vor nichts zurück, um seine Ziele zu erreichen. Doch dann fährt er mit dem Auto die Direktorin einer Sonderschule an. Und die kennt sich mit Schwererziehbaren wie ihm bestens aus. Als Wiedergutmachung soll Gabor fünf Sonderschüler Tango beibringen. Das Problem ist nur, dass alle Schüler einen IQ unter 85 und eigentlich keinen Bock auf Tanzen haben."
+  },
+  {
+    "author": "Fitzek, Sebastian",
+    "title": "Der Augensammler",
+    "date_read": "November 2017",
+    "notes": null,
+    "description": "Erst tötet er die Mutter, dann verscheppt er das Kind und gibt dem Vater 45 Stunden Zeit für die Suche. Das ist seine Methode. Nach Ablauf de Frist stirbt das Opfer in seinem Versteck. Doch damit Augensammler keine brauchbare Spur hinterlassen. Da meldet sich eine mysteriöse Zeugin: Alina Gregoriev, eine blinde Physiotherapeutin, die behauptet, durch bloße Köperberührungen in die Vergangenheit ihrer Patienten sehen zu können. Und gestern habe sie womöglich den Augensammler behandelt."
+  },
+  {
+    "author": "Eschbach, Andreas",
+    "title": "Todesengel",
+    "date_read": "Januar 2018",
+    "notes": null,
+    "description": "Es ist ein Vorfall, wie er sich immer wieder - und immer öfter- ereignet: Erich Sassbeck, ein alter Mann, ist zur falschen Zeit am falschen Ort und gerät in eine brutale Schlägerei, die ihn das Leben zu kosten droht. Doch am Schluss ist er es, der überlebt, während die beiden Jugendlichen, die ihn angegriffen haben, tot sind – erschossen von unbekannter Hand. Erich Sassbeck glaubt, dass ihn ein Wunder gerettet hat. Die Polizei dagegen verdächtigt ihn, geschossen zu haben. In Notwehr. Oder, schlimmer: in Selbstjustiz. Der Journalist Ingo Praise findet Beweise, dass die Geschichte des Rentners stimmt: Ein Unbekannter steift durch die Stadt, um Unschuldige zu beschützen."
+  },
+  {
+    "author": "Casey, Jane",
+    "title": "Der Brandstifter",
+    "date_read": "Februar 2018",
+    "notes": null,
+    "description": "DC Maeve Kerrigan ist ehrgeizig, zielstrebig- und weiblich. Besonders letztere Eigenschaft erschwert ihr den Alltag bei der Polizei, wird sie doch von ihren männlichen Kollegen nicht selten nur darauf reduziert. Erst recht im Zuge des aktuellen Falles, der das Team in Atem hält: Ein unbekannter Täter hat bereits vier junge Frauen umgebracht und die Leiche anschließend angezündet, um jede forensische Spur zu vernichten. Als ein fünftes Opfer gefunden wird – Rebecca Haworth-, ist auch Maeve am Tatort."
+  },
+  {
+    "author": "Parsons, Charlotte",
+    "title": "Du sollst nicht schlafen",
+    "date_read": "März 2018",
+    "notes": null,
+    "description": "Eine junge blonde Frau wird tot aus der Themse gezogen. Die Journalistin Cynthia soll über den Fall berichten und bekommt heraus, dass es schon frühere ähnliche Morde gegeben hat – war es immer der selbe Täter? Sie schreibt eine Reihe von Artikeln über den 'Barbie-Killer', wie er bald genannt wird, und hegt die schönsten Hoffnungen für ihre Karriere. Zur selben Zeit ist überall von einer neuartigen Droge die Rede, die vom Verteidigungsministerium in einer geheimen Versuchsreihe getestet wird: Sie ermöglicht es den Probanden, völlig ohne Schlaf auszukommen."
+  },
+  {
+    "author": "Adler Olsen, Jussi",
+    "title": "Verachtung (4.Fall)",
+    "date_read": "April 2018",
+    "notes": null,
+    "description": "Im November 1985 trifft eine junge Frau namens Nete Rosen während eines Empfangs auf den Gynäkologen Curt Wad. Vor den Augen der Gäste und ihres Ehemannes demütigt Wad die Frau, über deren Vergangenheit niemand etwas zu wissen scheint. Es ist eine entsetzliche Vergangenheit. 2010 stößt das Sonderdezernat Q in Kopenhagen auf die Akte einer im Jahr 1987 als vermisst gemeldeten Frau: Rita Nielsen. Recherchen ziegen, dass fünf weitere Personen seit September 1987 spurlos verschwunden sind. Carl Morck und seine Assistenten Assad und Rose ermitteln in einem ihrer bizarrsten Fälle."
+  },
+  {
+    "author": "Adler Olsen, Jussi",
+    "title": "Verheissung",
+    "date_read": "Mai 2018",
+    "notes": null,
+    "description": "Carl Morck hat gerade seine Beine auf dem Schreibtisch im Keller des Polizeipräsidiums zum Nickerchen plaziert, da klingelt das Telefon. Christian Habrstaat, ein Kollege von der dänischen Insel Bornholm, bittet ihn dringend um Unterstützung. Carl ist nicht allzu erfreut darüber, dass ihm ein uralter Fall aufs Auge gedrückt werden soll. Doch nur wenige Stunden später kommt Haberstaat auf schockierende Weise ums Leben - und kurz darauf dessen Sohn. Unter größtem Druck stürzt sich das Sonderdezernat Q in den siebzehn Jahre alten Fall um den tragischen Unfalltod einer fröhlichen jungen Frau auf Bornholm."
+  },
+  {
+    "author": "Adler Olsen, Jussi",
+    "title": "Selfies",
+    "date_read": "Juni 2018",
+    "notes": null,
+    "description": "In einem Park in Kopenhagen wird eine alte Frau ermordet aufgefunden. Fast zeitgleich begibt sich ein durchgedrehter Autofahrer auf die tödliche Jagd nach jungen Frauen. Irgendwo da draußen, so hat es den Anschein, werden weitere perfide Morde geplant. Steht all dies womöglich im Zusammenhang mit einem lange zurückliegenden und noch immer unaufgekärten Verbrechen? Das Manegement des Poilzeipräsidiums in Kopenhagen ist höchst unzufrieden mit der Aufklärungsrate des Sonderdezernats Q. Ausgerechnet Rose soll nun das Ruder herumreißen – doch Rose ist in ihrem aktuellen Zustand weit davon entfernt."
+  },
+  {
+    "author": "McKinty, Adrian",
+    "title": "Die verlorenen Schwestern",
+    "date_read": "Juli 2018",
+    "notes": null,
+    "description": "Nordirland, 1983. Als an einem Septembertag 38 IRA-Terroristen aus einem Hochsicherheitsgefängnis ausbrechen, herrscht höchste Alarmbereitschaft: Unter den Flüchtlingen befindet sich der inLibyen ausgebildete Bombenspezialist Dermot McCann. Inspector Sergeant Sean Duffy drückte mit McCann die Schulbank, weshalb mit einem Mal der MI5 vor seiner Tür steht. Duffy soll McCann finden."
+  },
+  {
+    "author": "Adler Olsen, Jussi",
+    "title": "Takeover - Und sie dankte den Göttern...",
+    "date_read": "Sept. 2018",
+    "notes": null,
+    "description": "Der erfolgreiche niederländische Geschäftsmann Peter de Boer leitet ein Unternehmen, das darauf spezialisiert ist, große Firmen zu zerschlagen. Er wirbt die Halbindonesierien Nicky Landsaat als Trainee an und macht die ehrgeizige junge Frau rasch zu seiner Vertrauten – und mehr. Noch ahnen beide nichts von ihren gemeinsamen Wurzeln. Eines Tages gerät de Boer an den undurchsichtigen Chef einer Consultingfirma, der ihn im Autrag des irakischen Nachrichtendienstes damit betraut, einen großen Ölkonzern in die Knie zu zwingen."
+  },
+  {
+    "author": "Adler Olsen, Jussi",
+    "title": "Erwartung (5.Fall)",
+    "date_read": "Oktober 2018",
+    "notes": null,
+    "description": "Marco ist fünfzehn und hasst sein Leben in einem Clan, dessen Mitglieder von ihrem teuflischen Anführer Zola in die Kriminalität gezwungen werden. Als Marco es eines Tages nicht mehr aushält, fasst er einen folgenreichen Entschluss: Auf seiner Flucht vor Zolas Männern stößt er in einem Erdlochim Wald auf eine stark verweste Männeleiche- und setzt damit eine Spirale von Ereignissen in Gang, die ihn immer wieder in Lebensgefahr bringen... Die Suche nach dem Mörder des Mannes im Wald führt Carl, Assad, Rose und Gordon, den Neuen im Sonderdezernat Q, tief hinein in des Netzwerk der Kopenhagener Unterwelt."
+  },
+  {
+    "author": "Reichs, Kathy",
+    "title": "Knochen zu Asche",
+    "date_read": "Nov. 2018",
+    "notes": null,
+    "description": "Tempe war erst sechs Jahre alt, als ihr kleiner Bruder plötzlich starb, wenig später verunglückte ihr Vater tödlich. In dieser Zeit fand sie Trost bei ihrer besten Freundin, mit der sie einige unvergessliche Sommerferien verbrachte: Évngéline. Bis das Mädchen eines Tages spurlos verschwand. Jahrzehnte später eröffnet sichTempe die Chance, endlich Gewissheit über Évangélines Schicksal zu erlangen. Ein Spezialist für 'cold cases' aus Montreal bittet die forensische Anthropologin um Hilfe bei der Analyse eines Skeletts, das aus Neuschottland zu stammen scheint."
+  },
+  {
+    "author": "Marklund, Liza",
+    "title": "Verletzlich",
+    "date_read": "Dez. 2018",
+    "notes": null,
+    "description": "Panikattacken zwingen Annika Bengtzon, sich ihrer Arbeit als Journalistin neu zu stellen. Ihr letzter Fall ist nicht geklärt, das Opfer, der Politiker Ingemar Berglund, liegt im Koma, der Täter konnte nicht überführt werden. Und auf Wunsch der Leser des Abendblattes rollt Annika im Rahmen einer Serie über ungeklärte Verbrechen den Fall Josefin neu auf: den Tod einer jungen Stripperin, deren Mörder nie gefasste wurde."
+  },
+  {
+    "author": "Dorn, Wulf",
+    "title": "Trigger",
+    "date_read": "Jan. 2019",
+    "notes": null,
+    "description": "Der Fall einer brutal misshandelten Patientin wird für die Psychiaterin Ellen Roth zum Albtraum: Die Frau behauptet, vom Schwarzen Mann verfolgt zu werden. Kurz darauf verschwindet sie unter mysteriösen Umständen spurlos. Bei ihren Nachforschungen wird auch Ellen zum Ziel des Unbekannten. Er zwingt sie zu einer makarberen Schnitzeljagd - um ihr Leben und um das ihrer Patientin."
+  },
+  {
+    "author": "Eggers, Dave",
+    "title": "Der Circle",
+    "date_read": "April 2019",
+    "notes": null,
+    "description": "Die 24-jährige Mae Holland ist überglücklich. Sie hat einen Job ergattert in der hippsten Firma der Welt, beim 'Circle', einem freundlichen Internetkonzern mit Sitz in Kalifornien, der die Geschäftsfelder von Googel, Apple, Facebook und Twitter geschlucht hat, indem er alle Kunden mit einer einzigen Internetidentität ausstattet, über die einfach alles abgewickelt werden kann. Mit dem Wegfall der Anonymität im Netz – so ein Ziel der 'drei Weisen', die den Konzern leiten - wird es keinen Schmutz mehr geben im Internet und auch keine Kriminalität."
+  },
+  {
+    "author": "Ritter, Todd",
+    "title": "Das Schweigen der Toten",
+    "date_read": "Mai 2019",
+    "notes": null,
+    "description": "Für gewohnlich hat Sheriff Kat Campell im verschlafenen Perry Hollow nicht viel zu tun. Doch die grausame Hinrichtung von Landwirt George Winnick sorgt unter den Bewohnern der amerikanischen Kleinstadt für Entsetzen. Ausgeblutet und mit zugenähtem Mund wird dessen Leichnach in einem gezimmerten Holzsarg aufgefunden. Kat Campell und ihrer Kollegen ermitteln unter Hochdruck, denn inzwischen ist bei der Perry Hollow Gazette der Text für eine weitere Todesanzeige eingegangen- das Todesdatum liegt in der Zukunft..."
+  },
+  {
+    "author": "Silva, Daniel",
+    "title": "Der Schläfer",
+    "date_read": "Mai 2019",
+    "notes": null,
+    "description": "Der Anschlag auf die israelische Botschaft in Rom ist präzise und brutal. Schon bald sind die Selbsmordattentäter indentifiziert. Aber wer ist der Kopf dieses kaltblütigen Unternehmens. Bei seinen riskanten Nachforschungen kommt der israelische Agent Gabriel Allon einem Mythos auf die Spur: Chaled al-Chalifa, Sohn und Enkel berüchtigter palästinensischer Freiheitskämpfer. Doch nur ein Foto aus Kindheitstagen bezeugt seine Existenz. Ist dieser Unbekannte wirklich der Drahzieher des großangelegten Terrors?"
+  },
+  {
+    "author": "Lapidus, Jens",
+    "title": "Mach sie fertig",
+    "date_read": "Juni 2019",
+    "notes": null,
+    "description": "Drei Männer, drei Schicksale: Ein fanatischer Exsöldner, ein gestrauchelter Polizist und ein unvorsichtiger Drogendealer, sie alle sind Einzelkämpfer in einer immer brutaler werdenden Umgebung und kämpfen ums Überleben. Doch es gibt einen, der die Fäden zieht, der große Pate der Unterwelt, Radovan Kranjic."
+  },
+  {
+    "author": "Slaughter, Karin",
+    "title": "Die gute Tochter",
+    "date_read": "Juli 2019",
+    "notes": "TOP!",
+    "description": "'Lauf!', fleht ihre große Schwester Samantha. Mit vorgehaltener Waffe treiben zwei maskierte Männer Charlotte und sie an den Waldrand.'Lauf weg!' Und Charlie läuft. An diesem Tag. Und danach ihr ganzes Leben. Sie ist getrieben von den Erinnerungen an jene furchtbare Attacke in ihrer Kindheit. Die zersplitterten Knochen ihrer erschossenen Mutter. Die Todesangst ihrer Schwester. Das Keuchen ihres Verfolger. Als Töchter eines berüchtigten Anwalts waren sie stets die Verstoßenen, die Gehetzten. Achtundzwanzig Jahre später ist Charlie selbst erfolgreiche Anwältin. Doch ungeahnt kehrt das Grauen zurück."
+  },
+  {
+    "author": "Schätzing, Frank",
+    "title": "Lautlos",
+    "date_read": "August 2019",
+    "notes": null,
+    "description": "Juni 1999: In Köln werden zahlreiche hochrangige Politiker zum G-8-Wirtschaftsgipfel erwartet, darunter auch Bill Clinton und Boris Jelzin. Der serbische Diktator Milosevic hat vor den Verbänden der Nato die Waffen gestreckt, und nun soll über die Zukunft des Kosovo verhandelt werden. Die Stadt gleicht einem Hochsicherheitstrakt. Geheimdienstleute aus aller Welt, Polizei und Terrorspezialisten sollen Gefahren aller Art abwenden. Inmitten der Gipfelhysterie trifft der irische Physiker und Bestsellerautor Dr. Liam O'Connor zu einer Lesereise in Köln ein. Am Flughafen erkennt er einen alten Bekannten, einen IRA-Aktivisten, der sich als Handwerker getarnt auf dem Flughafengelände herumtreibt.\n\nAnhang: Über den Kosovo-Konflikt\nDie Geschichte des Kosovo ist sehr komplex. Für die Serben ist das Kosovo 'Heilige Erde'. Es gilt ihnen als die Wiege der serbischen Nation, obwohl das erste serbische Reich im neunten Jahrhundert in Raszien entstand, dem heutigen Sandzak. Tatsächlich hatte das Kosovo bis zum 12. Jahrhundert zum byzantinischen Reich gehört, erst dann wurde es Teil des serbischen Reichs – für fast zweihundert Jahre. Fast jeder dürfte von der Schlacht auf dem Amselfeld, dem kosovo polje, gehört haben. Mit ihr begann, was 1999 vorläufig endete – der beständige Kampf um ein Stück Land, das wie kaum ein anderes in Europa zum Mythos hochstilisiert worden ist."
+  },
+  {
+    "author": "Sansom, Christopher J.",
+    "title": "Das Buch des Teufels",
+    "date_read": "September 2019",
+    "notes": "Historischer Kriminalroman",
+    "description": "Am Ostermorgen des Jahres 1543 geschieht Entsetzliches im altehrwürdigen Lincon´s Inn, einer der vier großen Anwaltskammern in London. In einem Brunnen findet Matthew Shardlake die verstümmelte Leiche seines Freundes Roger Elliard. Dieser Mord ist bereits der dritte in Folge und Shardlake und sein Gehilfe Barak machen sich auf die Jagd nach einem Mörder, der es offenbar auf abtrünnige Reformer abgesehen hat. Wie sonst wäre es zu erklären, dass er die Morde genau so inszeniert, wie es im Buch der Offenbarung geschrieben steht?"
+  },
+  {
+    "author": "Scrivner Love, Melissa",
+    "title": "Lola",
+    "date_read": "Dez. 2019",
+    "notes": null,
+    "description": "South Central, L.A. Lola Vasquez ist klein, zierlich, unscheinbar, anscheinend eine chica unter vielen in der Lation-Gang -The Crenshaw Six. Die Gang versucht, möglichst unauffällig zu agieren, und zu dieser Strategie in einer -Mucho-macho-Welt- gehört auch, dass Lola nicht sichtbar wird, denn in Wahrheit ist sie die Chefin der Gang, ebenso brillant wie rücksichtslos. Die Karten werden neu gemischt, als sie in einen Krieg zwischen einem etablierten Großdieler, einem expansionswilligen mexikanisschen Kartell und einem neuen Großlieferanten gezogen wird."
+  },
+  {
+    "author": "Cummins, Fiona",
+    "title": "Der Knochensammler Die Ernte",
+    "date_read": "Januar 2020",
+    "notes": null,
+    "description": "Der sechsjährige Jackey Frith leidet an einer seltenen Knochenkrankheit. Das Münchmeyer-Syndrom lässt seinen Körper langsam verknöchern, schließt ihn ein in ein Gefängnis aus Knochen. Seine Eltern Erdmann und Lillith tun alles, um Jackey ein einigermaßen normales Leben zu ermöglichen. Und merken nicht, dass sich bereits ein anderer Schatten über ihre Familie gelegt hat. Der Knochensammler hat sich ihnen unbemerkt genähert, er beobachtet sie."
+  },
+  {
+    "author": "Masterman, Becky",
+    "title": "Der stille Sammler",
+    "date_read": "Jan. 2020",
+    "notes": null,
+    "description": "Mein Name ist Brigid Quinn. Ich bin neunundfünfzig Jahre alt und im Ruhestand. Wenn Sie mich fragen, warum ich Beziehungsprobleme habe, dann liegt es daran, dass ich als ehemalige FBI-Agentin gelernt habe, Menschen mit bloßen Händen zu töten. Und wenn Sie wissen wollen, ob es mir etwas ausgemacht hat, so lautet die Antwort: nein. Denn ich habe das Böse getötet. Ich habe in die Abgründe geblickt. Einer davon verfolgt mich bis heute: der Route 66-Killer."
+  },
+  {
+    "author": "Seddon, Holly",
+    "title": "Locked in, Wach auf, wenn du kannst",
+    "date_read": "Feb. 2020",
+    "notes": "Heidi",
+    "description": "Alex Dale ist eine brillante Journalistin. Doch sie hat ein Alkoholproblem. Mehr als ein paar Stunden am Tag hält sie ohne Drink nicht aus, und beruflich hangelt sie sich von einem Freelance- Job zum nächsten. Bei der Recherche für einen Artikel stößt sie auf den Fall von Amy Stevenson, die seit vielen Jahren im Koma liegt. Und plötzlich erwacht Alex untrüglicher jouranlistischer Spürsinn wieder."
+  },
+  {
+    "author": "Winslow, Don",
+    "title": "Tage der Toten",
+    "date_read": "März 2020",
+    "notes": null,
+    "description": "Mit Erfolg hat sich der US-Drogenfahnder Art Keller in das Herz der mexikanischen Drogenmafia eingeschleust. Mit so viel Erfolg, dass die Händlerringe reihenweise auffliegen und die Drogen-und Waffenhändler die Jagd auf ihn eröffnen. Als sein Mitarbeiter von den Gangstern grausam zu Tode gefoltert wird, schwört Art Keller Rache und startet einen gnadenlosen, blutigen Feldzug gegen die Drogenbarone. Zu spät bemerkt er, dass er sich damit neue Feinde macht - und die sitzen in Washington."
+  },
+  {
+    "author": "Rankin, Ian",
+    "title": "Ein Rest von Schuld",
+    "date_read": "April 2020",
+    "notes": null,
+    "description": "Die letzte Arbeitswoche von Detective John Rebus vor seiner Pensionierung ist angebrochen, als ein mysteriöser Todesfall noch einmal seine ganzen Einsatz forder: Der russische Lyriker und Dissident Alexander Todorow wird erschlagen aufgefunden, und alles deutet auf einen Raubüberfall mit tödlichem Ausgang hin. Doch als Rebus und seine Kollegin Siobhan Clarke erfahren, dass sich eine Delegation von Russen in der Stadt aufhält, werden sie hellhörig."
+  },
+  {
+    "author": "Lee, Patrick",
+    "title": "Mind Reader",
+    "date_read": "Mai 2020",
+    "notes": null,
+    "description": "Rachel, zwölf Jahre, Staatsfeind Nr. 1; Dem Veteranen Sam Dryden läuft bei Joggen ein Mädchen über den Weg. Rachel ist auf der Flucht. Doch warum jagen bewaffnete Soldaten eine Zwölfjährige? Schnell wird Sam klar: Rachel ist kein normales Kind. Sie kann Gedanken lesen. Seit ihrer Geburt wurde sie gefangen gehalten; das weiß sie noch, alle anderen Erinnerungen sind ausgelöscht. Sam beschließt, ihr zu helfen."
+  },
+  {
+    "author": "Koryta, Michael",
+    "title": "Die mir den Tod wünschen",
+    "date_read": "Mai 2020",
+    "notes": "Top!",
+    "description": "Du tauchst aus der Tiefe des Wassers auf. Über dir braut sich ein Gewitter zusammen, unter dir schwimmt eine Leiche, die du gerade entdeckt hast. In Panik gelangst du an das Ufer des abgelegenen Steinbruchs. Es wird dunkel, du zitterst am ganzen Leib. Ein Auto nähert sich, drei Männer steigen aus. Deine Rettung... Doch dann siehst du, wie die Fremden dem dritten Mann die Kehle durchschneiden... und sich umdrehen... dorthin, wo du gerade kauerst. An einem stürmischen Tag wird der vierzehnjährige Jace Zeuge eines brutalen Mordes."
+  },
+  {
+    "author": "Schätzing, Frank",
+    "title": "Der Schwarm",
+    "date_read": "Juli 2020",
+    "notes": null,
+    "description": "Ein peruanischer Fischer verschwindet auf offener See. Heerscharen hochgiftiger Quallen belagern die Küste Australiens. Vor Kanada bleiben die Wale aus. Erst mit wochenlanger Verspätung treffen sie ein, doch die Tiere verhalten sich ungewohnt aggressiv. Unterdessen findet ein Ölbohrteam am Grund der norwegischen See seltsame Würmer mit gewaltigen Zangenkiefern, die sich zu Millionen in den Meeresboden graben. Wie hingezaubert scheinen sie dem Biologen Sigur Johanson, der die Tiere untersucht."
+  }
+]

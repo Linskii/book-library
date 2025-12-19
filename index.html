@@ -248,6 +248,162 @@
             color: var(--text-secondary);
         }
 
+        /* Modal styles */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+            z-index: 1000;
+            overflow-y: auto;
+            backdrop-filter: blur(5px);
+        }
+
+        .modal.active {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .modal-content {
+            background: var(--surface);
+            border-radius: 24px;
+            max-width: 900px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            border: 2px solid var(--border);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+            animation: modalSlideIn 0.3s ease;
+        }
+
+        @keyframes modalSlideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .modal-header {
+            display: flex;
+            gap: 2rem;
+            padding: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .modal-cover {
+            width: 200px;
+            height: 300px;
+            flex-shrink: 0;
+            border-radius: 12px;
+            overflow: hidden;
+            background: linear-gradient(135deg, var(--surface-light), var(--primary));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+        }
+
+        .modal-cover img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .modal-header-info {
+            flex: 1;
+        }
+
+        .modal-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .modal-author {
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+        }
+
+        .modal-body {
+            padding: 2rem;
+        }
+
+        .modal-section {
+            margin-bottom: 2rem;
+        }
+
+        .modal-section h3 {
+            font-size: 1.2rem;
+            color: var(--accent);
+            margin-bottom: 1rem;
+            font-weight: 600;
+        }
+
+        .modal-description {
+            line-height: 1.8;
+            color: var(--text-secondary);
+        }
+
+        .modal-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+
+        .detail-item {
+            background: var(--background);
+            padding: 1rem;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+        }
+
+        .detail-label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.25rem;
+        }
+
+        .detail-value {
+            font-size: 1.1rem;
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .close-modal {
+            position: absolute;
+            top: 2rem;
+            right: 2rem;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--surface-light);
+            border: 2px solid var(--border);
+            color: var(--text-primary);
+            font-size: 1.5rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .close-modal:hover {
+            background: var(--primary);
+            border-color: var(--primary);
+            transform: rotate(90deg);
+        }
+
         @media (max-width: 768px) {
             .hero h1 {
                 font-size: 2rem;
@@ -306,6 +462,14 @@
         </div>
     </div>
 
+    <!-- Book Detail Modal -->
+    <div id="bookModal" class="modal">
+        <div class="modal-content">
+            <button class="close-modal" onclick="closeModal()">×</button>
+            <div id="modalContentInner"></div>
+        </div>
+    </div>
+
     <script>
         let allBooks = [];
         let filteredBooks = [];
@@ -314,11 +478,8 @@
         // Load books data
         async function loadBooks() {
             try {
-                // Try to load enriched data first, fall back to basic database
-                let response = await fetch('books_enriched.json');
-                if (!response.ok) {
-                    response = await fetch('books_database.json');
-                }
+                // Load the full database
+                let response = await fetch('books_database.json');
                 allBooks = await response.json();
                 filteredBooks = allBooks;
 
@@ -507,8 +668,120 @@
             card.appendChild(coverDiv);
             card.appendChild(info);
 
+            // Add click handler to open modal
+            card.onclick = () => openModal(book);
+
             return card;
         }
+
+        // Open modal with book details
+        function openModal(book) {
+            const modal = document.getElementById('bookModal');
+            const modalContent = document.getElementById('modalContentInner');
+
+            const months = ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni',
+                          'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'];
+
+            let html = `
+                <div class="modal-header">
+                    <div class="modal-cover">
+                        ${book.cover_url ?
+                            `<img src="${book.cover_url}" alt="${book.title}" onerror="this.parentElement.innerHTML='📖'">` :
+                            '📖'}
+                    </div>
+                    <div class="modal-header-info">
+                        <h2 class="modal-title">${book.title}</h2>
+                        <div class="modal-author">${book.author}${book.location ? ` (${book.location})` : ''}</div>
+                        <div class="book-meta">
+                            ${book.year ? `<span class="meta-tag">${book.month ? months[book.month - 1] + ' ' : ''}${book.year}</span>` : ''}
+                            ${book.series_volume ? `<span class="meta-tag">Band ${book.series_volume}</span>` : ''}
+                        </div>
+                        ${book.notes ? `<div class="note-badge">${book.notes}</div>` : ''}
+                    </div>
+                </div>
+                <div class="modal-body">
+                    ${book.description ? `
+                        <div class="modal-section">
+                            <h3>📖 Beschreibung</h3>
+                            <div class="modal-description">${book.description}</div>
+                        </div>
+                    ` : ''}
+
+                    <div class="modal-section">
+                        <h3>📊 Details</h3>
+                        <div class="modal-details">
+                            ${book.author ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Autor</div>
+                                    <div class="detail-value">${book.author}</div>
+                                </div>
+                            ` : ''}
+                            ${book.publisher ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Verlag</div>
+                                    <div class="detail-value">${book.publisher}</div>
+                                </div>
+                            ` : ''}
+                            ${book.published_date ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Veröffentlicht</div>
+                                    <div class="detail-value">${book.published_date}</div>
+                                </div>
+                            ` : ''}
+                            ${book.page_count ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Seiten</div>
+                                    <div class="detail-value">${book.page_count}</div>
+                                </div>
+                            ` : ''}
+                            ${book.isbn ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">ISBN</div>
+                                    <div class="detail-value">${book.isbn}</div>
+                                </div>
+                            ` : ''}
+                            ${book.language ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Sprache</div>
+                                    <div class="detail-value">${book.language.toUpperCase()}</div>
+                                </div>
+                            ` : ''}
+                            ${book.categories && book.categories.length > 0 ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Kategorie</div>
+                                    <div class="detail-value">${book.categories.join(', ')}</div>
+                                </div>
+                            ` : ''}
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            modalContent.innerHTML = html;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        // Close modal
+        function closeModal() {
+            const modal = document.getElementById('bookModal');
+            modal.classList.remove('active');
+            document.body.style.overflow = 'auto';
+        }
+
+        // Close modal when clicking outside
+        document.getElementById('bookModal').addEventListener('click', (e) => {
+            if (e.target.id === 'bookModal') {
+                closeModal();
+            }
+        });
+
+        // Close modal with escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
 
         // Load books on page load
         loadBooks();

@@ -1,0 +1,590 @@
+[
+  {
+    "author": "Konsalik, Heinz",
+    "title": "Der verkaufte Tod",
+    "date_read": "April 06",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Lennox, Judith",
+    "title": "Am Strand von Deauville",
+    "date_read": "April 2006",
+    "notes": null,
+    "description": "Aufregend und rastlos ist das Leben der Mulgraves, die mit ihren drei Kindern die schönsten Gegenden Europas bereisen – bis der Ausbruch des Zweiten Weltkriegs die Familie zwingt, in England sesshaft zu werden. Klug und selbstständig nimmt die achtzehn- jährige Faith ihr Schicksal in die Hand. In den Kriegsjahren bewährt sie sich als Ambulanzfahrerin und kümmert sich selbstlos um die Verwundeten. Doch dann trifft sie Guy wieder, den sie liebt, solange sie denken kann… Ein großartiger und berührender Roman, der die bewegte erste Hälfte des 20. Jahrhunderts um- spannt."
+  },
+  {
+    "author": "Sparks, Nicholas",
+    "title": "Du bist nie allein",
+    "date_read": "Mai 2006",
+    "notes": null,
+    "description": "Für die junge Julie Barenson, die auf tragische Weise Witwe wurde, entwickelt sich die erste romantische Liebesgeschichte nach dem Tod ihres Mannes zum Albtraum: Der Freund, der sie verehrt, scheint nicht der zu sein, für den sie ihn hält… In seinem neuen Roman erzählt Bestsellerautor Nicholas Sparks eine atemberaubende Geschichte von gefährlicher Liebe und be- ängstigender Leidenschaft."
+  },
+  {
+    "author": "Sparks, Nicholas",
+    "title": "Wie ein einziger Tag",
+    "date_read": "Mai 2006",
+    "notes": null,
+    "description": ">>Und so beginne ich wieder, wie jeden Tag, laut aus meinem Tagebuch Vorzulesen, damit sie es hören kann, in der Hoffnung, dass das Wunder, das mein Leben beherrscht, noch einmal wahr wird…<< Sie waren siebzehn, und der Sommer schien so unendlich wie ihre Liebe: Aber als Allie mit ihrer Familie den verträumten Urlaubsort verlässt, verschwindet sie auch aus Noahs Leben, vierzehn Jahre lang. Dann aber will Allie, die inzwischen verlobt ist und kurz vor der Hochzeit steht, noch einmal den Mann sehen, den sie nie vergessen konnte. Das Wiedersehen mit Noah wird für Allie zu einer Begegnung mit sich selbst und jener unwiderstehlichen Energie, die nur wahre Liebe birgt."
+  },
+  {
+    "author": "Sparks, Nicholas",
+    "title": "Zeit im Wind",
+    "date_read": "Mai 2006",
+    "notes": "zum heulen",
+    "description": "Beaufort, North Carolina im Jahre 1958. Es ist das letzte Highschool-Jahr für Landon, als er sich beim Schulball notgedrungen mit der Aussenseiterin Jamie arrangieren muss. Doch zwischen dem ungleichen Paar entwickelt sich ein unge- wöhnlich intensive Liebesbeziehung, die auch von einem schweren Schicksalsschlag nicht erschüttert werden kann."
+  },
+  {
+    "author": "Patterson, James",
+    "title": "Tagebuch für Nikolas",
+    "date_read": "Juni 2006",
+    "notes": null,
+    "description": "Mein geliebter kleiner Junge, stell Dir vor, das Leben wäre ein Spiel, in dem es darum geht, fünf Bälle zu jonglieren. Ich nenne sie Arbeit, Familie, Gesundheit, Freunde und Rechtschaffenheit. Du bemühst dich, alle in der Luft zu halten. Bis du eines Tages begreifst: Der Ball, der die Arbeit verkörpert, ist aus Gummi; er wird immer wieder hochschnellen. Die übrigen aber – sie sind aus Glas. Lässt Du einen davon fallen, ist er beschädigt, abgestoßen, ja vielleicht für immer in tausend Stücke zersprungen. Denk immer daran!"
+  },
+  {
+    "author": "Sparks, Nicholas",
+    "title": "Die Nähe des Himmels",
+    "date_read": "Juli 2006",
+    "notes": null,
+    "description": "Der Wissenschaftsjournalist Jeremy Marsh glaubt nur an Fakten und Beweisbares. Bis er sich hoffnungslos in Lexie verliebt, die Enkelin einer Hellseherin. Um Lexie zu gewinnen, muss er zum ersten Mal in seinem Leben blind seinem Herzen folgen. Eine ergreifende Geschichte über die Macht der Liebe."
+  },
+  {
+    "author": "Sparks, Nicholas",
+    "title": "Weit wie das Meer",
+    "date_read": "August 2006",
+    "notes": null,
+    "description": ">>Weit wie das Meer<< ist die neue Love-Story von Nicholas leidenschaftlich und voller Tragik, wie nur der Autor von >>Wie ein einziger Tag<< sie schreiben konnte. Der Roman erzählt von der Begegnung eines Mannes und einer Frau, die beide mit den Schatten der Vergangenheit und dem Verlust eines geliebten Menschen kämpfen und den Mut finden, eine neue Beziehung einzugehen."
+  },
+  {
+    "author": "Sparks, Nicholas",
+    "title": "Ein Tag wie ein Leben",
+    "date_read": "Oktober 2006",
+    "notes": null,
+    "description": "Ein scheinbar nichtiger Anlass – ein versäumter Hochzeitstag – zerreißt die Harmonie zwischen Wilson und Jane. Wilson will seine Ehe retten, aber plötzlich ist er nicht mehr sicher, ob Jane ihrer Liebe überhaupt noch eine Chance gibt."
+  },
+  {
+    "author": "Sparks, Nicholas",
+    "title": "Das Schweigen des Glücks",
+    "date_read": "Januar 2007",
+    "notes": null,
+    "description": "Die bedingungslose Liebe einer Mutter zu ihrem behinderten Sohn ist so stark, dass für weitere Menschen kein Platz zu sein scheint. Denise, die allein mit ihrem fünfjährigen Sohn Kyle lebt, nimmt sämtliche Entbehrungen in Kauf, um einzig für dessen Wohlergehen zu sorgen. Als Kyle nach einem Autounfall in einer dramatischen Aktion von dem Feuerwehrmann Taylor gerettet wird, scheint zum ersten Mal seit langem ein Fremder Zugang zu der Welt der beiden zu bekommen."
+  },
+  {
+    "author": "Sparks, Nicholas",
+    "title": "Das Lächeln der Sterne",
+    "date_read": "Mai 2007",
+    "notes": null,
+    "description": "Adrienne Willis ist in tiefer Sorge um ihre Tochter Amanda. Seit dem Tod ihres Mannes ist Amanda in Trauer gefangen und bringt immer weniger Kraft auf, um für sich und ihre beiden kleinen Söhne zu sorgen. Um ihr Mut zu machen, beschließt Adrienne, Amanda ein Stück ihrer Vergangenheit anzuvertrauen, ein Geheimnis, das sie lange in ihrem Herzen verborgen hatte…"
+  },
+  {
+    "author": "Link, Charlotte",
+    "title": "Die Täuschung",
+    "date_read": "Juni 07",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Mawson, Robert",
+    "title": "Das Lazarus Kind",
+    "date_read": "August 07",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Gier, Kerstin",
+    "title": "Die Mütter-Mafia",
+    "date_read": "August 07",
+    "notes": "Romy",
+    "description": null
+  },
+  {
+    "author": "Gier, Kerstin",
+    "title": "Ach wär ich nur zu Hause geblieben",
+    "date_read": "September 07",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Süskind, Patrick",
+    "title": "Das Parfum",
+    "date_read": "Oktober 2007",
+    "notes": null,
+    "description": "Die Geschichte eines Mörders. Im achtzehnten Jahrhundert lebte in Frankreich ein Mann, der zu den genialsten und abscheulichten Gestalten diese an genialen und abscheulichen Gestalten nicht armer Epoche gehörte. Er hieß Jean-Baptiste Grenouille."
+  },
+  {
+    "author": "Roberts, Nora",
+    "title": "Mitten in der Nacht",
+    "date_read": "Oktober 07",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Safier, David",
+    "title": "Mieses Karma",
+    "date_read": "November 07",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Link, Charlotte",
+    "title": "Das Haus der Schwestern",
+    "date_read": "Dezember 2007",
+    "notes": null,
+    "description": "Westhill House, ein einsames Farmhaus im Hochmoor Yorkshires. Ehemals Schauplatz einer wechselvollen Familiengeschichte – und jahrzehntelang Hüter eines bedrohlichen Geheimnisses. Bis eine Fremde kommt und wie zufällig die Mauern des Schweigens zum Einsturz bringt."
+  },
+  {
+    "author": "Link, Charlotte",
+    "title": "Die Rosenzüchterin",
+    "date_read": "Dezember 07",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Link, Charlotte",
+    "title": "Schattenspiel",
+    "date_read": "Januar 08",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Link, Charlotte",
+    "title": "Die Sünde der Engel",
+    "date_read": "Januar 08",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Levy, Marc",
+    "title": "Bis ich dich wiedersehe",
+    "date_read": "Februar 08",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Sendker, Jan-Philipp",
+    "title": "Das Herzenhören",
+    "date_read": "März 2008",
+    "notes": null,
+    "description": "Die junge New Yorker Anwältin Julia Win hat sich noch nie so fremd Gefühlt wie in Kalaw, einem Dorf in den Bergen Birmas. Hierher hat sie die Suche nach ihrem Vater geführt, der vor vier Jahren plötzlich verschwunden war. Ein vierzig Jahre alter Liebesbrief von ihm, gerichtet an eine Unbekannte, hatte sie auf die Spur gebracht."
+  },
+  {
+    "author": "Sebold, Alice",
+    "title": "In meinem Himmel",
+    "date_read": "April 08",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Link, Charlotte",
+    "title": "Die Stunden der Erben",
+    "date_read": null,
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Ragde, Anne",
+    "title": "Das Lügenhaus",
+    "date_read": null,
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Mc Kinley, Tamara",
+    "title": "Das Versprechen des Opals",
+    "date_read": "August 08",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Zafon, Carlos Ruiz",
+    "title": "Der Schatten des Windes",
+    "date_read": "Okt. 08",
+    "notes": "selbst",
+    "description": null
+  },
+  {
+    "author": "Jaud, Tommy",
+    "title": "Resturlaub",
+    "date_read": "Dezember 08",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Mistry, Rohinton",
+    "title": "Die Quadratur des Glücks",
+    "date_read": "Januar 2009",
+    "notes": null,
+    "description": "Wie viel Liebe braucht es, um eine Familie zusammenzunalten? Die Harmonie in Nariman Vakeels Haus in Bombay ist brüchig. Als der Patriarch einen Unfall hat, verändert sich das Leben seiner Tochter Roxana und aller Verwandten dramatisch. Rohinton Mistryt ist mit diesem Familienroman ein Meisterwerk gelungen."
+  },
+  {
+    "author": "Gerritsen, Tess",
+    "title": "Schwesternmord",
+    "date_read": "Feb. 2009",
+    "notes": null,
+    "description": "Vor dem Haus von Maura Isles wird eine Frau erschossen, die der Pathologin bis aufs Haar gleicht! Detective Jane Rizzoli glaubt zunächst, ihre Kollegin selbst sei das Opfer, da kehrt Maura von einem Kongress zurück – erschöpft, aber lebendig. Bald erfährt Maura, dass es sich bei der Leiche um ihre Zwillingsschwester handelt – von deren Existenz sie nichts wusste."
+  },
+  {
+    "author": "Gerritsen, Tess",
+    "title": "Kalte Herzen",
+    "date_read": "Feb. 2009",
+    "notes": null,
+    "description": "Abby musste als kleines Mädchen miterleben, wie ihr herzkranker Bruder Pete seinen Kampf auf Leben und Tod verlor. Damals schwor sie, eines Tages als Ärztin anderen Kindern dieses Schicksal zu ersparen. Jahre später Gehört sie zum Transplantationsteam eines Krankenhausees in Boston. Als eine keineswegs todkranke, aber reiche Frau ein Spenderherz erhält, wird sie misstrauisch…"
+  },
+  {
+    "author": "Gerritsen, Tess",
+    "title": "Der Anruf kam nach Mitternacht",
+    "date_read": "März 2009",
+    "notes": null,
+    "description": "Die Welt der internationalen Geheimdienste kannte die junge Washingtoner Wissenschaftlerin Sarah Fontaine bislang nur aus dem Kino. Das ändert sich, als sie vom Mord an ihrem Mann Geoffrey in Berlin erfährt und sich auf die gefährliche Suche nach der Wahrheit macht. Ein Albtraum beginnt."
+  },
+  {
+    "author": "Gerritsen, Tess",
+    "title": "Der Meister",
+    "date_read": "Mai 2009",
+    "notes": null,
+    "description": "Ein heißer Sommer in Bosten. Detective Jane Rizzoli wird in ein Villenviertel gerufen, wo sie die Leiche des Arztes Richard Yeager vorfindet. Die kriminaltechnische Untersuchung ergibt, dass Gail Yeager vor den Augen ihres Mannes vergewaltigt wurde, bevor ihm die Kehle durchschnitten wurde. Und Gail Yeager ist verschwunden."
+  },
+  {
+    "author": "Beckett, Simon",
+    "title": "Die Chemie des Todes",
+    "date_read": "Juli 2009",
+    "notes": null,
+    "description": "Sterben kann ewig dauern… aber der menschliche Körper beginnt kaum fünf Minuten nach dem Tod zu verwesen – und wird dann zu einem gigantischen Festschmaus für andere Organismen. Zuerst für Bakterien, dann für Insekten."
+  },
+  {
+    "author": "Mankell, Hennig",
+    "title": "Die falsche Fährte",
+    "date_read": "September 2009",
+    "notes": null,
+    "description": "„Ich lebe in einer Welt, in der sich junge Menschen das Leben nehmen, weil sie es nicht aushalten, dachte er. Wenn ich weiter Polizist sein soll, muss ich verstehen, warum.<< So macht sich Kurt Wallander, Kriminalkommissar im schwedischen Ystad, an die Aufklärung eines neuen Falls. Gesucht wird ein Serienkiller, der in der Maske des Indianers auf den Kriegspfad geht."
+  },
+  {
+    "author": "Harris, Thomas",
+    "title": "Hannibal",
+    "date_read": "Dezember 2009",
+    "notes": null,
+    "description": "Hannibal Lecter ist zurück! >>Die Leser wollen nur wissen, ob >Hannibal< so gut ist wie >Das Schweigen der Lämmer<. Nein, dieser Roman ist nicht so gut. Er ist besser.<<"
+  },
+  {
+    "author": "Link, Charlotte",
+    "title": "Der fremde Gast",
+    "date_read": "Januar 2010",
+    "notes": null,
+    "description": "An einem Julimorgen beschließt Rebecca Brandt, ihrem Leben ein Ende zu setzen. Nichts kann die junge Witwe über den Tod ihres Mannes hinwegtrösten. Doch genau an diesem Tag treffen Maximilian Kemper, ein alter Freund ihres verstorbenen Mannes, der unterwegs auch noch zwei Anhalter, die Studenten Inga und Marius, aufgenommen hat."
+  },
+  {
+    "author": "Marklund, Liza",
+    "title": "Paradies",
+    "date_read": "Januar 2010",
+    "notes": null,
+    "description": "Ein Doppelmord im Stockholmer Hafen sorgt für fieberhafte Arbeit im >>Abendblatt<<, in dessen Redaktion Annika gerade Nachtschicht hat. Während die Kollegen den Fall bearbeiten, macht sich die Nachwuchsjournalistin an die Recherche über eine Organisation namens Paradies, die verfolgten Menschen neue Identitäten verschafft."
+  },
+  {
+    "author": "Follett, Ken",
+    "title": "Die Nadel",
+    "date_read": "Februar 2010",
+    "notes": null,
+    "description": "Die „Nadel“ ist Adolf Hitlers letzte Rettung. Er ist der skrupelloseste Spion in England. Er will Hitler vor der Invasion warnen. Scotland Yard jagt ihn-eine Blutspur. Kann die Liebe einer Frau ihn retten- oder zerstören?"
+  },
+  {
+    "author": "Follett, Ken",
+    "title": "Die Leopardin",
+    "date_read": "April 2010",
+    "notes": null,
+    "description": "Sie ist schön, sie ist mutig, und sie hat einen tollkühnen Plan: Felicity Clairet, genannt >>die Leopardin<<, britische Agentin im besetzten Frankreich. Um ihr Ziel zu erreichen, muss sie ein Team zusammenstellen, das nur aus Frauen besteht. Dabei kann sie nicht wählerisch sein."
+  },
+  {
+    "author": "Suter, Martin",
+    "title": "Der letzte Weynfeldt",
+    "date_read": "Mai 2010",
+    "notes": null,
+    "description": null
+  },
+  {
+    "author": "Follett, Ken",
+    "title": "Der dritte Zwilling",
+    "date_read": "Juni 2010",
+    "notes": null,
+    "description": "In ihren Labors spielen gewissenlose Forscher Gott. Doch was geschieht mit den Menschen, die Opfer der Gen-Experimente sind? Aus dem aktuellen Thema der Jahrtausendwende hat Ken Follett, der Autor der Weltbestseller DIE NADEL und DIE SÄULEN DER ERDE, einen neuen großen Roman von unerhörter Dramatik geschaffen."
+  },
+  {
+    "author": "Gerritsen, Tess",
+    "title": "Scheintot",
+    "date_read": "Juli 2010",
+    "notes": "Sonja",
+    "description": "Eine namenlose junge Frau in der Gerichtsmedizin – für Maura Isles nichts ungewöhnliches. Doch als die Pathologin den Leichensack öffnet, schlägt die Tote plötzlich die Augen auf. Maura fährt die unterkühlte Frau sofort ins Krankenhaus. Aber kaum dort angelangt, tötet die Unbekannte einen Wachmann und nimmt erst Maura und, nachdem diese fliehen kann, Patienten als Geiseln"
+  },
+  {
+    "author": "Suter, Martin",
+    "title": "Ein perfekter Freund",
+    "date_read": "August 2010",
+    "notes": null,
+    "description": "Wo bin ich? Wer bin ich? Und: Wer ist die blonde junge Frau an meinem Bett? Der Journalist Fabio Rossi, dreiunddreißig, erwacht im Krankenhaus, mit einer Kopfverletzung und einem Blackout von fünfzig Tagen. Die blonde junger Frau, die sich zärtlich über ihn beugt, soll schon seit ein paar Wochen seine Freundin sein – aber Fabio hat sie nie zuvor gesehen."
+  },
+  {
+    "author": "Marklund, Liza",
+    "title": "Mia, Ein Leben im Versteck",
+    "date_read": "Oktober 2010",
+    "notes": null,
+    "description": "Als sich die Schwedin Mia Eriksson in einen jungen Libanesen verliebt, ahnt sie nicht, dass ihr Leben dadurch komplett aus den Fugen geraten wird. Das Bild vom Traumprinz verblasst schon bald. Den ersten verbalen Wutausbrüchen folgen nach kurzer Zeit handgreifliche. Alle Versuche Mias, mit einem neuen Partner von vorn anzufangen, werden von dem gewalttätigen Mann vereitelt."
+  },
+  {
+    "author": "Gerritsen, Tess",
+    "title": "Blutmale",
+    "date_read": "Januar 2011",
+    "notes": null,
+    "description": "Eine junge Frau wird tot aufgefunden, ihr Körper wurde für ein satanisches Ritual missbraucht. Bei der Autopsie entdeckt die Pathologin Maura Isles, dass die abgetrennte Hand der Toten einer anderen Frau gehört haben muss. Noch während Detective Jane Rizzoli nach dieser Leiche sucht, wird eine junge Polizistin aus ihrem Team getötet – und Maura Isles findet an ihrer Haustür bedrohliche Blutmale …"
+  },
+  {
+    "author": "Paasilinna, Arto",
+    "title": "Der wunderbare Massenselbstmord",
+    "date_read": "Februar 2011",
+    "notes": null,
+    "description": ">>Denkst du an Selbstmord? Du bist nicht allein! << So lautet ein ungewöhnlicher Anzeigentext, der auf überraschend heftiges Interesse stößt. Niemals hätte der gescheiterte Unternehmer Onni Rellonen mit der Existenz so vieler Gleichgesinnter gerechnet, als er beschließt, seinem Leben ein Ende zu setzen."
+  },
+  {
+    "author": "Jaud, Tommy",
+    "title": "Vollidiot",
+    "date_read": "März 2011",
+    "notes": null,
+    "description": "Nicht alle Männer sind Idioten. Einige sind Vollidioten. >> Ich will diese Frau! Also muss ich sie ansprechen. So einfach ist das. Ich beschließe, bis zehn zu zählen, um dann festen Schrittes und mit charismatischem Siegerlächeln den Laden zu betreten. Dann werde ich sie fragen, was sie am Feierabend vorhat.<<"
+  },
+  {
+    "author": "Link, Charlotte",
+    "title": "Das andere Kind",
+    "date_read": "April 2011",
+    "notes": null,
+    "description": "Eine alte Farm im Norden Englands. Eine einsame Landschaft. Ein düsteres Geheimnis aus vergangener Zeit. Mit tödlichen Folgen für die Gegenwart. Lange Zeit ist der ehrgeizigen Polizistin Valerie Almond der Blick verstellt für das Gift, das in der Familie wirkt – und dessen Ursprung sie bis weit in die Vergangenheit hinein zurückverfolgen müsste."
+  },
+  {
+    "author": "Follett, Ken",
+    "title": "Die Kinder von Eden",
+    "date_read": "Juni 2011",
+    "notes": null,
+    "description": "Ein kleines, verschwiegenes Tal in Kalifornien. Hier lebt seit den sechziger Jahren eine friedliche Hippie Kommune. Nun aber soll ihr Dorf einem Stausee weichen. In ihrer Not greifen die Kinder von Eden zu einem wahnwitzigen Plan. Sie drohen der Regierung: Wenn ihr uns nicht in Frieden leben lasst, dann werden wir die Erde zum Beben bringen."
+  },
+  {
+    "author": "Follett, Ken",
+    "title": "Die Säulen der Erde",
+    "date_read": "Juli 11",
+    "notes": "selbst",
+    "description": null
+  },
+  {
+    "author": "Khoury, Raymond",
+    "title": "Scriptum",
+    "date_read": "September 2011",
+    "notes": null,
+    "description": "In New York wird eine Ausstellung eröffnet: die kostbarsten Schätze des Vatikans – aber die vier Ritter, die den Abend in einem Blutbad ertränken, haben es allein auf ein verwittertes Holzkästchen abgesehen. Die zufällig anwesende Tess ist elektrisiert: Alle vier Angreifer waren wie Tempel- ritter gekleidet."
+  },
+  {
+    "author": "George, Elizabeth",
+    "title": "Doch die Sünde ist Scharlachrot",
+    "date_read": "Nov. 2011",
+    "notes": null,
+    "description": "Es ist End April. Durch das wechselhafte Frühlingswetter wandert ein Mann die Küste Cornwalls entlang. Seit Wochen hat er nicht mehr in einem Bett geschlafen, sich gewaschen, sich rasiert. Als er über der Klippe bei Polcare Cove innehält, bleibt sein Blick an etwas Rotem hängen. In der Tiefe liegt ein zerschmetterter Körper."
+  },
+  {
+    "author": "Bank, Zsuzsa",
+    "title": "Die hellen Tage",
+    "date_read": "Januar 2012",
+    "notes": null,
+    "description": "In einer süddeutschen Kleinstadt erlebt das Mädchen Seri helle Tage, die sie im Garten ihrer Freundin Aja verbringt, die aus einer ungarischen Artistenfamilie stammt und mit ihrer Mutter in einer Baracke am Stadtrand wohnt."
+  },
+  {
+    "author": "Roger, Marie-Sabine",
+    "title": "Das Labyrinth der Wörter",
+    "date_read": "Feb. 2012",
+    "notes": null,
+    "description": "Germain Chaze ist eine Seele von Mensch, nur leider nicht der Schlauste. Als es im Park Margueritte kennenlernt, wird sein Leben auf den Kopf gestellt. Denn die feinsinnige alte Dame beschließt, ihn für die Welt der Bücher zu gewinnen."
+  },
+  {
+    "author": "Bank, Zsuzsa",
+    "title": "Der Schwimmer",
+    "date_read": "Feb. 2012",
+    "notes": null,
+    "description": "Eine Geschichte vom unmöglichen Glück, der Sprache der Dinge und einer Welt, die ihre Mitte verloren hat. Mit unerhörter Eindringlichkeit und unverwechselbarer Stimme erzählt Zsuzsa Bank von der ziellos-sehnsüchtigen Reise zweier Geschwister und ihres Vaters."
+  },
+  {
+    "author": "Larsson, Stieg",
+    "title": "Verblendung",
+    "date_read": "April 2012",
+    "notes": null,
+    "description": "Was geschah mit Harriet Vanger? Während eines Familientreffens sprulos verschwunden, bleibt ihr Schicksall jahrzehnelang ungeklärt. Bis der Journalist Mikael Blomkvist und die Ermittlerin Lisbeth Salander recherchieren."
+  },
+  {
+    "author": "Larsson, Stieg",
+    "title": "Vergebung",
+    "date_read": "Mai 2012",
+    "notes": null,
+    "description": "Die Ermittlerin Lisbeth Salander steht unter Mordverdacht. Ihr Partner Mikael Blomkvist schwört, ihre Unschuld zu beweisen. Er weiß, dass es um Salanders Leben geht."
+  },
+  {
+    "author": "Brown, Dan",
+    "title": "Illuminati",
+    "date_read": "Juni 2012",
+    "notes": null,
+    "description": "Ein Kernforscher wird in seinem Schweizer Labor ermordet aufgefunden. Auf seiner Brust finden sich merkwürdige Symbole eingraviert, Symbole, die nur der Harvardprofessor Robert Langdon zu entziffern vermag. Was er dabei entdeckt, erschreckt ihn zutiefst: Die Symbole gehören zu der legendären Geheimgesellschaft der >>Illuminati<<."
+  },
+  {
+    "author": "Larsson, Stieg",
+    "title": "Verdammnis",
+    "date_read": "Juni 2012",
+    "notes": null,
+    "description": "Der Journalist Mikael Blomkvist recherchiert in einem besonders brisanten Fall von Mädchenhandel, die Hintermänner bekleiden höchste Regierungsämter. Als sein Informant tot aufgefunden wird, fällt der Verdacht auf Blomkvists Partnerin Lisbeth Salander. Eine möderische Hetzjagd beginnt."
+  },
+  {
+    "author": "King, Stephen",
+    "title": "Das Mädchen",
+    "date_read": "Juni 2012",
+    "notes": null,
+    "description": "Die neunjährige Trisha unternimmt mit ihrem Bruder und ihrer Mutter eine Wanderung. Trisha verlässt kurz den Weg – und verläuft sich im Wald. Hunger und Durst, Mückenschwärme und wilde Tiere, Einsamkeit und Dunkelheit sind nicht ihre einzigen Begleiter..."
+  },
+  {
+    "author": "King, Stephen",
+    "title": "Puls",
+    "date_read": "Juli 2012",
+    "notes": null,
+    "description": "Das Grauen kommt nicht aus Gräbern oder aus dem Weltraum. Es ist mitten unter uns und steckt in jeder Handtasche. Das Handy ist ein moderner Heilsbringer, doch in Stephen Kings >Puls< kommt mit dem Klingelton Wahnsinn und Tod."
+  },
+  {
+    "author": "King, Stephen",
+    "title": "Wahn",
+    "date_read": "Okt. 2012",
+    "notes": null,
+    "description": "Nach einem schrecklichen Unfall sucht Edgar Freemantle auf einer einsamen Insel Trost in der Malerei. Die Insel aber übt eine dämonische Macht aus, und schon bald entwickeln Edgars Bilder ein unheimliches Eigenleben."
+  },
+  {
+    "author": "Vargas, Fred",
+    "title": "Fliehe weit und schnell",
+    "date_read": "November 2012",
+    "notes": null,
+    "description": "Auf den Wohnungstüren einiger Häuser im 18. Pariser Arrondisssement erscheint über Nacht eine archaisch anmutende 4. Hinter einer nicht markierten Tür liegt am Morgen ein Toter, von Flohbissen übersät und schwarz, wie die Legende von den Pesttoten des Mittelalters berichtet."
+  },
+  {
+    "author": "Vargas, Fred",
+    "title": "Der untröstliche Witwer von Montparnasse",
+    "date_read": "Dezember 2012",
+    "notes": null,
+    "description": "Mathias, Marc und Lucien, die drei rivalisierenden Historikerfreunde von Montparnasse, müssen eine schwere Prüfung in Sachen Loyalität und detektivischem Spürsinn bestehen: Ihr Freund Louis Kehlweiler, Ex-Inspektor des Pariser Innenministeriums, versteckt einen mut- maßlichen Frauenmörder in ihrem Haus."
+  },
+  {
+    "author": "Vargas, Fred",
+    "title": "Der vierzehnte Stein",
+    "date_read": "März 2013",
+    "notes": null,
+    "description": "Kommissar Adamsberg, der Schweiger, Träumer, Einzelgänger – in diesem Roman ist er ein Mensch auf der Flucht. Im Wettlauf mit der Zeit muß er, scheinbar schuldig geworden, seine Unschuld beweisen und einen Mörder finden, den es für die anderen gar nicht gibt."
+  },
+  {
+    "author": "Fitzek, Sebastian",
+    "title": "Der Seelenbrecher",
+    "date_read": "April 2013",
+    "notes": null,
+    "description": "Drei Frauen – alle jung, schön und lebenslustig – verschwinden spurlos. Nur eine Woche in den Fängen des Psychopathen, den die Presse den >>Seelenbrecher<< nennt, genügt: Als die Frauen wieder auftauchen, sind sie psychisch gebrochen – wie lebendig in ihrem Körper begraben."
+  },
+  {
+    "author": "Dijkzeul, Lieneke",
+    "title": "Vor dem Regen kommt der Tod",
+    "date_read": "Mai 2013",
+    "notes": null,
+    "description": "Eine junge Polizistin wird an ihrer Wohnungstür überfallen und brutal niedergestochen. Das nächste Opfer ist eine Studentin. Beide Frauen sind rothaarig. Auch die Galeristin Vivienne hat rote Haare – sie wird von Angst und quälendem Misstrauen erfasst."
+  },
+  {
+    "author": "Fitzek, Sebastian",
+    "title": "Amokspiel",
+    "date_read": "Mai 2013",
+    "notes": null,
+    "description": "Dieser Tag soll ihr letzter sein. Die renommierte Kriminalpsychologin Ira Samin hat ihren Selbsmord sorgfältig vorbereitet. Zu schwer lastet der Tod ihrer ältesten Tochter auf ihrem Gewissen. Doch dann wird sie zu einen Geiseldrama in einem Radiosender gerufen."
+  },
+  {
+    "author": "Fitzek, Sebastian",
+    "title": "Die Therapie",
+    "date_read": "Mai 2013",
+    "notes": null,
+    "description": "Keine Zeugen, keine Spuren, keine Leiche: Josy, die zwölfjährige Tochter des Star- Psychiaters Viktor Larenz, ist vor vier Jahren verschwunden. Viktor hat sich seitdem in ein abgelegenes Ferienhaus zurückgezogen. Aber eine schöne Unbekannte spürt ihn dort auf und bittet ihn um eine Therapie, weil sie von Wahnvorstellungen geplagt wird."
+  },
+  {
+    "author": "Franz, Andreas",
+    "title": "Spiel der Teufel",
+    "date_read": "Juni 2013",
+    "notes": null,
+    "description": "In einem Kieler Vorort wird die Leiche des Oberkommissar Gerd Wegner in seinem Auto gefunden. Die Fenster sind abgedichtet, ein Schlauch führt vom Auspuff ins Wageninnere, das Gargentor ist geschlossen, der Motor läuft. Kommissar Sören Henning und seine Kollegin Lisa Santos sind fassungslos: Kann es sein, dass sich ihr langjähriger Freund und Kollege umgebracht hat?"
+  },
+  {
+    "author": "Franz, Andreas",
+    "title": "Tödliches Lachen",
+    "date_read": "Juli 2013",
+    "notes": null,
+    "description": "Kommissarin Julia Durant ist höchst beunruhigt. Mit der Post hat sie einen Umschlag erhalten, in dem sich das Foto eine offensichtlich ermordeten jungen Frau befindet. Ein makaberer Scherz oder aber grausame Wirklichkeit? Noch während Julia und ihre Kollegen rätseln, wird eine Frauenleiche gefunden – die Frau auf dem Foto!"
+  },
+  {
+    "author": "Franz, Andreas",
+    "title": "Letale Dosis",
+    "date_read": "Juli 2013",
+    "notes": null,
+    "description": "Rätselhafte Mordfälle mit exotischen Giften! Innerhalb kürzester Zeit werden drei angesehene Mitglieder der Religionsgemeinschaft >>Kirche des Elohim<< ermordet aufgefunden. Als Hauptkommissarin Julia Durant und ihre Kollegen Nachforschungen über die Toten anstellen, erfahren sie, dass sich hinter deren Maske der Wohlanständigkeit Machtmißbrauch und Demütigungen, Mißhandlungen und Lügengebäude verbargen."
+  },
+  {
+    "author": "Follett, Ken",
+    "title": "Die Pfeiler der Macht",
+    "date_read": "August 2013",
+    "notes": null,
+    "description": "Das Haus Pilaster, eine der angesehensten Bankiersfamilien Londons, wird insgeheim von der schönen Augusta beherrscht. Hinter einer Fassade der Wohlanständigkeit treibt sie rücksichtslos ihre ehrgeizigen Pläne voran, die schon bald das Fundament des Finanzimperiums erschüttern und die Pfeiler seiner Macht ins Wanken bringen."
+  },
+  {
+    "author": "Grebe, Camilla & Träff, Asa",
+    "title": "Das Trauma",
+    "date_read": "Aug. 2013",
+    "notes": null,
+    "description": "Siri Bergmann, Psychotherapeutin in Stockholm, kennt die Abgründe männlicher Gewalt aus eigener Erfahrung. Deshalb übernimmt sie die Betreuung einer Selbsthilfegruppe geschlagener Frauen nur mit gemischten Gefühlen – als Freundschaftsdienst für einen guten Kollegen. Die Geschichten der Teilnehmerinnen sind erschütternd. Aber stimmen sie auch?"
+  },
+  {
+    "author": "Marklund, Liza",
+    "title": "Weisser Tod",
+    "date_read": "Sept. 2013",
+    "notes": null,
+    "description": "In einer Schneewehe liegt eine blasse schöne Frau. Ihr Anblick trifft die Journalistin Annika Bengtzon bis ins Mark. Doch bevor sie in diesem Mordfall recherchieren kann, bricht eine Katastrophe über sie herein: Ihr Mann Thomas ist in Afrika entführt worden."
+  },
+  {
+    "author": "Marklund, Liza",
+    "title": "Studio 6",
+    "date_read": "Sept. 2013",
+    "notes": null,
+    "description": "Annika Bengtzon nimmt in der Stockholmer Redaktion des >>Abendblatts<< einen anonymen Anruf entgegen: Auf einem Friedhof hat man eine Frauenleiche gefunden. Das Opfer war Tänzerin im Stripteaseclub >>Studio Sex<<, der pikanterweise auch von Politikern frequentiert wird. Die Journalistin begibt sich in Gefahr, als sie – ganz eigenmächtig – Nach- forschungen anstellt."
+  },
+  {
+    "author": "Adler-Olsen, Jussi",
+    "title": "Erbarmen",
+    "date_read": "Okt. 2013",
+    "notes": null,
+    "description": "Der Albtraum einer Frau. Ein dämonischer Psychothriller. Der erste Fall für Carl Morck. „Herzlichen Glückwunsch zu deinem Geburtstag, Merete. Du bist jetzt hier seit 126 Tagen, und das ist unser Geburtstagsgeschenk : Das Licht wird von nun an ein Jahr lang eingeschaltet bleiben. Es sei denn, du weißt die Antwort: Warum halten wir dich fest?“"
+  },
+  {
+    "author": "Follett, Ken",
+    "title": "Die Brücken der Freiheit",
+    "date_read": "November 2013",
+    "notes": null,
+    "description": "Vom alten England bis in die Neue Welt spannt sich der große Bogen des abenteuerlichen Lebens zweier Menschen auf der Suche nach Freiheit. In den schottischen Kohlengruben herrscht das Gesetz der Sklaverei. Doch Mack McAsh, ein junger Bergmann, träumt davon, frei zu sein. Er flieht nach London – und gerät in eine andere Form von Knechtschaft"
+  },
+  {
+    "author": "Adler-Olsen, Jussi",
+    "title": "Erlösung",
+    "date_read": "Nov. 2013",
+    "notes": null,
+    "description": ">>Was wird er mit uns machen, wenn er zurückkommt?<< Die Angst flackerte auf in den Augen des kleinen Bruders. Sie wussten, dass bald alles vorbei sein würde. Aus diesem Bootshaus gab es kein Entrinnen. Kinder verschwinden spurlos. Niemand meldet sie vermisst. Der dritte Fall für Carl Morck."
+  },
+  {
+    "author": "Adler-Olsen, Jussi",
+    "title": "Schändung",
+    "date_read": "Dez. 2013",
+    "notes": null,
+    "description": ">>Der Blutdurst der Jäger. Wie würden sie es machen? Ein einzelner Schuss? Nein. So gnädig waren die nicht, diese Teufel, so waren sie nicht…<< Die zerstörte Seele einer Frau. Drei mächtige Männer, die ihr nach dem Leben trachten. Der zweite Fall für Carl Morck."
+  },
+  {
+    "author": "Adler-Olsen, Jussi",
+    "title": "Verachtung",
+    "date_read": "Jan. 2014",
+    "notes": null,
+    "description": ">>Erinnerst du dich nicht mehr an mich, Nete? Doch, das tust du. Du erinnerst dich noch sehr genau an mich.<< Da war es wieder, dieses Gefühl aus den verzweifelten Tagen auf Sprogo, als das Meer und die Wellen sie lockten, ihrem elenden Leben ein Ende zu bereiten… Eine Insel für ausgestoßene Frauen. Eine Frau, die Rache nimmt an ihren Peinigern. Der vierte Fall für Carl Morck."
+  }
+]

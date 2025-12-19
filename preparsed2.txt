@@ -1,0 +1,520 @@
+[
+  {
+    "author": "Seibold, Jürgen",
+    "title": "Kinder",
+    "date_read": "Jan. 2014",
+    "notes": null,
+    "description": "Annette und Rainer Pietsch leben mit ihren drei Kindern in der Nähe von Stuttgart. Als nach den Sommerferien ein neues Schuljahr beginnt, richtet sich die Familie wieder im Alltag ein. Doch nach einigen Wochen beginnen sich die Kinder zu verändern. Sarah wird zunehmend abweisend, und auch Michael und Lukas entwickeln merkwürdige Verhaltensweisen. Der Familienfriede wird immer mehr von dem aggressiven Auftreten der Kinder erschüttert. Haben die Veränderungen etwas mit den beiden neuen Lehrern, Rosemarie und Franz Moeller, und deren ziemlich unkonventionellen pädagogischen Methoden zu tun? Als schließlich ein Mitschüler unter seltsamen Umständen ums Leben kommt, beschleicht die Eltern ein schlimmer Verdacht..."
+  },
+  {
+    "author": "Strobel, Arno",
+    "title": "Der Sarg",
+    "date_read": "Jan. 2014",
+    "notes": null,
+    "description": "Alles nur ein schlimmer Traum? Sie wacht auf. Es ist dunkel. Zu dunkel. Sie kann nichts erkennen. Kein Lichtschein durch die Jalousien, keine Leuchtziffern auf dem Wecker. Nichts. Sie will sich aufrichten. Es gelingt ihr nicht. Ihr Kopf schlägt dumpf gegen Holz. Sie ist gefangen. Sie liegt in einem Sarg. Und niemand hört sie schreien."
+  },
+  {
+    "author": "Eschbach, Andreas",
+    "title": "Herr aller Dinge",
+    "date_read": "Feb. 2014",
+    "notes": null,
+    "description": "Schon als Kind hat Hiroshi die Idee für eine Erfindung, die den Unterschied zwischen Arm und Reich für immer aus der Welt schaffen könnte. Als Erwachsener setzt er alles daran, diese Erfindung in die Tat umzusetzen – um damit endlich auch Charlotte zu gewinnen, die Liebe seines Lebens. Was mit der bahnbrechenden Idee beginnt, die die ganze Welt in einem nie gekannten Ausmaß verändern könnte, wird jedoch rasch zu einem gefährlichen Unterfangen. Denn die Erfindung entwickelt ein ungeahntes Eigenleben und führt Hiroshi auf die Spur eines uralte Geheimnisses-und des schrecklichsten aller Verbrechen."
+  },
+  {
+    "author": "Cooper, Glenn",
+    "title": "Die Namen der Toten",
+    "date_read": "Feb. 2014",
+    "notes": null,
+    "description": "Eine beispiellose Mordserie hält New York in Atem. Die Opfer bekommen eine Postkarte und sind am nächsten Tag tot. Für FBI-Profiler Will Piper vollkommen unerklärlich: Die Toten hatten absolut keine Gemeinsamkeiten. Welcher perverse Serienkiller versetzt das ganze Land in Angst und Schrecken? Die Spur führt in die Vergangenheit. Und auf eine kleine Insel am anderen Ende der Welt."
+  },
+  {
+    "author": "Kellermann, Jonathan",
+    "title": "Böse Liebe",
+    "date_read": "März 2014",
+    "notes": null,
+    "description": "Die Kassette kam in einem gewöhnlichen braunen Umschlag – ohne Absender. Beim Abspielen hört er einen herzzerreißenden Schrei und einen monotonen Kindervers: >>Böse Liebe, böse Liebe – ich will deine böse Liebe nicht.<< Kriminalpsychologe Dr. Alex Delaware hält das ganze zunächst für einen makabren Scherz, aber Anschläge auf sein Haus und sein Leben machen ihm sehr schnell klar, dass er selbst in das Visier eines Verbrechers geraten ist. Zusammen mit seiner Freundin Ruth und dem Detektiv Milo Sturgis sucht er nach dem Schlüssel für die rätselhafte Botschaft. Erste Spuren führen zu einem Psychiater, der seine abstrusen Theorien über gute und böse Mutterliebe in seiner Klinik an verhaltensgestörten Kindern erforscht hat."
+  },
+  {
+    "author": "Neuhaus, Nele",
+    "title": "Unter Haien",
+    "date_read": "April 2014",
+    "notes": null,
+    "description": "Die New Yorker Investmentbankiren Alex Sontheim hat sich durch Intelligenz und Zielstrebigkeit eine Position erarbeitet, von der andere nur träumen. Sie ahnt aber nicht, dass sie ihren Sachverstand und ihr Insiderwissen in ein Kartell von ausgeklügelter Wirtschaftskriminalität investiert. Selbst als Bürgermeister Nick Kostidis, unbeirrbarer Kämpfer gegen die Kriminalität in New York City, die junge Frau warnt, will sie nichts davon hören. Erst ein Attentat auf die Familie des Bürgermeisters und Unstimmigkeiten in ihrer Firma wecken ihr Misstrauen. Alles beginnt auf eigene Faust zu recherchieren und macht eine ungeheuerliche Entdeckung, die sie in tödliche Gefahr bringt..."
+  },
+  {
+    "author": "Adler Olsen, Jussi",
+    "title": "Das Alphabethaus",
+    "date_read": "April 2014",
+    "notes": null,
+    "description": "1944. Die britischen Piloten Bryan und James, unzertrennliche Freunde von Kindesbeinen an, stürzen über deutschem Territorium ab. Schwerverletzt und unter falscher Identität gelangen sie in ein Sanatorium für Geisteskranke im Schwarzwald. Ihr Leben als Simulanten im >>Alphabethaus<< wird zur Hölle auf Erden. Werden sie, wird ihre Freundschaft überleben? Jahrzehnte später brechen sich die entsetzlichen Ereignisse der damaligen Zeit noch einmal gewaltsam Bahn..."
+  },
+  {
+    "author": "Adler Olsen, Jussi",
+    "title": "Das Washington Dekret",
+    "date_read": "April 2014",
+    "notes": null,
+    "description": "Ein kaltblütiger Mord an der Gattin des neu gewählten US-Präsidenten. Ein Erlass, der das Land erschüttert. Eine mutige Frau auf den Spuren eines perfiden Komplotts. Dieser atemberaubende Thriller spielt mit der Vision vom Zerfall der amerikanischen Gesellschaft."
+  },
+  {
+    "author": "Walters, Eric",
+    "title": "We all fall down",
+    "date_read": "April 2014",
+    "notes": null,
+    "description": "Es ist der 10. September 2001. Morgen soll Will wegen eines berufsorientierenden Projekts der Schule einen ganzen Tag im Büro mit seinem Vater verbringen – im Südturm der Twin Towers, downtown Manhattan. Will hatte noch nicht eine besonders gute Beziehung zu seinem Vater, der sich die meiste Zeit im Geschäft, fern von der Familie, aufgehalten hat. Doch der nächste Tag wird seinen Blick auf den Vater gänzlich verändern..."
+  },
+  {
+    "author": "Seghers, Jan",
+    "title": "Die Braut im Schnee",
+    "date_read": "Mai 2014",
+    "notes": null,
+    "description": "Eine junge Zahnärztin ist ermordet worden. Der Täter hat die Leiche auf widerwärtige Weise zur Schau gestellt. Der Frankfurter Kommissar Marthaler ist von dem Anblick zutiefst erschüttert. Er ahnt, dass sich der Mörder mit diesem einen Opfer nicht zufrieden geben wird. Und er soll Recht behalten ..."
+  },
+  {
+    "author": "Edwardson, Ake",
+    "title": "Toter Mann",
+    "date_read": "Juni 2014",
+    "notes": null,
+    "description": "Ein verlassener Wagen im nächtlichen Göteborg, Schüsse auf einen bekannten Autor – nichts scheint zusammenzupassen. Doch Kommissar Erik Winter spürt, dass ein mächtiger Gegner ihn belauert. Immer tiefer gerät Winter in ein verzweigtes Netz aus Lügen und Intrigen, das ihn weit in die Vergangenheit zurückführt. Dann geschieht ein Mord, und Winter muss von vorn anfangen. Noch längst hat er nicht überall Licht ins Dunkel gebracht, da fordert ihn sein Gegner zum Showdown."
+  },
+  {
+    "author": "Jonasson, Jonas",
+    "title": "Der Hundertjährige, der aus dem Fenster stieg …",
+    "date_read": "Juni 2014",
+    "notes": null,
+    "description": "Allan Karlsson wird hundert Jahre alt. Eigentlich ein Grund zu feiern. Doch er steigt kurzerhand aus dem Fenster (im Erdgeschoss) und verschwindet (zum Bahnhof) – und schon bald steht das ganze Land wegen seiner Flucht auf dem Kopf. Jonas Jonasson erzählt ein herrlich komisches >>road movie<< und zugleich die irrwitzige Lebensgeschichte eines Mannes, der sich zwar nicht für Politik interessiert, in den letzten hundert Jahren aber trotzdem immer in die großen historischen Ereignisse verwickelt war."
+  },
+  {
+    "author": "Neuhaus, Nele",
+    "title": "Eine unbeliebte Frau",
+    "date_read": "Juli 2014",
+    "notes": null,
+    "description": "Eine Ladung Schrot aus dem eigenen Jagdgewehr beschert dem Frankfurter Oberstaatsanwalt ein schnelles, wenn auch sehr hässliches Ende. Die schöne junge Frau, die tot am Fuß eines Aussichtsturms im Taunus liegt, ist viel zu unversehrt, um an den Folgen eines Sturzes gestorben zu sein. Kriminalhauptkommissar Oliver von Bodenstein und seine neue Kollegin Pia Kirchhoff sind sich einig: Der erste Todesfall war ein Selbstmord, der zweite jedoch ein Mord. Bald häufen sich sowohl die Motive als auch die Verdächtigen."
+  },
+  {
+    "author": "Fitzek, Sebastian & Tsokos Michael",
+    "title": "Abgeschnitten",
+    "date_read": "Aug. 2014",
+    "notes": null,
+    "description": "Rechtsmediziner Paul Herzfeld, Spezialist für Gewaltverbrechen, findet im Kopf einer monströs zugerichteten Leiche die Telefonnummer seiner Tochter. Hannah wurde verschleppt – und für Herzfeld beginnt eine perverse Schnitzeljagd. Denn der psychopathische Entführer hat eine weitere Leiche auf Helgoland mit Hinweisen präpariert. Herzfeld hat jedoch keine Chance, an die Informationen zu kommen und den Wettlauf gegen die Zeit zu gewinnen: Die Hochseeinsel ist durch einen Orkan vom Festland abgeschnitten, die Bevölkerung bereits evakuiert. Unter den wenigen Menschen, die geblieben sind, ist die Comic-Zeichnerin Linda, die den Toten am `Strand gefunden hat. Verzweifelt versucht Herzfeld sie zu überreden, die Obduktion nach seinen telefonischen Anweisungen durchzuführen. Doch Linda hat noch nie ein Skalpell berührt. Geschweige denn einen Menschen seziert. Als sie sich dennoch in die verlassene Pathologie der Inselklinik wagt, erkennt sie sehr schnell, dass das Leben des entführten Mädchens nicht das einzige ist, das auf dem Spiel steht..."
+  },
+  {
+    "author": "Barbato, Paola",
+    "title": "Die Pathologien",
+    "date_read": "Aug. 2014",
+    "notes": null,
+    "description": "Mailand im Ausnahmezustand: Ein Serienmörder treibt sein Unwesen und hat bereits drei Opfer getötet. Nicht ohne Grund wird der Killer >>Der Schlächter<< genannt – die Leichen wurden bis zur Unkenntlichkeit verstümmelt. Die Polizei wendet sich an die routinierte Pathologin und Profilerin Giuditta Licari, die bei allen für ihre Professionalität und Abgebrühtheit bekannt ist. Was jedoch niemand ahnt: Auch sie hat ihre dunklen Geheimnisse. Und im Laufe der Ermittlungen wird sie selbst mehr und mehr in den Fall des Serienmörders verstrickt..."
+  },
+  {
+    "author": "Landorff, Max",
+    "title": "Der Regler",
+    "date_read": "September 2014",
+    "notes": null,
+    "description": "Er ist der Regler. Für die Reichen und Mächtigen regelt er alles – Liebe, Karriere, Geld, Sex. Bis die bestialischen Morde geschehen. Und er erkennen muss: Du kannst alles regeln. Nur nicht deine Vergangenheit."
+  },
+  {
+    "author": "Gericke, Shane",
+    "title": "Zerrissen",
+    "date_read": "September 2014",
+    "notes": null,
+    "description": "Ein fünfzehnjähriges Mädchen, brutal vergewaltigt und einfach weggeworfen. Ein Kleinstadt-Sheriff, niedergeschossen und sterbend liegen gelassen.-Eine Welle der Gewalt schwappt durch den kleinen Ort Naperville in Illinois. Detective Emily Thompson ist entschlossen, dem Verbrechen ein Ende zu bereiten. Doch dann tauchen die ersten Briefe auf. Briefe, in denen Körperteile von Mordopfern verschickt werden. Und bald stellt Emily fest, dass die Täter auch sie im Visier haben. Sie muss die teuflischen Mörder stoppen – oder sterben."
+  },
+  {
+    "author": "Ludwig, Stephan",
+    "title": "Zorn - Tod und Regen",
+    "date_read": "Okt. 2014",
+    "notes": null,
+    "description": "Zwei Morde in einer Stadt, die seit Jahren nur natürliche Todesfälle kannte. Blutig, brutal, unerklärlich. Warum gibt ein Killer seinem Opfer Schmerzmittel, bevor er es quält? Hauptkommissar Claudius Zorn soll die Ermittlungen leiten: Er hat Kopfschmerzen, er hat keine Lust, er hat keine heiße Spur. Als er dann noch merkt, dass ihn bei den Ermittlungen irgendjemand austricksen will, bekommt Zorn richtig schlechte Laune. Und der Mörder hat noch nicht genug... Der erste Fall für Zorn und Schröder."
+  },
+  {
+    "author": "Hoffmann, Jilliane",
+    "title": "Argus",
+    "date_read": "Okt. 2014",
+    "notes": "3.",
+    "description": "Das Monster mit den hundert Augen. Ein Mann, der zehn Jahre lang auf den Tag der Rache gewartet hat. Eine Frau, die endlich vergessen will. Ein Club, der junge Frauen tötet. Der Albtraum hat begonnen... Der dritte Band der großen Cupido-Trilogie"
+  },
+  {
+    "author": "Hoffmann, Jilliane",
+    "title": "Cupido",
+    "date_read": "Nov. 2014",
+    "notes": "1.",
+    "description": "Der Albtraum jeder Frau: Du kommst abends in dein Apartment. Du bist allein. Alles scheint wie immer, nur ein paar Kleinigkeiten lassen dich stutzen. Du kümmerst dich nicht darum. Du bist müde und gehst schlafen. Und auf diesen Moment hat er gewartet - der Mann, der unter deinem Fenster lauert …"
+  },
+  {
+    "author": "Hoffmann, Jilliane",
+    "title": "Morpheus",
+    "date_read": "Dez. 2014",
+    "notes": "2.",
+    "description": "Es ist zurück. Es lebt. Es tötet. Ein Serienmörder, der korrupte Cops umbringt. Eine Staatsanwältin mit einem dunklen Geheimnis. Ein Monster, das im Todestrakt auf den Tag der Rache wartet... Drei Jahre ist es her, dass die Cupido-Morde ganz Florida in Atem hielten. Jetzt schlägt das Grauen wieder zu. Kann C.J.Larson ihm noch einmal entkommen?"
+  },
+  {
+    "author": "Ludwig, Stephan",
+    "title": "Zorn - Wo kein Licht",
+    "date_read": "Dez. 2014",
+    "notes": null,
+    "description": "Hauptkommissar Claudius Zorn weiß nicht mehr, wo ihm der Kopf steht. Innerhalb kürzester Zeit ereignen sich mehrere Verbrechen, und alles landet auf seinem Tisch. Sein Kollege Schröder liegt mit Gehirnerschütterung im Krankenhaus und kann zunächst nicht wie gewohnt den dringend benötigten ermittlerischen Input liefern. Aber dann erhält Zorn den entscheidenden Hinweis, und hat schnell einen Verdacht. Alle Verbrechen hängen zusammen. Nur leider glaubt ihm keiner. Mit fatalen Folgen... Der dritte Fall für Hauptkommissar Claudius Zorn und den dicken Schröder."
+  },
+  {
+    "author": "Neuhaus, Nele",
+    "title": "Tiefe Wunden",
+    "date_read": "Jan. 2015",
+    "notes": null,
+    "description": "Drei Morde und ein dunkles Geheimnis. Ein 92-jähriger Holocaust-Überleben wird in seinem Haus im Taunus mit einem Genickschuss getötet. Bei der Obduktion macht der Arzt eine seltsame Entdeckung: Der Arm des Toten trägt die Reste eine SS-Blutgruppentätowierung. Dann geschehen zwei weitere Morde, die Hinrichtungen gleichen. Welches Geheimnis verband die Opfer miteinander? Hauptkommissar Oliver von Bodenstein und seine Kollegin Pia Kirchhoff ermitteln."
+  },
+  {
+    "author": "Slaughter, Karin",
+    "title": "Verstummt",
+    "date_read": "Feb. 2015",
+    "notes": null,
+    "description": "Selbst der erfahrene Detective Michael Ormewood vom Atlanta Police Department ist schockiert, als er die grausam ermordete Frau vor sich sieht. Das Opfer eines krankhaften Serienmörders? Alles deutet darauf hin, und so ist Michael gezwungen, mit Special Agent Will Trent zusammenzuarbeiten -einem Mann, dem er instinktiv misstraut. Und mit der Polizistin Angie Polaski, die früher seine Geliebte war -– bis sie zur Feindin wurde. Wenig später verschafft das Böse sich Zutritt zu Michaels Haus- und längst Vergangenes sickert in die Gegenwart wie Gift in seine Adern..."
+  },
+  {
+    "author": "Stevens, Chevy",
+    "title": "Never Knowing",
+    "date_read": "März 2015",
+    "notes": null,
+    "description": "Seine Eltern kann sich niemand aussuchen. Aber was, wenn dein Vater ein gesuchter Serienkiller ist? In mit fließt das Blut eines Mörders. Ich habe Angst vor ihm, und vor mit. Auf der Suche einer Frau nach ihrer Herkunft."
+  },
+  {
+    "author": "Masello, Robert",
+    "title": "Eisiges Blut",
+    "date_read": "März 2015",
+    "notes": null,
+    "description": "Am Ende der Welt: Point Adélie in der Antarktis. Hier, in der unwirklichen, endlosen Eiswüste in der Nähe des Pols, recherchiert der Journalist Michael Wilde den Alltag in einer Forschungsstation, als er im Polarmeer einen spektakulären Fund macht: die beiden Körper eines Mannes und einer Frau – aneinander gekettet und perfekt konserviert in hundertfünfzig Jahre altem Gletschereis. Die Suche nach dem Geheimnis des versunkenen Paares bringt Michael auf die Spur einer Geschichte, die Jahrhunderte und Kontinente überspannt. Und die sein Leben für immer verändern wird..."
+  },
+  {
+    "author": "Hogan, Chuck",
+    "title": "Endspiel",
+    "date_read": "April 2015",
+    "notes": null,
+    "description": "Doug MacRay hat mit seinen drei Freunden eine Bank überfallen. Auf der Flucht nehmen sie die Filialleiterin Claire Keesey als Geisel und lassen sie nach kurzer Zeit frei. Aber Doug hat sich in Claire verliebt, und auch der FBI-Agent, der auf ihn Jagd macht, hat ein Auge auf die Zeugin geworfen. Er wird eng um Doug. Mit einem letzten Coup will er sich von seiner kriminellen Vergangenheit befreien und ein neues Leben anfangen."
+  },
+  {
+    "author": "Zander, Joakim",
+    "title": "Der Schwimmer",
+    "date_read": "Mai 2015",
+    "notes": null,
+    "description": "Damaskus: Das Kind in seinen Armen hat hohes Fieber, atmet kaum noch. Im nächsten Moment explodiert eine Bombe: Die Frau, die er liebt, stirbt. Doch der Anschlag galt ihm. Dem amerikanischen Agenten. Brüssel: Im Haifischbecken der EU bewegt sich die schwedische Referentin Klara Walldéen mühelos. Doch dann begegnet sie Mahmoud wieder, einem erfolgreichen Politologen, ihrer großen Liebe. Er besitzt Informationen, die seinen Tod bedeuten können. Und auch Klaras. Arkösund & Schären: Ihr Fluchtpunkt. Hier ist Klara aufgewachsen. Hier gibt es Menschen, so rau wie die Natur. Auf die Verlass ist. Ganz gleich, wie hoch die Wellen schlagen. Langley: Der amerikanische Agent ist der Einzige, der Klara retten kann. Ein Mann, der bei seinen Einsätzen alles vergessen wollte: Vergangenheit, Schuld, sein Kind, das er nie wiedergesehen hat. Und der nur an einem Ort Ruhe findet. Im Wasser. Während er seine Bahnen schwimmt. Zug um Zug."
+  },
+  {
+    "author": "Slaughter, Karin",
+    "title": "Tote Augen",
+    "date_read": "Mai 2015",
+    "notes": null,
+    "description": "Nach dem schrecklichen Anschlag, dem ihr geliebter Partner in crime und Ehemann Jeffrey Tolliver zum Opfer fiel, wollte Sara Linton nichts mehr, als Abstand zu gewinnen. Doch kaum hat sie in der Stadt ihrer Kindheit wieder Fuß gefasst, bricht erneut das Böse in ihr Leben ein... In der Notaufnahme des Grady Hospital muss sie eine junge Frau versorgen, die erst gefoltert und misshandelt und dann, offenkundig auf der Flucht vor ihrem Peiniger, von einem Auto erfasst wurde. Selbst dem Ermittler Will Trent stockt angesichts der Gewalt, der die junge Frau ausgesetzt war, der Atem. Als er den Unfallort begeht, stößt er auf eine Folterkammer tief unter der Erde – und auf Spuren einer zweiten Opfers!"
+  },
+  {
+    "author": "Fitzek, Sebastian",
+    "title": "Splitter",
+    "date_read": "Juni 2015",
+    "notes": null,
+    "description": "Was wäre, wenn wir die schlimmsten Ereignisse unseres Lebens für immer aus dem Gedächtnis löschen könnten? Und was, wenn etwas dabei schiefginge?"
+  },
+  {
+    "author": "Hayman, James",
+    "title": "The Cutting",
+    "date_read": "Juli 2015",
+    "notes": null,
+    "description": "Als die nackte Leiche eines 16-jährigen Mädchens gefunden wird, deren Herz mit chirurgischer Präzision entfernt wurde, wird Detective Sergeant Michael McCabe, gerade von New York City in die vermeintliche Idylle der Kleinstadt gezogen, um ein neues Leben zu beginnen, mit dem Fall betraut. Unter Hochdruck machen sich McCabe und seine Partnerin, die toughe Maggie Savage, an die Arbeit. Doch mit der Entführung einer weiteren Frau hat die grausige Gewissheit Portland endgültig erreicht: Jemand stiehlt die Herzen schöner junger Frauen..."
+  },
+  {
+    "author": "Robotham, Michael",
+    "title": "Erlöse mich",
+    "date_read": "Juli 2015",
+    "notes": null,
+    "description": "Seit ihr Mann Daniel vor einem Jahr spurlos verschwand, liegt ein schwarzer Schatten über dem Leben von Marnie Logan. Aber sie leidet nicht nur unter der quälenden Ungewissheit über sein Schicksal – immer wieder übermannen sie plötzlich Ängste, immer wieder beschleicht sie das Gefühl, beobachtet zu werden. Deshalb sucht sie auch Hilfe bei dem Psychologen Joe O'Loughlin, der den Verdacht hat, dass Marnie ihm etwas verschweigt. Als eines Tages überraschend ein Album mit Fotos alter Freunde und Bekannter entdeckt wird, das Daniel seiner Frau zum Geburtstag schenken wollte, ist Marnie zunächst gerührt. Doch dann kommt die grausame Geschichte dahinter ans Tageslicht, die auch Joe zutiefst erschüttert."
+  },
+  {
+    "author": "Beckett, Simon",
+    "title": "Tiere",
+    "date_read": "August 2015",
+    "notes": null,
+    "description": "Manche Menschen sind Tiere. Nigel ist sicherlich nicht der Hellste. Aber er ist meistens ganz guter Laune. Im Büro gibt es immer etwas zu kopieren, und außerdem sind da Cheryl und Karen. Auch im Pub, den seine Eltern früher führten und in dem Nigel jetzt wohnt, fühlt er sich wohl. Es gibt hier zwar kein Bier und keine Zigaretten mehr, aber Nigel interessiert sich sowieso mehr für Fernsehen und Comics. Und dann ist da noch der Keller. Hier hält Nigel seine Mitbewohner. Dass die nicht ganz freiwillig da unten wohnen, stört Nigel nicht wirklich. Hauptsache, er hat seinen Spaß."
+  },
+  {
+    "author": "Robotham, Michael",
+    "title": "Dein Wille geschehe",
+    "date_read": "Aug. 2015",
+    "notes": null,
+    "description": ">>Es gibt einen Moment, in dem alle Hoffnung vergeht, aller Stolz schwindet, alle Erwartung, aller Glaube, alles Sehnen. Dieser Moment gehört mir. Dann höre ich den Klang einer zerbrechenden Seele. Es ist kein lautes Knacken wie von splitternden Knochen, wenn ein Rückgrat bricht oder ein Schädel birst. Auch nicht weich und feucht wie ein gebrochenes Herz. Es ist ein Klang, bei dem man sich fragt, wie viel Schmerz ein Mensch ertragen kann; ein Laut, der das Gedächtnis zerschmettert und die Vergangenheit in die Gegenwart sickern lässt, ein Ton, so hoch, dass nur die Hunde der Hölle ihn hören können. Ein neuer packender Fall für den Psychologen Joe O´Loughlin und Detective Inspector Vincent Ruiz."
+  },
+  {
+    "author": "Robotham, Michael",
+    "title": "Amnesie",
+    "date_read": "Aug. 2015",
+    "notes": null,
+    "description": "Schwer verletzt wird Detective Inspector Vincent Ruiz aus der Themse geborgen und liegt tagelang im Koma. Wieder bei Bewusstsein fängt sein Alptaum allerdings erst an, denn er kann sich an die letzten Wochen nicht erinnern. Das Einzige, was aus dem Dunkel seines Geistes immer wieder aufleuchtet, ist das Bild eines verschwundenen Mädchens, nach dem er Jahre zuvor verzweifelt gesucht hatte – vergeblich. Mickey Carlyle gilt seither als tot. Doch in Vincent keimt der Verdacht, dass Mickey noch lebt und in großer Gefahr schwebt. Niemand will ihm Glauben schenken, aber mit Hilfe eines befreundeten Psychologen gelingt es ihm, nach und nach die schreckliche Vergangenheit zu rekonstruieren..."
+  },
+  {
+    "author": "Flynn, Gillian",
+    "title": "Gone Girl",
+    "date_read": "Sep. 2015",
+    "notes": null,
+    "description": ">>Was denkst du gerade, Amy? Das habe ich sie oft gefragt. Was denkst du? Wie geht es dir? Wer bist du? Wie gut kennt man eigentlich den Menschen, den man liebt?<< Genau das fragt sich Nick Dunne an diesem sonnigen Morgen seines fünften Hochzeitstages. An diesem Morgen verschwindet seine Frau Amy spurlos. Die Polizei verdächtigt sofort Nick. Amys Freunde berichten, dass sie Angst vor ihm hatte. In seinem Compurter entdeckt die Polizei merkwürdige Mails. Was geschah mit Nicks wunderbarer Frau Amy?"
+  },
+  {
+    "author": "Ahnhem, Stefan",
+    "title": "Und morgen du",
+    "date_read": "Okt. 2015",
+    "notes": null,
+    "description": "Helsingborg, Südschweden. Kommissar Fabian Risk ist gerade in sein idyllisches Heimatstädtchen zurückgekehrt. Er möchte endlich mehr Zeit mit seiner Familie verbringen. Doch dann wird in seiner alten Schule eine brutal zugerichtete Leiche gefunden. Daneben liegt ein Klassenfoto. Darauf abgebildet ist Risks alte Klasse, das Gesicht des Mordopfers mit einem Kreutz markiert. Und das ist erst der Beginn einer Mordserie, bei der der Mörder Risk und seiner Familie immer näher kommt."
+  },
+  {
+    "author": "Rankin, Ian",
+    "title": "Das Souvenir des Mörders",
+    "date_read": "Nov. 2015",
+    "notes": null,
+    "description": "Schottland ist starr vor Entsetzen: Drei Frauen, brutal misshandelt und erwürgt, sind dem Serienmörder bereits zum Opfer gefallen. Johnny Bibel, so nennen die Medien den Mörder – nach dem berüchtigten Bible John, der vor Jahrzehnten Frauen auf die selbe Art tötete, aber nie gefasst werden konnte. Erste Spuren führen Detektiv Inspector John Rebus von Edinburgh nach Glasgow und Aberdeen. Doch auch der alte Bible John hat sich aufgemacht, den in seinen Augen unwürdigen Nachahmer zu stellen, und John Rebus bleibt wenig Zeit, die Ermordung eines Mörders zu verhindern.."
+  },
+  {
+    "author": "Castillo, Linda",
+    "title": "Tödliche Wut",
+    "date_read": "Dez. 2015",
+    "notes": null,
+    "description": "Sadie Miller ist verschwunden. Ein aufmüpfiger Amisch-Teenager aus Painters Mill. Ihre Familie ist verzweifelt. Verbittet sich aber jede Einmischung. Als Kate Burkholder, die Spezialistin für Amisch-Delikte, gerufen wird, ahnt sie Schlimmes. Denn gerade wurde die blutgetränkte Tasche des Mädchens gefunden. Und da sind noch mehr vermisste Mädchen im gesamten Country. Wo sind sie, und was ist mit ihnen geschehen?"
+  },
+  {
+    "author": "Fitzek, Sebastian",
+    "title": "Der Nachtwandler",
+    "date_read": "Dez. 2015",
+    "notes": null,
+    "description": "Wegen massiver Schlafstörungen wurde Leon in seiner Jugend psychiatrisch behandelt. Seit langem glaubt er sich geheilt – doch als eines Nachts seine Frau unter mysteriösen Umständen verschwindet, keimt ein schrecklicher Verdacht in ihm: Ist er, wie damals, im Schlaf gewalttätig geworden? Um seinem nächtlichen Treiben auf die Spur zu kommen, befestigt Leon eine bewegungsaktive Kamera an seiner Stirn - und entdeckt beim Betrachten des Videos Unfassbares: Sein schlafwandelndes Ich steigt durch eine ihm unbekannte Tür seines Zimmers hinab in die Dunkelheit..."
+  },
+  {
+    "author": "Gerritsen, Tess",
+    "title": "Grabesstille",
+    "date_read": "Jan. 2016",
+    "notes": null,
+    "description": "Vor fast zwanzig Jahren richtet ein Amokläufer in einem kleinen Restaurant in Chinatown ein Blutbad an. Doch wer schreibt den Angehörigen der Opfer seither jahraus, jahrein jene Briefe, die besagen, dass der wahre Täter noch immer nicht gefasst sei? Erst als fast zwei Jahrzehnte später bei einer Stadtführung durch Boston die Leiche einer Frau gefunden wird, die mit einem antiken chinesischen Ritualschwert verstümmelt wurde, wird der alte Fall wieder aufgerollt. Und nicht immer haben Jane Rizzoli und Maura Isles bei den Ermittlungen das Gefühl, es mit einem leibhaftigen Gegner aus Fleisch und Blut zu tun zu haben.."
+  },
+  {
+    "author": "Adler, Kristin",
+    "title": "Im Staub sollst du kriechen",
+    "date_read": "Jan. 2016",
+    "notes": null,
+    "description": "Als in ihrem Museum eine Leiche gefunden wird, ist die Kunstexpertin Clara Mohr fassungslos - und doch scheint ihr die Art und Weise, wie das Opfer zugerichtet wurde, vage vertraut. Die Polizei indes tappt im Dunkeln, die Ermittlungen laufen ins Leere. Es ist Clara, die den entscheidenden Hinweis liefert: Offenbar hat der Mörder sich bei der Tat vom Gemälde eines alten italienischen Meisters inspirieren lassen. Clara muss so schnell wie möglich die Botschaft des Gemäldes entschlüsseln, um weitere Morde zu verhindern..."
+  },
+  {
+    "author": "Robotham, Michael",
+    "title": "Der Schlafmacher",
+    "date_read": "Jan. 2016",
+    "notes": null,
+    "description": "Ein abgelegenes Bauernhaus in Somerset wird zum Schauplatz eines brutalen Mordes: Zwei Frauen, Mutter und Tochter, werden eines Nachts von einem skrupellosen Mörder hingerichtet. Doch trotz gründlicher Untersuchungen steht die Polizei vor einem Rätsel. Chief Superintendent Ronnie Cray bittet daher den erfahrenen Psychologen Joe O'Loughlin um Hilfe, der gleich mit mehreren verdächtigen Personen konfrontiert ist. Motive hätten sie alle, der betrogene Exmann genauso wie die zahlreichen Liebhaber der Mutter sowie der Freund der Tochter. Spätestens aber, als eine weitere Leiche gefunden wird, auf deren Stirn der Buchstabe >>A<< eingeritzt ist, weiß O'Loughlin, dass er es mit einem verstörten und gefährlichen Täter zu tun hat. Jemand, der sich rächen will, für etwas, das ihm einst angetan wurde. Jemand, der vor niemandem haltmacht, auch nicht vor O'Loughlins Familie..."
+  },
+  {
+    "author": "Heitz, Markus",
+    "title": "Exkarnation – Krieg der alten Seelen",
+    "date_read": "Feb. 2016",
+    "notes": null,
+    "description": "Ein Wagen rast unvermittelt auf sie zu und überrollt sie. Claire stirbt an Ort und Stelle, obwohl sie ihrem Mann noch helfen wollte, der vor ihren Augen bei einem Überfall erschossen wird - doch ihre Seele verlässt die Erde nicht. Beherrscht von dem Wunsch, den Mörder zur Rechenschaft zu ziehen, fährt sie in den Leib der Selbstmörderin Lene von Bechstein. Doch Lenes Körper war eigentlich für jemand anderen vorgesehen, und Claire gerät mitten hinein in einen uralten Krieg."
+  },
+  {
+    "author": "Neubauer, Nicole",
+    "title": "Kellerkind",
+    "date_read": "März 2016",
+    "notes": null,
+    "description": "Die erfolgreiche Anwältin Rose Benninghoff liegt mit durchgeschnittener Kehle in ihrer Designerwohnung. Im Keller des Hauses kauert der vierzehnjährige Oliver Baptiste, sein Körper mit Blutergüssen übersät, seine Hände blutverschmiert. Er kann sich an nichts erinnern. In einem klirrend kalten Jahrhundertwinter nimmt der Münchner Hauptkommissar Waechter mit seinem Team die Jagd nach dem Mörder auf. Doch bald verschwimmen die Grenzen zwischen Tätern und Opfern immer mehr, und die Ermittler stoßen auf ein altes Verbrechen, das nie gesühnt wurde und das seine Schatten bis in die Gegenwart wirft..."
+  },
+  {
+    "author": "Ahnhem, Stefan",
+    "title": "Herzsammler",
+    "date_read": "April 2016",
+    "notes": null,
+    "description": "Stockholm, Metropole des Nordens. Kommissar Fabian Risk wollte eigentlich mehr Zeit mit seiner Familie verbringen. Dann wird der Justizminister entführt, und Risk stürzt sich in die Ermittlungen. Doch er kommt zu spät. Und es bleibt nicht bei einem Opfer. Die einzige Verbindung zwischen den Toten: Allen wurden die Organe entnommen. Als ein Verdächtiger Selbstmord begeht, glauben Risks Kollegen, den Fall gelöst zu haben. Nur Risk hat Zweifel. Und er ahnt, dass der Mörder mit seinem Rachefeldzug noch lange nicht fertig ist..."
+  },
+  {
+    "author": "Lawson, Mike",
+    "title": "Das Poseidon Komplott",
+    "date_read": "Mai 2016",
+    "notes": null,
+    "description": "Ein vertraulicher Hinweis alarmiert den US-Kongress: In einer Navy-Werft für Atom-U-Boote ist es zu einer Reihe von Sabotageakten gekommen! Bald ist klar, dass hinter dieser unheimlichen Bedrohung eine feindliche Agentin steckt. Und sie ist offensichtlich bereit, für ihre dunklen Ziele das Leben von Millionen Unschuldigen zu opfern. Allein Joe DeMarco ist jetzt noch imstande, die Katastrophe abzuwenden. Doch seine skrupellose Gegnerin scheint ihm bei diesem tödlichen Duell immer einen entscheidenden Schritt voraus zu sein..."
+  },
+  {
+    "author": "Robotham, Michael",
+    "title": "Der Insider",
+    "date_read": "Juni 2016",
+    "notes": null,
+    "description": "Als der ehemalige Polizist Vincent Ruiz eines Abends in einer Londoner Bar beobachtet, wie eine junge Frau von ihrem gewalttätigen Freund bedroht wird, muss er eingreifen. Doch obwohl er Holly Knight für die Nacht Unterschlupf bietet, ist sie am nächsten Morgen verschwunden – und mit ihr einige wertvolle Gegenstände. Bei dem Versuch, sie aufzuspüren, stößt er nur auf Hollys Freund, der brutal ermordet wurde. Ruiz steht vor einem Rätsel: In welche Machenschaften ist Holly Knight verstrickt? Zur gleichen Zeit spürt der berühmte Journalist Luca Terracini einer Serie von Banküberfällen in Bagdad nach. Dass zudem immer wieder große Summen an Wiederaufbauhilfe verloren gehen, könnte damit in direktem Zusammenhang stehen. Luca macht sich auf die Suche nach der Wahrheit – ein gefährliches Unterfangen, das ihn bis nach London zu Vincent Ruiz führt."
+  },
+  {
+    "author": "Oswald, James",
+    "title": "Das Mädchenopfer",
+    "date_read": "Juni 2016",
+    "notes": null,
+    "description": "Im Keller eines alten Hauses in Edinburgh werden die entsetzlich zugerichteten Gebeine eines jungen Mädchens entdeckt. Rings um die Tote findet man in sechs Wandnischen sechs Schmuckstücke sowie die konservierten Organe des Opfers. So bizarr der Fall ist, so wenig dringlich erscheint er zunächst, da die Tat offenbar bereits über sechzig Jahre zurückliegt. Nur Detective Inspector Anthony McLean lässt das schreckliche Schicksal des unbekannten Mädchens keine Ruhe. Bald stößt er auf eine Verbindung zu einer blutigen Mordserie, die seit Kurzem die Stadt erschüttert, und kommt auf die Spur einer unvorstellbar bösen Wahrheit..."
+  },
+  {
+    "author": "Lorenz, Wiebke",
+    "title": "Alles muss versteckt sein",
+    "date_read": "Juli 2016",
+    "notes": null,
+    "description": "Steckt in jedem Menschen ein Mörder? In Gedanken hat Marie schon erschlagen, erwürgt, zerstückelt. Die furchtbar realen Gewaltfantasien kommen ohne Vorwarnung und machen ihr unaussprechliche Angst. Doch denken heißt nicht tun. Glaubt Marie. Bis ein grausamer Mord geschieht, der genau dem Horror-Drehbuch ihres Kopfes entsprungen zu sein scheint. Alle halten Marie für eine Mörderin. Auch sie selbst. Sie wird verurteilt, eingewiesen, weggesperrt. Ein junger Arzt hilft ihr dabei, die Wochen vor der Mordnacht zu rekonstruieren, und in Marie wachsen die Zweifel. Ist die Wahrheit noch viel furchtbarer als ihre Fantasie?"
+  },
+  {
+    "author": "King, Stephen",
+    "title": "Revival",
+    "date_read": "August 2016",
+    "notes": "nee!",
+    "description": "Der kleine Jamie spielt vor dem Haus mit seinen Plastiksoldaten, da schiebt sich ein dunkler Schatten über ihn, ein Schatten, den er sein Leben lang nicht loswerden wird. Er blickt auf und sieht Charles Jacobs über sich, den jungen Methodistenprediger, der in der neuenglischen Gemeinde gerade sein Amt antritt. Im Nu gewinnt der charismatische Jacobs die Herzen der gottesfürchtigen Einwohner. Den Kindern haben es vor allem die elektrischen Spielereien angetan, mit denen er Bibelgeschichten veranschaulicht. Das alles endet, als ihn ein schrecklicher Unfall vom Glauben abfallen lässt und er eine letzte Predigt hält, die in einer rasenden Gottverfluchung gipfelt. Von der Gemeinde verstoßen, tingelt er fortan über die Jahrmärkte,wo er elektrische Experimente vorführt, die zunehmend spektakulärer werden. Und immer schrecklichere Folgen nach sich ziehen. Über die Jahre trifft Jamie, inzwischen drogenabhängiger Musiker, wiederholt auf Jacobs, der ihn jedes Mal tiefer in seine dämonische Welt zieht. Als Jamie sich dessen klar wird, gibt es kein Zurück mehr. Das finale Experiment steht bevor."
+  },
+  {
+    "author": "Ellis, David",
+    "title": "In Gottes Namen",
+    "date_read": "September 2016",
+    "notes": "super!",
+    "description": "Ich bin nicht der Einzige. Dieser Satz ist der letzte, den Paul Burgos von sich gibt, danach wird er hingerichtet. Überführt wurde er des Mordes an sechs jungen Frauen, die man grausam zugerichtet in einer Schulaula fand. Man nannte es das Mansbury-Massaker. Für den jungen Anwalt Paul Riley bedeutet der Fall den großen Durchbruch. Doch acht Jahre nach den Vorkommnissen wird die Polizei mit einer neuen Mordserie konfrontiert, und Rilex muss erkennen, dass die beiden Fälle miteinander verknüpft sind."
+  },
+  {
+    "author": "Neuhaus, Nele",
+    "title": "Die Lebenden und die Toten",
+    "date_read": "Oktober 2016",
+    "notes": null,
+    "description": "Kriminalhauptkommissarin Pia Kirchhoff will über Weihnachten und Silvester in die Flitterwochen fahren, als sie ein Anruf erreicht: In der Nähe von Eschborn wurde eine ältere Dame aus dem Hinterhalt erschossen. Kurz darauf ereignet sich ein ähnlicher Mord: Eine Frau wird durch das Küchenfenster ihres Hauses tödlich getroffen. Beide Opfer hatten keine Feinde. Warum mussten ausgerechnet sie sterben? Der Druck auf die Ermittler wächst schnell. Pia Kirchhoff und ihr Chef Oliver von Bodenstein fahnden nach einem Täter, der scheinbar wahllos mordet – und kommen einer menschlichen Tragödie auf die Spur."
+  },
+  {
+    "author": "Thiesler, Sabine",
+    "title": "Der Menschenräuber",
+    "date_read": "November 2016",
+    "notes": null,
+    "description": "Zuerst verliert er durch einen schrecklichen Unfall seine Tochter. Dann seinen Beruf und schließlich seine Frau. Als der erfolgreiche Medienmanager Jonathan in einem einsamen Bergdorf in der Toskana ankommt, scheint er am Ende zu sein. Doch dann trifft er die junge Sofia und beginnt mit ihr ein neues Leben, bis ihn die Vergangenheit einholt. Aus Rache wird er zum Mörder, aber das ist erst der Anfang..."
+  },
+  {
+    "author": "Fitzek, Sebastian",
+    "title": "Das Kind",
+    "date_read": "Dezember 2016",
+    "notes": null,
+    "description": "Als Strafverteidiger Robert Stern diesem ungewöhnlichen Treffen zugestimmt hatte, wusste er nicht, dass er damit eine Verabredung mit dem Tod einging. Noch weniger ahnte er, dass der Tod 1,43m messen, Turnschuhe tragen und lächelnd auf einem gottverlassenen Industriegelände in sein Leben treten würde. Simon, von nun an Sterns ständiger Begleiter, ist ein zehnjähriger Junge – und fest davon überzeugt, in einem früheren Leben ein Mörder gewesen zu sein..."
+  },
+  {
+    "author": "Castillo, Linda",
+    "title": "Teuflisches Spiel",
+    "date_read": "Januar 2017",
+    "notes": null,
+    "description": "Als das gleißende Scheinwerferlicht des entgegenkommenden Fahrzeugs sie blendet, bleibt ihnen nicht einmal mehr Zeit, um zu schreien. Auf der regennassen Straße im ländlichen Ohio sterben in dieser Nacht drei Menschen. Ein amischer Vater und zwei seiner Kinder. Als Polizeichefin Kate Burkholder die Unfallstelle genauer untersucht, kommen ihr erste Zweifel: War das wirklich ein Unfall, oder steckt noch etwas anderes dahinter?"
+  },
+  {
+    "author": "Lucius, Walter (Goverde, Walter)",
+    "title": "Schmetterling im Sturm",
+    "date_read": "Feb. 2017",
+    "notes": null,
+    "description": "Im Amsterdamer Wald wird ein Junge angefahren und schwer verletzt zurückgelassen. Es gibt keinen Hinweis auf seine Identität. Die einzige Spur: Der Junge trägt traditionelle afghanische Mädchenkleidung. Die Journalistin Farah Hafez, selbst afghanischer Herkunft, ahnt, dass es um weit mehr geht als zum einen Unfall mit Fahrerflucht. Ihre Recherchen führen in die höchsten politischen Kreise von Amsterdam, Moskau und Johannesburg. Immer weiter dringt sie zum Zentrum eines internationalen Netzwerks vor, bis ihr eigenes Leben auf dem Spiel steht..."
+  },
+  {
+    "author": "Gerritsen, Tess",
+    "title": "Der Schneeleopard",
+    "date_read": "Feb. 2017",
+    "notes": null,
+    "description": "Die Polizei von Bosten ermittelt in einem bizarren Mordfall. Die Leiche eines Jägers und Tierpräparators wurde gefunden – ausgeweidet und aufgehängt wie eines seiner Beutetiere. In den Wäldern werden Knochenreste eines weiteren Opfers entdeckt. Doch Bosten ist nicht das einzige Jagdrevier des Killers. Es scheint eine Verbindung zu einem fünf Jahre zurückliegenden Vorfall in Botswana zu geben, wo die Teilnehmer einer Safari auf ungeklärte Weise verschwanden. Jane Rizzoli reist nach Afrika, um dem heimtückischen Mörder auf die Spur zu kommen..."
+  },
+  {
+    "author": "Robotham, Michael",
+    "title": "Todeswunsch",
+    "date_read": "März 2017",
+    "notes": null,
+    "description": "Der Psychologe Joe O'Loughlin ist sich nicht sicher, ob er sich ausgerechnet Sienna Hegarty als beste Freundin für seine Tochter Charlie wünscht. Denn die frühreife Sienna ist nicht immer ein guter Umgang. Doch als sie eines Abends blutüberströmt bei den O'Loughins auftaucht, nimmt Joe sich ihrer an. Denn im Haus der Hegartys ist etwas Schreckliches passiert: Siennas Vater liegt tot in ihrem Zimmer – jemand hat ihm die Halsschlagader durchtrennt. Sienna kann sich an nichts erinnern. Auf ihrer Kleidung klebt das Blut des Toten, und das Mädchen hat außerdem ein starkes Motiv für die Tat, wie Joe mit Hilfe seines Freundes, dem Ex-Polizisten Vincent Ruiz, herausfindet. Sienna wird des Mordes an ihrem Vater angeklagt, aber Joe ist von ihrer Unschuld überzeugt. Und er soll eine Wahrheit zu Tage fördern, die schwerer wiegt als alles, was er für möglich gehalten hätte..."
+  },
+  {
+    "author": "King, Stephen",
+    "title": "Finderlohn",
+    "date_read": "April 2017",
+    "notes": null,
+    "description": "Ein Junge findet die nachgelassenen Werke eines ermordeten Starautors in einem vergrabenen Koffer. Jahre später wird der Mörder aus der Haft entlassen. Sein Schatz ist verschwunden. Die Jagd beginnt."
+  },
+  {
+    "author": "Grebe, Camilla & Träff Asa",
+    "title": "Bevor du stirbst",
+    "date_read": "Mai 2017",
+    "notes": null,
+    "description": "Siri Bergmann, Psychotherapeutin aus Stockholm, fühlt sich endlich bereit, mit ihrer Vergangenheit und dem Selbstmord ihres ersten Mannes abzuschließen. Doch dann stößt sie in seinen alten Kisten auf eine merkwürdige Notiz. Die Sterbeanzeige eines Mannes, der in einer eisigen Winternacht ermordet wurde..."
+  },
+  {
+    "author": "Thiesler, Sabine",
+    "title": "Der Kindersammler",
+    "date_read": "Mai 2017",
+    "notes": null,
+    "description": "Anne und ihr Mann Harald erleben den Albtraum aller Eltern: Während eines Toscana-Urlaubs verschwindet ihr Kind spurlos. Die Suche de Polizei verläuft ergebnislos, und sie müssen ohne ihren Sohn Felix nach Hause fahren. Zehn Jahre später kehrt Anne an den Ort des Geschehens zurück, um herauszufinden, was damals passiert ist. Sie ahnt nicht, wie nah sie dem Täter kommt – und er ihr."
+  },
+  {
+    "author": "Meade, Glenn",
+    "title": "Die Letzte Zeugin",
+    "date_read": "Mai 2017",
+    "notes": null,
+    "description": "Carla Lane wurde die Kindheit gestohlen. Mit ihrer Familie ist sie in einem bosnischen Gefangenenlage untergebracht – und als dort ein grauenvolles Massaker geschieht, ist Carla die einzige Überlebende. Zwanzig Jahre später begibt sie sich auf die Jagd: Sie will ihren verschollenen Bruder finden. Und die Bestien, die ihr Leben zerstört haben. Doch die sind ihrerseits fest entschlossen, die einzige Zeugin für immer zum Schweigen zu bringen …"
+  },
+  {
+    "author": "Katzenbach, John (USA)",
+    "title": "Das Rätsel",
+    "date_read": "Juni 2017",
+    "notes": null,
+    "description": "Jeffrey Clayton, ein Psychologieprofessor, der auf das Profiling von Serienkillern spezialisiert ist, wird von der Polizei beauftragt, den grausamen Mord an einer jungen Frau aufzuklären. Dieser Mord ist ein Geheimnis-den er hat sich ausgerechnet in einem streng überwachten Gebiet ereignet, das seinen wohlhabenden Bewohnern absolute Sicherheit verspricht. Das Verbrechen, das es eigentlich nicht geben darf, führt Clayton auf verschlungenen Pfaden in seine eigne, dunkle Familiengeschichte. Der Mord ähnelt einer Tat aus Jeffreys Nachbarschaft, die 25 Jahre zurückliegt. Damals zählte sein eigener Vater zu den Verdächtigen – bis er kurz darauf auf mysteriöse Weise ums Leben kam …"
+  },
+  {
+    "author": "Aichner, Bernhard (Innsbruck)",
+    "title": "Totenfrau",
+    "date_read": "Juni 2017",
+    "notes": null,
+    "description": "Blum ist Bestatterin. Sie ist liebevolle Mutter zweier Kinder, sie besticht durch ihr großes Herz und ihre Coolness. Blum fährt Motorrad, sie trinkt gerne und ist glücklich verheiratet. Blums Leben ist gut. Doch plötzlich gerät dieses Leben durch den Unfalltod ihres Mannes aus den Fugen. Vor ihren Augen wird Mark überfahren. Fahrerflucht. Alles bricht auseinander. Blum trauert, das Wichtigste in ihrem Leben ist plötzlich nicht mehr da. Ihr Halt, ihr Glück. Durch Zufall findet sie heraus, dass mehr hinter dem Unfall ihres Mannes steckt, dass fünf einflussreiche Menschen seinen Tod wollten. Blum sucht Rache. Vor allem aber stellt sie Fragen. Was ist wirklich passiert? Warum musste Mark sterben? Als sie die Antworten gefunden hat, schlägt sie zu. Erbarmungslos. Warum sie dazu fähig ist? Die Antwort darauf liegt Jahre zurück..."
+  },
+  {
+    "author": "Hawkins, Paula (London)",
+    "title": "Girl on the train",
+    "date_read": "Juli 2017",
+    "notes": null,
+    "description": "Jeden Morgen pendelt Rachel mit dem Zug in die Stadt, und jeden Morgen hält der Zug an der gleichen Stelle auf der Strecke an. Rachel blickt in die Gärten der umliegenden Häuser, sieht ihre Bewohner. Und eines Tages beobachtet sie etwas Schockierendes …"
+  },
+  {
+    "author": "Stevens, Taylor (Dallas)",
+    "title": "Mission Munroe – Die Touristin",
+    "date_read": "Juli 2017",
+    "notes": null,
+    "description": "Sie ist schnell, sie ist diskret, und sie ist käuflich. Gegen Bezahlung beschafft Vanessa Munroe ihren Kunden jede gewünschte Information. Mächtige Organisationen in aller Welt, zahlungskräftige Privatleute, selbst Staatsoberhäupter vertrauen auf ihre Fähigkeiten. Doch als der texanische Öl-Milliardär Burbank um ihre Hilfe ersucht, zögert Munroe... Vor vier Jahren verschwand Burbanks Adoptiv-Tochter Emily auf einem Afrikatrip spurlos im Dschungel. Ihr Schicksal konnte nie geklärt werden. Bis heute. Nun setzt Burbank seine letzte Hoffnung in Munroe. Als Missionarskind hat sie die dunkelsten Seiten des schwarzen Kontinents am eigenen Leib erfahren. Nie wollte sie dorthin zurückkehren, aber nun geht es um ein Menschenleben. Trotz finsterer Vorahnungen nimmt Munroe den Auftrag an. Bald gelingt es ihr dank ihrer Kontakte in Zentralafrika tatsächlich, Hinweise auf den Verbleib des Mädchens zu finden. Doch die Suche nach Emily entpuppt sich als die gefährlichste Mission ihres Leben."
+  },
+  {
+    "author": "Winter, Hanna (Berlin)",
+    "title": "Die Spur der Kinder",
+    "date_read": "August 2017",
+    "notes": null,
+    "description": "Berlin, im Sommer: Zwei Jahre ist es her, seit die kleine Sophie am hellichten Tag spurlos verschwand. Für ihre Mutter, die Schriftstellerin Fiona Seeberg, der Beginn eines Albtraums. Als Kommissar Piet Karstens, der schon damals die Ermittlungen leitete, erneut vor Fionas Tür steht, holt die Vergangenheit sie schlagartig ein: Weitere Kinder sind verschwunden – und alle besuchten dieselbe Kindertagesstätte wie Sophie. Ein Zufall? Wieder fehlt vom Täter jede Spur. Einiges Indiz: ein makabres Präsent, das er den ahnungslosen Eltern zusendet. Doch weshalb verstrickt sich ausgerechnet Fionas Verlobter Adrian plötzlich in Widersprüche? Auf den Spuren ihrer Tochter gerät Fiona schließlich selbst in des Visier des kaltblütigen Täters..."
+  },
+  {
+    "author": "Walker, Adrian J (London)",
+    "title": "Am Ende aller Zeiten",
+    "date_read": "Aug. 2017",
+    "notes": null,
+    "description": "Edgar Hill ist Mitte dreißig, und er hat sein Leben gründlich satt. Unzufrieden mit sich und seines Alltag als Angestellter, Familienvater und Eigenheimbesitzer weiß er nur eins: So kann es nicht weitergehen. Als das Ende kommt, kommt es von oben: Asteroideneinschläge verwüsten die Britischen Inseln. Städte, Straßen, Internet – all das gehört plötzlich der Vergangenheit an. Das Chaos ist gigantisch, die Katastrophe total. Edgar wird von seiner Familie getrennt und vor die größte Herausforderung seines Lebens gestellt: Will er Frau und Kinder jemals wiedersehen, muss er von Schottland nach Cornwall laufen, 500 Meilen durch ein sterbendes Land. Und er muss zu dem Mann werden, der er schon immer sein wollte."
+  },
+  {
+    "author": "Patterson, James (Palm Beach)",
+    "title": "Dead",
+    "date_read": "Sep. 2017",
+    "notes": null,
+    "description": "Ganz Washington, D.C., ist verstört und fasziniert von einem Serienmörder, der seine Taten wahrhaft spektakulär in Szene setzt. In einem Hochsicherheitsgefängnis plant währenddessen ein kriminelles Superhirn seine triumphale Rückkehr in die Freiheit. Und beide Killer haben nur einen Mann im Fadenkreuz: Den Profiler Alex Cross. Sie spielen Katz und Maus, eiskalt, rachsüchtig, medienwirksam. Sie sind diabolischer als je ein Täter zuvor. Und sie sind sich ihrer Sache sehr, sehr sicher... (Der 13. Fall mit Alex Cross)"
+  },
+  {
+    "author": "Winner, Jonas (Berlin)",
+    "title": "Die Zelle",
+    "date_read": "Sep. 2017",
+    "notes": null,
+    "description": "Sammy ist elf und gerade mit seinen Eltern nach Berlin gezogen. Im Luftschutzbunker der altern Jugendstilvilla in Grunewald macht er eine verstörende Entdeckung. Ein vollkommen verängstigtes Mädchen, nicht viel älter als er, ist dort unten in einer Zelle eingesperrt, die man mit Gummifolie ausgekleidet hat. Nur durch einen winzigen Schlitz hindurch kann er sie sehen. Am nächsten Tag ist die Zelle leer, das Mädchen verschwunden. Und für Sammy kann es dafür eigentlich nur einen Grund geben: seinen Vater."
+  },
+  {
+    "author": "Carrisi, Donato (Rom)",
+    "title": "Der Todesflüsterer",
+    "date_read": "Okt. 2017",
+    "notes": null,
+    "description": "In einer Waldlichtung bergen Spruensicherer menschliche Gliedmaßen: die Arme von sechs vermissten Mädchen. Für Profiler Goran Gavila und Sonderermittlerin Mila Vazques steht fest, dass sie es mit einem extrem kaltblütigen Serientäter zu tun haben. Aber sie ahnen noch nicht, wie perfide der gesichtslose Mörder zu Werke geht. Wie ein Marionettenspieler benutzt er andere dazu, seine grausamen Fantasien Wirklichkeit werden zu lassen..."
+  },
+  {
+    "author": "Pflüger, Andreas (Berlin)",
+    "title": "Entgültig",
+    "date_read": "Nov. 2017",
+    "notes": null,
+    "description": "Seit Jenny Aaron bei einem missglückten Einsatz vor fünf Jahren das Augenlicht verlor, arbeitet sie als Vernehmungsspezialistin beim BKA. Sie versteht es perfekt, zwischen den Worten zu tasten und das dahinter Verborgene zu erspüren. Als ihre früheren Berliner Kollegen sie bei einem Mordfall um Mithilfe bitten, wird Aaron jäh in ihre Vergangenheit gerissen: Reinhold Boenisch, für dessen Verurteilung sie als junge Polizistin sorgte, soll im Gefängnis eine Psychologin getötet haben. Aaron nimmt den Fall an und muss schon bald erkennen, dass Boenisch nur der Anfang ist - eine Schachfigur in einem Komplott. Nach und nach wird ihr offenbar, dass ihr bisheriges Leben eine einzige Vorbereitung auf die folgenden beiden Tage war. Um dieses Leben wird Aaron kämpfen müssen wie nie zuvor."
+  },
+  {
+    "author": "Jackson, Lisa (Oregon)",
+    "title": "Guilty; Doppelte Rache",
+    "date_read": "Nov. 2017",
+    "notes": null,
+    "description": "Als die Psychologin Brianna erfährt, dass die Zwillingstöchter ihrer Freundin spurlos verschwunden sind, weiß sie, dass sie handeln muss. Ihre eigene Zwillingsschwester, die sie vor langer Zeit unter mysteriösen Umständen verlor, warnt sie in ihren Träumen immer wieder vor IHM. Brianna ist überzeugt davon, dass der Einzundzwanziger-Killer wieder zugeschlagen hat und dass vor einigen Jahren, als der Killer in L.A. Mordete, ein Unschuldiger ins Gefängnis gebracht wurde. Aufgewühlt wendet sie sich an die Detectives Rick Bentz und Reuben Montoya und setzt sie unter Druck, den Fall noch einmal aufzurollen. Die Jagd beginnt. Erneut."
+  }
+]
