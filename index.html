@@ -29,6 +29,7 @@
             background: var(--background);
             color: var(--text-primary);
             line-height: 1.6;
+            overflow-x: hidden;
         }
 
         .hero {
@@ -81,6 +82,22 @@
             max-width: 1400px;
             margin: 0 auto;
             padding: 2rem;
+        }
+
+        .carousel-viewport {
+            height: 600px;
+            overflow: hidden;
+            position: relative;
+            display: flex;
+            align-items: center;
+            margin: 2rem 0;
+        }
+
+        .carousel-track {
+            position: absolute;
+            left: 50%;
+            display: flex;
+            align-items: center;
         }
 
         .search-filter-section {
@@ -198,19 +215,27 @@
         }
 
         .books-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 2rem;
+            display: flex;
+            gap: 3rem;
             margin-top: 2rem;
+            padding: 2rem 0;
+            position: relative;
+            transform: translateX(0);
+            transition: transform 0.1s ease-out;
+            will-change: transform;
         }
 
         .book-card {
             background: var(--surface);
             border-radius: 16px;
             overflow: hidden;
-            transition: all 0.3s ease;
+            transition: all 0.3s ease, opacity 0.3s ease;
             border: 1px solid var(--border);
             cursor: pointer;
+            flex-shrink: 0;
+            width: 320px;
+            opacity: 1;
+            will-change: opacity;
         }
 
         .book-card:hover {
@@ -460,9 +485,12 @@
                 font-size: 2rem;
             }
 
-            .books-grid {
-                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-                gap: 1.5rem;
+            .carousel-viewport {
+                height: 500px;
+            }
+
+            .book-card {
+                width: 250px;
             }
 
             .stats {
@@ -644,16 +672,25 @@
                 return;
             }
 
-            const grid = document.createElement('div');
-            grid.className = 'books-grid';
+            // Create carousel structure
+            const viewport = document.createElement('div');
+            viewport.className = 'carousel-viewport';
+
+            const track = document.createElement('div');
+            track.className = 'carousel-track books-grid';
+            track.id = 'carouselTrack';
 
             filteredBooks.forEach(book => {
                 const card = createBookCard(book);
-                grid.appendChild(card);
+                track.appendChild(card);
             });
 
+            viewport.appendChild(track);
             container.innerHTML = '';
-            container.appendChild(grid);
+            container.appendChild(viewport);
+
+            // Initialize carousel after render
+            initializeCarousel();
         }
 
         // Create book card
@@ -845,58 +882,120 @@
         });
 
         // Initialize scroll indicator
-        function initializeScrollIndicator() {
+        let carouselPosition = 0;
+        let currentCardIndex = 0;
+
+        function initializeCarousel() {
+            const track = document.getElementById('carouselTrack');
+            if (!track) return;
+
+            const cards = track.querySelectorAll('.book-card');
+            if (cards.length === 0) return;
+
+            // Card width + gap
+            const cardWidth = 320;
+            const gap = 48; // 3rem = 48px
+            const stepSize = cardWidth + gap;
+
+            // Update positions and opacity
+            function updateCarousel() {
+                track.style.transform = `translateX(${carouselPosition}px)`;
+
+                // Calculate viewport center
+                const viewportWidth = window.innerWidth;
+                const viewportCenter = viewportWidth / 2;
+
+                cards.forEach((card, index) => {
+                    // Calculate card position relative to viewport
+                    const cardLeft = carouselPosition + (index * stepSize);
+                    const cardCenter = cardLeft + cardWidth / 2;
+
+                    // Distance from viewport center
+                    const distanceFromCenter = Math.abs(cardCenter - viewportCenter);
+                    const fadeRange = viewportWidth / 2; // Fade over half viewport width
+
+                    // Calculate opacity (1 at center, 0 at edges)
+                    let opacity = 1 - (distanceFromCenter / fadeRange);
+                    opacity = Math.max(0, Math.min(1, opacity));
+
+                    card.style.opacity = opacity;
+                });
+
+                // Update current card index (closest to center)
+                let closestIndex = 0;
+                let minDistance = Infinity;
+
+                cards.forEach((card, index) => {
+                    const cardLeft = carouselPosition + (index * stepSize);
+                    const cardCenter = cardLeft + cardWidth / 2;
+                    const distance = Math.abs(cardCenter - viewportCenter);
+
+                    if (distance < minDistance) {
+                        minDistance = distance;
+                        closestIndex = index;
+                    }
+                });
+
+                currentCardIndex = closestIndex;
+                updateScrollIndicator();
+            }
+
+            // Handle wheel events - convert vertical scroll to horizontal movement
+            let isScrolling = false;
+            const viewport = track.closest('.carousel-viewport');
+
+            viewport.addEventListener('wheel', (e) => {
+                e.preventDefault();
+
+                // Move carousel based on scroll delta
+                const scrollAmount = e.deltaY * 2;
+                carouselPosition -= scrollAmount;
+
+                // Constrain position (don't scroll past ends)
+                const maxScroll = 0;
+                const minScroll = -(stepSize * (cards.length - 1));
+                carouselPosition = Math.max(minScroll, Math.min(maxScroll, carouselPosition));
+
+                updateCarousel();
+
+                // Show scroll indicator
+                showScrollIndicator();
+            }, { passive: false });
+
+            // Initial render
+            updateCarousel();
+        }
+
+        function showScrollIndicator() {
             const indicator = document.getElementById('scrollIndicator');
+            indicator.classList.add('visible');
+
+            clearTimeout(window.scrollIndicatorTimeout);
+            window.scrollIndicatorTimeout = setTimeout(() => {
+                indicator.classList.remove('visible');
+            }, 2000);
+        }
+
+        function updateScrollIndicator() {
             const dateDisplay = document.getElementById('currentDate');
             const progressFill = document.getElementById('scrollProgress');
             const months = ['Jan', 'Feb', 'Mär', 'Apr', 'Mai', 'Jun',
                           'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez'];
 
-            let hideTimeout;
+            const book = filteredBooks[currentCardIndex];
+            if (book && book.year) {
+                const monthStr = book.month ? months[book.month - 1] + ' ' : '';
+                dateDisplay.textContent = `${monthStr}${book.year}`;
+            }
 
-            window.addEventListener('scroll', () => {
-                const bookCards = document.querySelectorAll('.book-card');
-                if (bookCards.length === 0) return;
+            // Update progress bar
+            const progress = (currentCardIndex / (filteredBooks.length - 1)) * 100;
+            progressFill.style.width = `${progress}%`;
+        }
 
-                // Show indicator
-                indicator.classList.add('visible');
-                clearTimeout(hideTimeout);
-
-                // Find which book is currently in the center of viewport
-                const viewportCenter = window.innerHeight / 2 + window.scrollY;
-                let closestCard = null;
-                let closestDistance = Infinity;
-
-                bookCards.forEach(card => {
-                    const cardRect = card.getBoundingClientRect();
-                    const cardCenter = cardRect.top + window.scrollY + cardRect.height / 2;
-                    const distance = Math.abs(cardCenter - viewportCenter);
-
-                    if (distance < closestDistance) {
-                        closestDistance = distance;
-                        closestCard = card;
-                    }
-                });
-
-                if (closestCard) {
-                    const index = Array.from(bookCards).indexOf(closestCard);
-                    const book = filteredBooks[index];
-
-                    if (book && book.year) {
-                        const monthStr = book.month ? months[book.month - 1] + ' ' : '';
-                        dateDisplay.textContent = `${monthStr}${book.year}`;
-                    }
-
-                    // Update progress bar
-                    const progress = (index / (bookCards.length - 1)) * 100;
-                    progressFill.style.width = `${progress}%`;
-                }
-
-                // Hide indicator after 2 seconds of no scrolling
-                hideTimeout = setTimeout(() => {
-                    indicator.classList.remove('visible');
-                }, 2000);
-            });
+        function initializeScrollIndicator() {
+            // This function is now integrated into the carousel
+            // Keeping it for compatibility but it's handled by updateScrollIndicator
         }
 
         // Load books on page load
