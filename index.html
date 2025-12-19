@@ -116,33 +116,125 @@
             box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
         }
 
-        .filter-chips {
-            display: flex;
-            gap: 0.75rem;
-            flex-wrap: wrap;
+        .date-slider-container {
+            margin-top: 1.5rem;
         }
 
-        .chip {
+        .slider-label {
+            display: block;
+            font-size: 0.95rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        .slider-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            position: relative;
+        }
+
+        .date-label {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            min-width: 50px;
+            text-align: center;
+        }
+
+        .date-slider {
+            flex: 1;
+            height: 8px;
+            border-radius: 5px;
+            background: var(--surface-light);
+            outline: none;
+            -webkit-appearance: none;
+            cursor: pointer;
+        }
+
+        .date-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: var(--primary);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .date-slider::-webkit-slider-thumb:hover {
+            background: var(--accent);
+            transform: scale(1.2);
+        }
+
+        .date-slider::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: var(--primary);
+            cursor: pointer;
+            border: none;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .date-slider::-moz-range-thumb:hover {
+            background: var(--accent);
+            transform: scale(1.2);
+        }
+
+        .slider-tooltip {
+            position: absolute;
+            background: var(--primary);
+            color: white;
             padding: 0.5rem 1rem;
-            border-radius: 20px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+            top: -40px;
+            left: 50%;
+            transform: translateX(-50%);
+            white-space: nowrap;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .slider-tooltip::after {
+            content: '';
+            position: absolute;
+            bottom: -6px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0;
+            height: 0;
+            border-left: 6px solid transparent;
+            border-right: 6px solid transparent;
+            border-top: 6px solid var(--primary);
+        }
+
+        .slider-tooltip.visible {
+            opacity: 1;
+        }
+
+        .reset-button {
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
             border: 2px solid var(--border);
             background: var(--surface-light);
             color: var(--text-primary);
             cursor: pointer;
-            transition: all 0.3s ease;
             font-size: 0.9rem;
-            font-weight: 500;
+            transition: all 0.3s ease;
         }
 
-        .chip:hover {
+        .reset-button:hover {
             border-color: var(--primary);
             background: var(--primary);
-            transform: translateY(-2px);
-        }
-
-        .chip.active {
-            background: var(--primary);
-            border-color: var(--primary);
             color: white;
         }
 
@@ -454,7 +546,16 @@
                     placeholder="🔍 Nach Titel oder Autor suchen..."
                 >
             </div>
-            <div class="filter-chips" id="authorFilters"></div>
+            <div class="date-slider-container">
+                <label for="dateSlider" class="slider-label">📅 Zeitraum filtern</label>
+                <div class="slider-wrapper">
+                    <span id="minDateLabel" class="date-label">2006</span>
+                    <input type="range" id="dateSlider" class="date-slider" min="0" max="100" value="0">
+                    <span id="maxDateLabel" class="date-label">2025</span>
+                </div>
+                <div id="sliderTooltip" class="slider-tooltip"></div>
+                <button id="resetSlider" class="reset-button">Alle Jahre anzeigen</button>
+            </div>
         </div>
 
         <div id="booksContainer">
@@ -473,7 +574,8 @@
     <script>
         let allBooks = [];
         let filteredBooks = [];
-        let selectedAuthor = null;
+        let selectedDateRange = null;
+        let allDates = [];
 
         // Load books data
         async function loadBooks() {
@@ -483,8 +585,17 @@
                 allBooks = await response.json();
                 filteredBooks = allBooks;
 
+                // Build date array
+                allDates = allBooks
+                    .filter(b => b.year)
+                    .map(b => ({ year: b.year, month: b.month || 1 }))
+                    .sort((a, b) => {
+                        if (a.year !== b.year) return a.year - b.year;
+                        return a.month - b.month;
+                    });
+
                 updateStats();
-                createAuthorFilters();
+                initializeDateSlider();
                 renderBooks();
             } catch (error) {
                 document.getElementById('booksContainer').innerHTML =
@@ -509,47 +620,62 @@
             document.getElementById('yearRange').textContent = `${minYear}-${maxYear}`;
         }
 
-        // Create author filter chips
-        function createAuthorFilters() {
-            const authorCounts = {};
-            allBooks.forEach(book => {
-                authorCounts[book.author] = (authorCounts[book.author] || 0) + 1;
+        // Initialize date slider
+        function initializeDateSlider() {
+            if (allDates.length === 0) return;
+
+            const slider = document.getElementById('dateSlider');
+            const tooltip = document.getElementById('sliderTooltip');
+            const minLabel = document.getElementById('minDateLabel');
+            const maxLabel = document.getElementById('maxDateLabel');
+            const resetBtn = document.getElementById('resetSlider');
+
+            const minDate = allDates[0];
+            const maxDate = allDates[allDates.length - 1];
+
+            minLabel.textContent = minDate.year;
+            maxLabel.textContent = maxDate.year;
+
+            slider.max = allDates.length - 1;
+            slider.value = allDates.length - 1;
+
+            // Slider interaction
+            slider.addEventListener('input', (e) => {
+                const index = parseInt(e.target.value);
+                const date = allDates[index];
+
+                // Update tooltip
+                const months = ['Jan', 'Feb', 'Mär', 'Apr', 'Mai', 'Jun',
+                              'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez'];
+                tooltip.textContent = `${months[date.month - 1]} ${date.year}`;
+                tooltip.classList.add('visible');
+
+                // Position tooltip
+                const percent = (index / (allDates.length - 1)) * 100;
+                const sliderRect = slider.getBoundingClientRect();
+                const tooltipX = sliderRect.left + (sliderRect.width * percent / 100);
+                tooltip.style.left = `${tooltipX - sliderRect.left}px`;
+
+                // Filter books
+                selectedDateRange = { year: date.year, month: date.month };
+                applyFilters();
             });
 
-            const topAuthors = Object.entries(authorCounts)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 10);
-
-            const filtersContainer = document.getElementById('authorFilters');
-
-            // Add "All" chip
-            const allChip = document.createElement('div');
-            allChip.className = 'chip active';
-            allChip.textContent = `Alle Autoren`;
-            allChip.onclick = () => filterByAuthor(null);
-            filtersContainer.appendChild(allChip);
-
-            // Add top author chips
-            topAuthors.forEach(([author, count]) => {
-                const chip = document.createElement('div');
-                chip.className = 'chip';
-                chip.textContent = `${author} (${count})`;
-                chip.onclick = () => filterByAuthor(author);
-                filtersContainer.appendChild(chip);
+            slider.addEventListener('mouseup', () => {
+                setTimeout(() => tooltip.classList.remove('visible'), 500);
             });
-        }
 
-        // Filter by author
-        function filterByAuthor(author) {
-            selectedAuthor = author;
-
-            // Update active chip
-            document.querySelectorAll('.chip').forEach(chip => {
-                chip.classList.remove('active');
+            slider.addEventListener('touchend', () => {
+                setTimeout(() => tooltip.classList.remove('visible'), 500);
             });
-            event.target.classList.add('active');
 
-            applyFilters();
+            // Reset button
+            resetBtn.addEventListener('click', () => {
+                slider.value = allDates.length - 1;
+                selectedDateRange = null;
+                tooltip.classList.remove('visible');
+                applyFilters();
+            });
         }
 
         // Search functionality
@@ -566,9 +692,11 @@
                     book.title.toLowerCase().includes(searchTerm) ||
                     book.author.toLowerCase().includes(searchTerm);
 
-                const matchesAuthor = !selectedAuthor || book.author === selectedAuthor;
+                const matchesDate = !selectedDateRange ||
+                    (book.year < selectedDateRange.year ||
+                     (book.year === selectedDateRange.year && (book.month || 1) <= selectedDateRange.month));
 
-                return matchesSearch && matchesAuthor;
+                return matchesSearch && matchesDate;
             });
 
             renderBooks();
