@@ -460,8 +460,9 @@
             font-weight: 600;
             pointer-events: none;
             white-space: nowrap;
-            transition: left 0.05s ease-out;
+            transition: left 0.05s ease-out, transform 0.05s ease-out;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+            transform: translateX(-50%);
         }
 
         .year-label::after {
@@ -476,7 +477,7 @@
         }
 
         .year-label-min {
-            bottom: 60px;
+            bottom: 65px;
         }
 
         .year-label-min::after {
@@ -485,7 +486,7 @@
         }
 
         .year-label-max {
-            top: 60px;
+            top: 65px;
         }
 
         .year-label-max::after {
@@ -784,10 +785,9 @@
                 minYearLabel.textContent = selectedMinYear;
                 maxYearLabel.textContent = selectedMaxYear;
 
-                // Position labels centered on knobs
-                const labelWidth = 50; // Approximate width of label
-                minYearLabel.style.left = `calc(${percentMin}% - ${labelWidth / 2}px)`;
-                maxYearLabel.style.left = `calc(${percentMax}% - ${labelWidth / 2}px)`;
+                // Position labels centered on knobs (transform: translateX(-50%) handles the centering)
+                minYearLabel.style.left = `${percentMin}%`;
+                maxYearLabel.style.left = `${percentMax}%`;
 
                 // Apply filters
                 applyFilters();
