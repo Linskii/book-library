@@ -579,7 +579,6 @@
                 filteredBooks = allBooks;
 
                 updateStats();
-                createAuthorFilters();
                 renderBooks();
             } catch (error) {
                 document.getElementById('booksContainer').innerHTML =
@@ -604,48 +603,6 @@
             document.getElementById('yearRange').textContent = `${minYear}-${maxYear}`;
         }
 
-        // Create author filter chips
-        function createAuthorFilters() {
-            const authorCounts = {};
-            allBooks.forEach(book => {
-                authorCounts[book.author] = (authorCounts[book.author] || 0) + 1;
-            });
-
-            const topAuthors = Object.entries(authorCounts)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 10);
-
-            const filtersContainer = document.getElementById('authorFilters');
-
-            // Add "All" chip
-            const allChip = document.createElement('div');
-            allChip.className = 'chip active';
-            allChip.textContent = `Alle Autoren`;
-            allChip.onclick = () => filterByAuthor(null);
-            filtersContainer.appendChild(allChip);
-
-            // Add top author chips
-            topAuthors.forEach(([author, count]) => {
-                const chip = document.createElement('div');
-                chip.className = 'chip';
-                chip.textContent = `${author} (${count})`;
-                chip.onclick = () => filterByAuthor(author);
-                filtersContainer.appendChild(chip);
-            });
-        }
-
-        // Filter by author
-        function filterByAuthor(author) {
-            selectedAuthor = author;
-
-            // Update active chip
-            document.querySelectorAll('.chip').forEach(chip => {
-                chip.classList.remove('active');
-            });
-            event.target.classList.add('active');
-
-            applyFilters();
-        }
 
         // Search functionality
         document.getElementById('searchInput').addEventListener('input', (e) => {
@@ -661,9 +618,7 @@
                     book.title.toLowerCase().includes(searchTerm) ||
                     book.author.toLowerCase().includes(searchTerm);
 
-                const matchesAuthor = !selectedAuthor || book.author === selectedAuthor;
-
-                return matchesSearch && matchesAuthor;
+                return matchesSearch;
             });
 
             renderBooks();
