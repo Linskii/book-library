@@ -774,9 +774,11 @@
                     selectedMaxYear = maxVal;
                 }
 
-                // Update visual range bar
+                // Calculate percentages for the value position
                 const percentMin = ((selectedMinYear - minYear) / (maxYear - minYear)) * 100;
                 const percentMax = ((selectedMaxYear - minYear) / (maxYear - minYear)) * 100;
+
+                // Update visual range bar
                 sliderRange.style.left = percentMin + '%';
                 sliderRange.style.width = (percentMax - percentMin) + '%';
 
@@ -784,10 +786,31 @@
                 minYearLabel.textContent = selectedMinYear;
                 maxYearLabel.textContent = selectedMaxYear;
 
-                // Position labels centered on knobs
-                minYearLabel.style.left = `${percentMin}%`;
+                // Calculate thumb position accounting for browser's thumb positioning algorithm
+                // Browsers position thumbs so that:
+                // - At min value (0%), the thumb center is offset from the left edge by thumb radius
+                // - At max value (100%), the thumb center is offset from the right edge by thumb radius
+                // This creates an effective range that's slightly smaller than the full width
+
+                const sliderWidth = minSlider.offsetWidth;
+                const thumbWidth = 20; // matches the CSS thumb width
+                const thumbRadius = thumbWidth / 2;
+
+                // The effective slider range (where thumb centers can be)
+                const effectiveWidth = sliderWidth - thumbWidth;
+
+                // Calculate pixel position from left edge
+                const minThumbCenter = thumbRadius + (effectiveWidth * percentMin / 100);
+                const maxThumbCenter = thumbRadius + (effectiveWidth * percentMax / 100);
+
+                // Convert back to percentage of total width
+                const adjustedPercentMin = (minThumbCenter / sliderWidth) * 100;
+                const adjustedPercentMax = (maxThumbCenter / sliderWidth) * 100;
+
+                // Position labels centered on thumb positions
+                minYearLabel.style.left = `${adjustedPercentMin}%`;
                 minYearLabel.style.transform = 'translateX(-50%)';
-                maxYearLabel.style.left = `${percentMax}%`;
+                maxYearLabel.style.left = `${adjustedPercentMax}%`;
                 maxYearLabel.style.transform = 'translateX(-50%)';
 
                 // Apply filters
