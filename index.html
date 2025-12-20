@@ -1073,22 +1073,29 @@
 
             // Momentum scrolling with smooth velocity decay
             function applyMomentum() {
-                // Adjust friction based on velocity - higher velocity = less friction initially
-                const baseFriction = 0.92;
-                const minVelocity = 0.1;
+                // ===== TUNABLE PARAMETERS =====
+                const velocityMultiplier = 2.5;  // Initial velocity boost (higher = more responsive to flicks)
+                const friction = 0.88;            // Base friction per frame (lower = slower decay, 0.85-0.95 recommended)
+                const minVelocity = 0.3;          // Stop threshold (lower = slides longer before stopping, 0.1-0.5 recommended)
+                const stopBoost = 0.15;           // Extra friction when slow (higher = stops faster at low speed, 0.1-0.3 recommended)
+                // ==============================
 
-                // Amplify the velocity for a more dramatic effect
-                velocity *= 2.5;
+                // Amplify the initial velocity
+                velocity *= velocityMultiplier;
 
                 function momentumStep() {
                     if (Math.abs(velocity) > minVelocity) {
-                        // Dynamic friction - slows down more as velocity decreases
-                        const dynamicFriction = baseFriction + (1 - baseFriction) * (1 - Math.min(Math.abs(velocity) / 20, 1));
+                        // Apply base friction
+                        velocity *= friction;
+
+                        // Add extra deceleration when moving slowly to avoid asymptotic crawl
+                        // This creates a "snap to stop" effect at low velocities
+                        const slowdownFactor = 1 - Math.min(Math.abs(velocity) / 10, 1);
+                        velocity *= (1 - stopBoost * slowdownFactor * slowdownFactor);
 
                         scrollLeft -= velocity * 8;
                         scrollLeft = Math.max(0, Math.min(scrollLeft, carousel.scrollWidth - container.offsetWidth));
                         carousel.style.transform = `translateX(-${scrollLeft}px)`;
-                        velocity *= dynamicFriction;
                         animationFrame = requestAnimationFrame(momentumStep);
                     } else {
                         carousel.style.transition = 'transform 0.3s ease-out';
