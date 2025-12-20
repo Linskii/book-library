@@ -457,26 +457,28 @@
 
         .close-modal {
             position: absolute;
-            top: 2rem;
-            right: 2rem;
+            top: 1rem;
+            right: 1rem;
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            background: var(--surface-light);
-            border: 2px solid var(--border);
-            color: var(--text-primary);
+            background: rgba(139, 58, 70, 0.9);
+            border: 2px solid rgba(139, 58, 70, 1);
+            color: #fff;
             font-size: 1.5rem;
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
             transition: all 0.3s ease;
+            z-index: 10;
         }
 
         .close-modal:hover {
-            background: var(--primary);
-            border-color: var(--primary);
-            transform: rotate(90deg);
+            background: rgba(169, 74, 89, 1);
+            border-color: rgba(169, 74, 89, 1);
+            transform: rotate(90deg) scale(1.1);
+            box-shadow: 0 4px 12px rgba(139, 58, 70, 0.5);
         }
 
         .carousel-hint {
@@ -635,10 +637,11 @@
             }
 
             .close-modal {
-                top: 1rem;
-                right: 1rem;
+                top: 0.75rem;
+                right: 0.75rem;
                 width: 36px;
                 height: 36px;
+                font-size: 1.25rem;
             }
         }
     </style>
