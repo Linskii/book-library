@@ -1075,9 +1075,9 @@
             function applyMomentum() {
                 // ===== TUNABLE PARAMETERS =====
                 const velocityMultiplier = 2.5;  // Initial velocity boost (higher = more responsive to flicks)
-                const friction = 0.6;            // Base friction per frame (lower = slower decay, 0.85-0.95 recommended)
-                const minVelocity = 0.1;          // Stop threshold (lower = slides longer before stopping, 0.1-0.5 recommended)
-                const stopBoost = 0.15;           // Extra friction when slow (higher = stops faster at low speed, 0.1-0.3 recommended)
+                const friction = 0.1;            // Base friction per frame (lower = slower decay, 0.85-0.95 recommended)
+                const minVelocity = 0.001;          // Stop threshold (lower = slides longer before stopping, 0.1-0.5 recommended)
+                const stopBoost = 0.01;           // Extra friction when slow (higher = stops faster at low speed, 0.1-0.3 recommended)
                 // ==============================
 
                 // Amplify the initial velocity
