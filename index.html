@@ -1074,10 +1074,10 @@
             // Momentum scrolling with smooth velocity decay
             function applyMomentum() {
                 // ===== TUNABLE PARAMETERS =====
-                const velocityMultiplier = 2.5;  // Initial velocity boost (higher = more responsive to flicks)
-                const friction = 0.1;            // Base friction per frame (lower = slower decay, 0.85-0.95 recommended)
-                const minVelocity = 0.001;          // Stop threshold (lower = slides longer before stopping, 0.1-0.5 recommended)
-                const stopBoost = 0.01;           // Extra friction when slow (higher = stops faster at low speed, 0.1-0.3 recommended)
+                const velocityMultiplier = 3.0;  // Initial velocity boost (higher = more responsive to flicks, try 2.0-4.0)
+                const friction = 0.94;            // Base friction per frame (HIGHER = keeps velocity longer! 0.90-0.97 recommended)
+                const minVelocity = 0.5;          // Stop threshold (higher = snaps to stop earlier, try 0.3-0.8)
+                const stopBoost = 0.08;           // Extra friction when slow (higher = stops faster at low speed, try 0.05-0.15)
                 // ==============================
 
                 // Amplify the initial velocity
@@ -1085,7 +1085,7 @@
 
                 function momentumStep() {
                     if (Math.abs(velocity) > minVelocity) {
-                        // Apply base friction
+                        // Apply base friction (this KEEPS velocity - higher number = less friction!)
                         velocity *= friction;
 
                         // Add extra deceleration when moving slowly to avoid asymptotic crawl
