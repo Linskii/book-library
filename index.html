@@ -444,22 +444,53 @@
             margin-top: 1.5rem;
         }
 
-        .year-slider-label {
-            font-size: 0.9rem;
-            color: var(--text-secondary);
-            margin-bottom: 1rem;
-            text-align: center;
-        }
-
-        .year-range-display {
-            font-weight: 600;
-            color: var(--primary);
-        }
-
         .slider-container {
             position: relative;
-            height: 50px;
-            margin: 0 1rem;
+            height: 100px;
+            margin: 2rem 1rem;
+        }
+
+        .year-label {
+            position: absolute;
+            background: white;
+            color: var(--background);
+            padding: 0.5rem 0.75rem;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            pointer-events: none;
+            white-space: nowrap;
+            transition: left 0.05s ease-out;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .year-label::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0;
+            height: 0;
+            border-left: 6px solid transparent;
+            border-right: 6px solid transparent;
+        }
+
+        .year-label-min {
+            bottom: 60px;
+        }
+
+        .year-label-min::after {
+            top: 100%;
+            border-top: 6px solid white;
+        }
+
+        .year-label-max {
+            top: 60px;
+        }
+
+        .year-label-max::after {
+            bottom: 100%;
+            border-bottom: 6px solid white;
         }
 
         .slider-track {
@@ -629,10 +660,9 @@
             </div>
 
             <div class="year-slider-section">
-                <div class="year-slider-label">
-                    Zeitraum: <span class="year-range-display" id="yearRangeDisplay">2006-2025</span>
-                </div>
                 <div class="slider-container">
+                    <div class="year-label year-label-min" id="minYearLabel">2006</div>
+                    <div class="year-label year-label-max" id="maxYearLabel">2025</div>
                     <div class="slider-track"></div>
                     <div class="slider-range" id="sliderRange"></div>
                     <input type="range" id="minYearSlider" class="slider-input" min="2006" max="2025" value="2006" step="1">
@@ -713,7 +743,8 @@
             const minSlider = document.getElementById('minYearSlider');
             const maxSlider = document.getElementById('maxYearSlider');
             const sliderRange = document.getElementById('sliderRange');
-            const yearDisplay = document.getElementById('yearRangeDisplay');
+            const minYearLabel = document.getElementById('minYearLabel');
+            const maxYearLabel = document.getElementById('maxYearLabel');
 
             // Set slider min/max
             minSlider.min = minYear;
@@ -749,8 +780,14 @@
                 sliderRange.style.left = percentMin + '%';
                 sliderRange.style.width = (percentMax - percentMin) + '%';
 
-                // Update display
-                yearDisplay.textContent = `${selectedMinYear}-${selectedMaxYear}`;
+                // Update year labels position and text
+                minYearLabel.textContent = selectedMinYear;
+                maxYearLabel.textContent = selectedMaxYear;
+
+                // Position labels centered on knobs
+                const labelWidth = 50; // Approximate width of label
+                minYearLabel.style.left = `calc(${percentMin}% - ${labelWidth / 2}px)`;
+                maxYearLabel.style.left = `calc(${percentMax}% - ${labelWidth / 2}px)`;
 
                 // Apply filters
                 applyFilters();
