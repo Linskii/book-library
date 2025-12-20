@@ -487,6 +487,94 @@
             opacity: 0.7;
         }
 
+        .year-slider-section {
+            margin-top: 1.5rem;
+        }
+
+        .year-slider-label {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+
+        .year-range-display {
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        .slider-container {
+            position: relative;
+            height: 50px;
+            margin: 0 1rem;
+        }
+
+        .slider-track {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 100%;
+            height: 6px;
+            background: var(--surface-light);
+            border-radius: 3px;
+        }
+
+        .slider-range {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            height: 6px;
+            background: linear-gradient(90deg, var(--primary), var(--accent));
+            border-radius: 3px;
+        }
+
+        .slider-input {
+            position: absolute;
+            width: 100%;
+            height: 6px;
+            top: 50%;
+            transform: translateY(-50%);
+            pointer-events: none;
+            -webkit-appearance: none;
+            background: transparent;
+        }
+
+        .slider-input::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: var(--primary);
+            cursor: pointer;
+            pointer-events: all;
+            border: 3px solid var(--background);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+            transition: all 0.2s ease;
+        }
+
+        .slider-input::-webkit-slider-thumb:hover {
+            transform: scale(1.2);
+            background: var(--accent);
+        }
+
+        .slider-input::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: var(--primary);
+            cursor: pointer;
+            pointer-events: all;
+            border: 3px solid var(--background);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+            transition: all 0.2s ease;
+        }
+
+        .slider-input::-moz-range-thumb:hover {
+            transform: scale(1.2);
+            background: var(--accent);
+        }
+
         @media (max-width: 768px) {
             .hero h1 {
                 font-size: 2rem;
@@ -540,6 +628,18 @@
                     placeholder="🔍 Nach Titel oder Autor suchen..."
                 >
             </div>
+
+            <div class="year-slider-section">
+                <div class="year-slider-label">
+                    Zeitraum: <span class="year-range-display" id="yearRangeDisplay">2006-2025</span>
+                </div>
+                <div class="slider-container">
+                    <div class="slider-track"></div>
+                    <div class="slider-range" id="sliderRange"></div>
+                    <input type="range" id="minYearSlider" class="slider-input" min="2006" max="2025" value="2006" step="1">
+                    <input type="range" id="maxYearSlider" class="slider-input" min="2006" max="2025" value="2025" step="1">
+                </div>
+            </div>
         </div>
 
         <div id="booksContainer">
@@ -569,6 +669,10 @@
         let allBooks = [];
         let filteredBooks = [];
         let selectedAuthor = null;
+        let minYear = 2006;
+        let maxYear = 2025;
+        let selectedMinYear = 2006;
+        let selectedMaxYear = 2025;
 
         // Load books data
         async function loadBooks() {
@@ -593,14 +697,19 @@
                 .filter(b => b.year)
                 .map(b => b.year);
 
-            const minYear = Math.min(...years);
-            const maxYear = Math.max(...years);
+            minYear = Math.min(...years);
+            maxYear = Math.max(...years);
+            selectedMinYear = minYear;
+            selectedMaxYear = maxYear;
 
             const uniqueAuthors = new Set(allBooks.map(b => b.author)).size;
 
             document.getElementById('totalBooks').textContent = allBooks.length;
             document.getElementById('totalAuthors').textContent = uniqueAuthors;
             document.getElementById('yearRange').textContent = `${minYear}-${maxYear}`;
+
+            // Initialize year sliders
+            initializeYearSlider();
         }
 
 
@@ -608,6 +717,61 @@
         document.getElementById('searchInput').addEventListener('input', (e) => {
             applyFilters();
         });
+
+        // Initialize year slider
+        function initializeYearSlider() {
+            const minSlider = document.getElementById('minYearSlider');
+            const maxSlider = document.getElementById('maxYearSlider');
+            const sliderRange = document.getElementById('sliderRange');
+            const yearDisplay = document.getElementById('yearRangeDisplay');
+
+            // Set slider min/max
+            minSlider.min = minYear;
+            minSlider.max = maxYear;
+            minSlider.value = minYear;
+            maxSlider.min = minYear;
+            maxSlider.max = maxYear;
+            maxSlider.value = maxYear;
+
+            // Update range display
+            function updateSliderRange() {
+                const minVal = parseInt(minSlider.value);
+                const maxVal = parseInt(maxSlider.value);
+
+                // Prevent overlap
+                if (minVal > maxVal) {
+                    minSlider.value = maxVal;
+                    selectedMinYear = maxVal;
+                } else {
+                    selectedMinYear = minVal;
+                }
+
+                if (maxVal < minVal) {
+                    maxSlider.value = minVal;
+                    selectedMaxYear = minVal;
+                } else {
+                    selectedMaxYear = maxVal;
+                }
+
+                // Update visual range bar
+                const percentMin = ((selectedMinYear - minYear) / (maxYear - minYear)) * 100;
+                const percentMax = ((selectedMaxYear - minYear) / (maxYear - minYear)) * 100;
+                sliderRange.style.left = percentMin + '%';
+                sliderRange.style.width = (percentMax - percentMin) + '%';
+
+                // Update display
+                yearDisplay.textContent = `${selectedMinYear}-${selectedMaxYear}`;
+
+                // Apply filters
+                applyFilters();
+            }
+
+            minSlider.addEventListener('input', updateSliderRange);
+            maxSlider.addEventListener('input', updateSliderRange);
+
+            // Initial range display
+            updateSliderRange();
+        }
 
         // Apply all filters
         function applyFilters() {
@@ -618,7 +782,9 @@
                     book.title.toLowerCase().includes(searchTerm) ||
                     book.author.toLowerCase().includes(searchTerm);
 
-                return matchesSearch;
+                const matchesYear = !book.year || (book.year >= selectedMinYear && book.year <= selectedMaxYear);
+
+                return matchesSearch && matchesYear;
             });
 
             renderBooks();
