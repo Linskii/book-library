@@ -462,8 +462,6 @@
             white-space: nowrap;
             transition: left 0.05s ease-out;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-            left: 50%;
-            transform: translateX(-50%);
         }
 
         .year-label::after {
@@ -786,9 +784,11 @@
                 minYearLabel.textContent = selectedMinYear;
                 maxYearLabel.textContent = selectedMaxYear;
 
-                // Position labels centered on knobs (transform: translateX(-50%) handles the centering)
+                // Position labels centered on knobs
                 minYearLabel.style.left = `${percentMin}%`;
+                minYearLabel.style.transform = 'translateX(-50%)';
                 maxYearLabel.style.left = `${percentMax}%`;
+                maxYearLabel.style.transform = 'translateX(-50%)';
 
                 // Apply filters
                 applyFilters();
