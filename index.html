@@ -815,7 +815,19 @@
                 return matchesSearch && matchesYear;
             });
 
+            // Update statistics based on filtered books
+            updateFilteredStats();
+
             renderBooks();
+        }
+
+        // Update statistics based on filtered books
+        function updateFilteredStats() {
+            const uniqueAuthors = new Set(filteredBooks.map(b => b.author)).size;
+
+            document.getElementById('totalBooks').textContent = filteredBooks.length;
+            document.getElementById('totalAuthors').textContent = uniqueAuthors;
+            document.getElementById('yearRange').textContent = `${selectedMinYear}-${selectedMaxYear}`;
         }
 
         // Render books
